@@ -1,0 +1,2 @@
+2026-05-20 15:21:50,641 INFO Starting Redundancy Drift pilot run_id=20260520_152150
+2026-05-20 15:46:11,384 INFO Done. Wrote <project_root>\data\runs\pilot_20260520_152150\metrics\semantic_metrics.csv, <project_root>\data\runs\pilot_20260520_152150\metrics\structural_metrics.csv, <project_root>\data\runs\pilot_20260520_152150\metrics\context_metrics.csv, <project_root>\data\runs\pilot_20260520_152150\metrics\variance_metrics.csv

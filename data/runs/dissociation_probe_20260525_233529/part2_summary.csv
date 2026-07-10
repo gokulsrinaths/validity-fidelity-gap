@@ -1,0 +1,2 @@
+n_patients,mean_recall_structured_1x,mean_recall_structured_16x,mean_recall_freeform_probe,mean_gap_freeform_minus_structured
+30,0.8333333333333334,0.4,0.9666666666666667,0.5666666666666667

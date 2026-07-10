@@ -1,0 +1,43 @@
+{
+  "patient_id": "patient_05",
+  "conditions": [
+    "Heart failure with reduced ejection fraction (HFrEF)",
+    "Atrial fibrillation"
+  ],
+  "medications": [
+    {
+      "name": "Furosemide",
+      "dosage": "40 mg",
+      "frequency": "daily",
+      "route": "PO"
+    },
+    {
+      "name": "Metoprolol succinate",
+      "dosage": "50 mg",
+      "frequency": "daily",
+      "route": "PO"
+    },
+    {
+      "name": "Apixaban",
+      "dosage": "5 mg",
+      "frequency": "BID",
+      "route": "PO"
+    }
+  ],
+  "observations": [
+    {
+      "name": "BNP",
+      "value": "820 pg/mL"
+    },
+    {
+      "name": "HR",
+      "value": "110 bpm irregular"
+    }
+  ],
+  "procedures": [
+    {
+      "name": "Electrical cardioversion",
+      "date": "2026-04-22"
+    }
+  ]
+}

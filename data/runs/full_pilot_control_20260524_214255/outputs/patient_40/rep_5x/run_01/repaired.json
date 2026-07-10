@@ -1,0 +1,18 @@
+{
+  "patient_id": "patient_40",
+  "conditions": [
+    "Acute kidney injury (pre-renal)",
+    "Dehydration"
+  ],
+  "medications": [
+    "Normal saline IV fluids",
+    "Ondansetron 4 mg ODT q8h PRN nausea"
+  ],
+  "observations": [
+    "Creatinine 2.1 mg/dL on admission, improved to 1.4 mg/dL at discharge",
+    "BUN 38 mg/dL"
+  ],
+  "procedures": [
+    "IV fluid resuscitation"
+  ]
+}

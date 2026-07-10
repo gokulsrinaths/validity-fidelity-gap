@@ -1,0 +1,171 @@
+Extract all medical information from the document into this EXACT schema:
+
+{
+"patient_id": "",
+"conditions": [],
+"medications": [],
+"observations": [],
+"procedures": []
+}
+
+Rules:
+
+* Return ONLY valid JSON
+* Do not wrap in markdown
+* Do not add extra keys
+* Do not rename fields
+* Arrays must always exist
+* If empty, use []
+
+Document:
+DISCHARGE SUMMARY FOR OMAR HADDAD, MRN 008-33009
+Omar Haddad, a 77-year-old male, was admitted on February 28, 2026, and discharged on March 3, 2026.
+DIAGNOSTIC SUMMARY
+The patient was diagnosed with community-acquired pneumonia and chronic obstructive pulmonary disease
+(COPD).
+IMAGING STUDIES
+A chest X-ray revealed a right lower lobe infiltrate.
+MEDICATION REGIMEN
+The patient was prescribed azithromycin 500 mg orally on day one, followed by 250 mg daily for days two
+through five. Additionally, prednisone 40 mg orally was administered daily for five days. The patient was
+also instructed to use a tiotropium inhaler, inhaling two puffs twice daily.
+VITAL SIGN OBSERVATIONS
+The patient's oxygen saturation was 91% on room air, and respiratory rate was 24 breaths per minute.
+THERAPEUTIC INTERVENTIONS
+Supplemental oxygen therapy was provided as needed.
+DISCHARGE INSTRUCTIONS
+The patient was advised to complete the full course of antibiotics and schedule a follow-up appointment
+with the pulmonary specialist in two weeks.
+Discharge Summary for Omar Haddad, MRN 008-33009, born 1948-08-19.
+Admitted on 2026-02-28 and discharged on 2026-03-03.
+Diagnoses included community-acquired pneumonia and chronic obstructive pulmonary disease (COPD).
+Imaging studies revealed a right lower lobe infiltrate on chest X-ray.
+Medications prescribed were azithromycin 500 mg orally on day one, followed by 250 mg daily for days two
+through five; prednisone 40 mg orally daily for five days; and tiotropium inhaler, administered with two
+puffs inhaled daily.
+Vital signs observed were a SpO2 of 91% on room air and a respiratory rate of 24 breaths per minute.
+Supplemental oxygen therapy was administered as a procedure.
+The plan is to complete the course of antibiotics and schedule a pulmonary follow-up appointment in two
+weeks.
+Discharge Summary for Omar Haddad, MRN 008-33009, born 1948-08-19.
+Diagnoses upon discharge included community-acquired pneumonia and chronic obstructive pulmonary disease
+(COPD).
+Imaging studies revealed a right lower lobe infiltrate on chest X-ray.
+Medications prescribed at discharge consisted of azithromycin 500 mg orally on day one, followed by 250
+mg daily from days two to five, prednisone 40 mg orally daily for five days, and tiotropium inhaler with
+two puffs inhaled daily.
+Vital signs observed at discharge included an oxygen saturation of 91% on room air and a respiratory rate
+of 24 breaths per minute.
+During the hospital stay, the patient received supplemental oxygen therapy.
+The plan for follow-up care included completion of the prescribed antibiotic course and a pulmonary
+follow-up appointment in two weeks.
+Here is a rewritten version of the clinical note:
+DISCHARGE SUMMARY
+Patient Omar Haddad, with a date of birth of August 19, 1948, and medical record number 008-33009, was
+admitted on February 28, 2026, and discharged on March 3, 2026.
+DIAGNOSES
+The patient was diagnosed with community-acquired pneumonia and chronic obstructive pulmonary disease
+(COPD).
+IMAGING
+A chest X-ray revealed an infiltrate in the right lower lobe.
+MEDICATIONS
+The patient was prescribed azithromycin 500 mg orally on day one, followed by 250 mg daily from days two
+to five. Prednisone 40 mg orally was administered daily for five days. Additionally, the patient was
+instructed to use a tiotropium inhaler, inhaling two puffs twice daily.
+OBSERVATIONS
+The patient's oxygen saturation was 91% on room air, and respiratory rate was 24 breaths per minute.
+PROCEDURES
+The patient received supplemental oxygen therapy.
+PLAN
+The patient is to complete the prescribed course of antibiotics and schedule a follow-up appointment with
+the pulmonary specialist in two weeks.
+DISCHARGE SUMMARY FOR OMAR HADDAD, MRN 008-33009
+Omar Haddad, a 77-year-old male, was admitted on February 28, 2026, and discharged on March 3, 2026.
+DIAGNOSTIC SUMMARY
+The patient was diagnosed with community-acquired pneumonia and chronic obstructive pulmonary disease
+(COPD).
+IMAGING STUDIES
+A chest X-ray revealed a right lower lobe infiltrate.
+MEDICATION REGIMEN
+The patient was prescribed azithromycin 500 mg orally on day one, followed by 250 mg daily for days two
+through five. Additionally, prednisone 40 mg orally was administered daily for five days. The patient was
+also instructed to use a tiotropium inhaler, inhaling two puffs twice daily.
+VITAL SIGN OBSERVATIONS
+The patient's oxygen saturation was 91% on room air, and respiratory rate was 24 breaths per minute.
+THERAPEUTIC INTERVENTIONS
+Supplemental oxygen therapy was provided as needed.
+DISCHARGE INSTRUCTIONS
+The patient was advised to complete the full course of antibiotics and schedule a follow-up appointment
+with the pulmonary specialist in two weeks.
+Discharge Summary for Omar Haddad, MRN 008-33009, born 1948-08-19.
+Admitted on 2026-02-28 and discharged on 2026-03-03.
+Diagnoses included community-acquired pneumonia and chronic obstructive pulmonary disease (COPD).
+Imaging studies revealed a right lower lobe infiltrate on chest X-ray.
+Medications prescribed were azithromycin 500 mg orally on day one, followed by 250 mg daily for days two
+through five; prednisone 40 mg orally daily for five days; and tiotropium inhaler, administered with two
+puffs inhaled daily.
+Vital signs observed were a SpO2 of 91% on room air and a respiratory rate of 24 breaths per minute.
+Supplemental oxygen therapy was administered as a procedure.
+The plan is to complete the course of antibiotics and schedule a pulmonary follow-up appointment in two
+weeks.
+Discharge Summary for Omar Haddad, MRN 008-33009, born 1948-08-19.
+Diagnoses upon discharge included community-acquired pneumonia and chronic obstructive pulmonary disease
+(COPD).
+Imaging studies revealed a right lower lobe infiltrate on chest X-ray.
+Medications prescribed at discharge consisted of azithromycin 500 mg orally on day one, followed by 250
+mg daily from days two to five, prednisone 40 mg orally daily for five days, and tiotropium inhaler with
+two puffs inhaled daily.
+Vital signs observed at discharge included an oxygen saturation of 91% on room air and a respiratory rate
+of 24 breaths per minute.
+During the hospital stay, the patient received supplemental oxygen therapy.
+The plan for follow-up care included completion of the prescribed antibiotic course and a pulmonary
+follow-up appointment in two weeks.
+Here is a rewritten version of the clinical note:
+DISCHARGE SUMMARY
+Patient Omar Haddad, with a date of birth of August 19, 1948, and medical record number 008-33009, was
+admitted on February 28, 2026, and discharged on March 3, 2026.
+DIAGNOSES
+The patient was diagnosed with community-acquired pneumonia and chronic obstructive pulmonary disease
+(COPD).
+IMAGING
+A chest X-ray revealed an infiltrate in the right lower lobe.
+MEDICATIONS
+The patient was prescribed azithromycin 500 mg orally on day one, followed by 250 mg daily from days two
+to five. Prednisone 40 mg orally was administered daily for five days. Additionally, the patient was
+instructed to use a tiotropium inhaler, inhaling two puffs twice daily.
+OBSERVATIONS
+The patient's oxygen saturation was 91% on room air, and respiratory rate was 24 breaths per minute.
+PROCEDURES
+The patient received supplemental oxygen therapy.
+PLAN
+The patient is to complete the prescribed course of antibiotics and schedule a follow-up appointment with
+the pulmonary specialist in two weeks.
+DISCHARGE SUMMARY FOR OMAR HADDAD, MRN 008-33009
+Omar Haddad, a 77-year-old male, was admitted on February 28, 2026, and discharged on March 3, 2026.
+DIAGNOSTIC SUMMARY
+The patient was diagnosed with community-acquired pneumonia and chronic obstructive pulmonary disease
+(COPD).
+IMAGING STUDIES
+A chest X-ray revealed a right lower lobe infiltrate.
+MEDICATION REGIMEN
+The patient was prescribed azithromycin 500 mg orally on day one, followed by 250 mg daily for days two
+through five. Additionally, prednisone 40 mg orally was administered daily for five days. The patient was
+also instructed to use a tiotropium inhaler, inhaling two puffs twice daily.
+VITAL SIGN OBSERVATIONS
+The patient's oxygen saturation was 91% on room air, and respiratory rate was 24 breaths per minute.
+THERAPEUTIC INTERVENTIONS
+Supplemental oxygen therapy was provided as needed.
+DISCHARGE INSTRUCTIONS
+The patient was advised to complete the full course of antibiotics and schedule a follow-up appointment
+with the pulmonary specialist in two weeks.
+Discharge Summary for Omar Haddad, MRN 008-33009, born 1948-08-19.
+Admitted on 2026-02-28 and discharged on 2026-03-03.
+Diagnoses included community-acquired pneumonia and chronic obstructive pulmonary disease (COPD).
+Imaging studies revealed a right lower lobe infiltrate on chest X-ray.
+Medications prescribed were azithromycin 500 mg orally on day one, followed by 250 mg daily for days two
+through five; prednisone 40 mg orally daily for five days; and tiotropium inhaler, administered with two
+puffs inhaled daily.
+Vital signs observed were a SpO2 of 91% on room air and a respiratory rate of 24 breaths per minute.
+Supplemental oxygen therapy was administered as a procedure.
+The plan is to complete the course of antibiotics and schedule a pulmonary follow-up appointment in two
+weeks.

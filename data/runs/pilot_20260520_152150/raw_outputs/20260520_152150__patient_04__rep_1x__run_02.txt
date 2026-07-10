@@ -1,0 +1,4 @@
+{
+"patient_id": "004-44321",
+"conditions": ["Major depressive disorder", "Insomnia"],
+"medications": ["Sertr[true]

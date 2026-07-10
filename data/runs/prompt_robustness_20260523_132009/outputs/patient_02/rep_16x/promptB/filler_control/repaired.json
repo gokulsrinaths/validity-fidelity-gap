@@ -1,0 +1,29 @@
+{
+  "patient_id": "patient_02",
+  "conditions": [
+    "Acute appendicitis"
+  ],
+  "medications": [
+    "Ceftriaxone",
+    "Metronidazole",
+    "Acetaminophen"
+  ],
+  "observations": [
+    {
+      "value": "38.1",
+      "unit": "C",
+      "type": "Temperature"
+    },
+    {
+      "value": "14.2",
+      "unit": "K/uL",
+      "type": "White Blood Cell Count"
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2026-03-18",
+      "description": "Laparoscopic appendectomy"
+    }
+  ]
+}

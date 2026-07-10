@@ -1,0 +1,7 @@
+{
+"doc_id": "",
+"events": ["First National Bank posted record quarterly earnings"],
+"persons": ["Michael Park", "Laura Hendricks"],
+"organizations": ["First National Bank", "Community Savings Bank of Ohio", "Federal Reserve"],
+"locations": ["Ohio", "Midwest"]
+}

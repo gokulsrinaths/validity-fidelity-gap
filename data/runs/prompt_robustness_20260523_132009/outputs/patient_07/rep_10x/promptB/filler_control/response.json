@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RYYAMQfeZiKCN8HWTCr0ktm8",
+  "object": "chat.completion",
+  "created": 1779568045,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"007-22018\",\n  \"conditions\": [\n    \"Osteoarthritis\",\n    \"Hyperlipidemia\"\n  ],\n  \"medications\": [\n    \"Atorvastatin\",\n    \"Naproxen\"\n  ],\n  \"observations\": [\n    {\n      \"value\": \"31.2\",\n      \"unit\": \"kg/m2\",\n      \"category\": \"BMI\"\n    },\n    {\n      \"value\": \"168\",\n      \"unit\": \"mg/dL\",\n      \"category\": \"LDL\"\n    }\n  ],\n  \"procedures\": [\n    \"Right total knee arthroplasty\"\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1017,
+    "total_tokens": 1158,
+    "completion_tokens": 141,
+    "estimated_cost": 2.7389999999999997e-05,
+    "prompt_tokens_details": null
+  }
+}

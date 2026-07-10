@@ -1,0 +1,31 @@
+{
+  "patient_id": "patient_09",
+  "conditions": [
+    "migraine without aura"
+  ],
+  "medications": [
+    {
+      "name": "Sumatriptan",
+      "dosage": "50 mg",
+      "route": "oral",
+      "frequency": "as needed"
+    },
+    {
+      "name": "Propranolol",
+      "dosage": "20 mg",
+      "route": "oral",
+      "frequency": "twice daily"
+    }
+  ],
+  "observations": [
+    {
+      "vital_signs": {
+        "blood_pressure": "118/74 mmHg"
+      }
+    },
+    {
+      "examination": "normal findings"
+    }
+  ],
+  "procedures": []
+}

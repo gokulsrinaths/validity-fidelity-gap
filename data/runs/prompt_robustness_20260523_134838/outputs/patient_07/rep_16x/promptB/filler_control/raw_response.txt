@@ -1,0 +1,24 @@
+{
+  "patient_id": "007-22018",
+  "conditions": [
+    "Osteoarthritis",
+    "Hyperlipidemia"
+  ],
+  "medications": [
+    "Atorvastatin",
+    "Naproxen"
+  ],
+  "observations": [
+    {
+      "name": "BMI",
+      "value": "31.2"
+    },
+    {
+      "name": "LDL",
+      "value": "168"
+    }
+  ],
+  "procedures": [
+    "Right total knee arthroplasty"
+  ]
+}

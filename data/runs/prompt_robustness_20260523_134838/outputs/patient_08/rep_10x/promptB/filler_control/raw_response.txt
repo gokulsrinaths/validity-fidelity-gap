@@ -1,0 +1,19 @@
+{
+  "patient_id": "008-33009",
+  "conditions": [
+    "Community-acquired pneumonia",
+    "Chronic obstructive pulmonary disease (COPD)"
+  ],
+  "medications": [
+    "Azithromycin",
+    "Prednisone",
+    "Tiotropium"
+  ],
+  "observations": [
+    "SpO2 91% on room air",
+    "RR 24 /min"
+  ],
+  "procedures": [
+    "Supplemental oxygen therapy"
+  ]
+}

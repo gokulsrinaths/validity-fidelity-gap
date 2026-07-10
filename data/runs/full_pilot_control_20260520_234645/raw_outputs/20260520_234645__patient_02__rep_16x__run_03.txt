@@ -1,0 +1,7 @@
+{
+"patient_id": "002-11290",
+"conditions": ["Acute appendicitis"],
+"medications": ["Ceftriaxone", "Metronidazole", "Acetaminophen"],
+"observations": ["Temp 38.1 C", "WBC 14.2 K/uL"],
+"procedures": ["Laparoscopic appendectomy"]
+}

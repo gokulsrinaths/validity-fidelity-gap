@@ -1,0 +1,54 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"005-90122\",\n  \"conditions\": [\n    \"heart failure with reduced ejection fraction (HFrEF)\",\n    \"atrial fibrillation\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"furosemide\",\n      \"dosage\": \"40 mg\",\n      \"frequency\": \"once daily\"\n    },\n    {\n      \"name\": \"metoprolol succinate\",\n      \"dosage\": \"50 mg\",\n      \"frequency\": \"once daily\"\n    },\n    {\n      \"name\": \"apixaban\",\n      \"dosage\": \"5 mg\",\n      \"frequency\": \"twice daily\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"B-type natriuretic peptide (BNP)\",\n      \"value\": \"820 pg/mL\"\n    },\n    {\n      \"name\": \"heart rate (HR)\",\n      \"value\": \"110 beats per minute\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"electrical cardioversion\",\n      \"date\": \"2026-04-22\"\n    }\n  ]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"005-90122\",\n  \"conditions\": [\n    \"heart failure with reduced ejection fraction (HFrEF)\",\n    \"atrial fibrillation\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"furosemide\",\n      \"dosage\": \"40 mg\",\n      \"frequency\": \"once daily\"\n    },\n    {\n      \"name\": \"metoprolol succinate\",\n      \"dosage\": \"50 mg\",\n      \"frequency\": \"once daily\"\n    },\n    {\n      \"name\": \"apixaban\",\n      \"dosage\": \"5 mg\",\n      \"frequency\": \"twice daily\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"B-type natriuretic peptide (BNP)\",\n      \"value\": \"820 pg/mL\"\n    },\n    {\n      \"name\": \"heart rate (HR)\",\n      \"value\": \"110 beats per minute\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"electrical cardioversion\",\n      \"date\": \"2026-04-22\"\n    }\n  ]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_05",
+    "conditions": [
+      "heart failure with reduced ejection fraction (HFrEF)",
+      "atrial fibrillation"
+    ],
+    "medications": [
+      {
+        "name": "furosemide",
+        "dosage": "40 mg",
+        "frequency": "once daily"
+      },
+      {
+        "name": "metoprolol succinate",
+        "dosage": "50 mg",
+        "frequency": "once daily"
+      },
+      {
+        "name": "apixaban",
+        "dosage": "5 mg",
+        "frequency": "twice daily"
+      }
+    ],
+    "observations": [
+      {
+        "name": "B-type natriuretic peptide (BNP)",
+        "value": "820 pg/mL"
+      },
+      {
+        "name": "heart rate (HR)",
+        "value": "110 beats per minute"
+      }
+    ],
+    "procedures": [
+      {
+        "name": "electrical cardioversion",
+        "date": "2026-04-22"
+      }
+    ]
+  }
+}

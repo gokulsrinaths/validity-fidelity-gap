@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RRZyO3EVGXMLaGskQfYNo7U3",
+  "object": "chat.completion",
+  "created": 1779346363,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"003-77211\",\n\"conditions\": [\n\"Type 2 diabetes mellitus\",\n\"Hypert[1]",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1281,
+    "total_tokens": 1311,
+    "completion_tokens": 30,
+    "estimated_cost": 2.712e-05,
+    "prompt_tokens_details": null
+  }
+}

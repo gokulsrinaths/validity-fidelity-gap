@@ -1,0 +1,33 @@
+{
+  "patient_id": "patient_26",
+  "conditions": [
+    "Streptococcal pharyngitis"
+  ],
+  "medications": [
+    {
+      "dose": "500 mg",
+      "route": "PO",
+      "frequency": "BID",
+      "duration": "10 days",
+      "name": "Amoxicillin"
+    },
+    {
+      "dose": "400 mg",
+      "route": "PO",
+      "frequency": "q6h",
+      "duration": "PRN",
+      "name": "Ibuprofen"
+    }
+  ],
+  "observations": [
+    {
+      "name": "Temp",
+      "value": "39.0 C"
+    },
+    {
+      "name": "Rapid strep test",
+      "value": "positive"
+    }
+  ],
+  "procedures": []
+}

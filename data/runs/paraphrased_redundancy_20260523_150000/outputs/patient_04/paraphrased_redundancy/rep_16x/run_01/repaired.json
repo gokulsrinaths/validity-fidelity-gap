@@ -1,0 +1,34 @@
+{
+  "patient_id": "patient_04",
+  "conditions": [
+    "major depressive disorder",
+    "insomnia"
+  ],
+  "medications": [
+    {
+      "name": "sertraline",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "trazodone",
+      "dose": "50 mg",
+      "frequency": "as needed",
+      "route": "oral"
+    }
+  ],
+  "observations": [
+    {
+      "name": "PHQ-9 score",
+      "value": 16,
+      "unit": ""
+    },
+    {
+      "name": "weight",
+      "value": 78.4,
+      "unit": "kg"
+    }
+  ],
+  "procedures": []
+}

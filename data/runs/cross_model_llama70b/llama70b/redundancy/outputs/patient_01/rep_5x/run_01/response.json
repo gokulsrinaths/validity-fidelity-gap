@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RQeikbJKuX49OdXJe2h5xmcU",
+  "object": "chat.completion",
+  "created": 1779350306,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma\", \"Seasonal allergic rhinitis\", \"Asthma exacerbation\"],\n\"medications\": [\"Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze\", \"Prednisone 40 mg PO daily x 5 days\", \"Cetirizine 10 mg PO daily\"],\n\"observations\": [\"SpO2 94% on room air\", \"Peak flow 320 L/min\"],\n\"procedures\": [\"Nebulized bronchodilator treatment in ED\"]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1412,
+    "total_tokens": 1546,
+    "completion_tokens": 134,
+    "estimated_cost": 0.0006184000000000001,
+    "prompt_tokens_details": null
+  }
+}

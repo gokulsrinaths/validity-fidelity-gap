@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R44ig4Ipzmjlwk7yKg099Sed",
+  "object": "chat.completion",
+  "created": 1779515569,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"009-99110\",\n\"conditions\": [\"Migraine without aura\"],\n\"medications\": [\n[\"Sumatriptan\", \"50 mg\", \"PO\", \"at onset of headache; may repeat once in 2 hours\"],\n[\"Propranolol\", \"20 mg\", \"PO\", \"BID for migraine prevention\"]\n],\n\"observations\": [\n[\"BP\", \"118/74 mmHg\"],\n[\"Neuro exam\", \"normal\"]\n],\n\"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 884,
+    "total_tokens": 989,
+    "completion_tokens": 105,
+    "estimated_cost": 2.293e-05,
+    "prompt_tokens_details": null
+  }
+}

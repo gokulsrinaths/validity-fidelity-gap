@@ -1,0 +1,7 @@
+{
+"doc_id": "CITY COUNCIL APPROVES NEW TRANSIT EXPANSION PLAN",
+"events": ["The Metropolitan City Council voted 7-2 on Tuesday to approve a $2.4 billion transit expansion plan"],
+"persons": ["Sandra Liu", "James Okonkwo", "Maria Torres", "Ellen Park"],
+"organizations": ["Metropolitan City Council", "Metropolitan Transit Authority", "Green Line"],
+"locations": ["downtown corridor", "Harbor Boulevard"]
+}

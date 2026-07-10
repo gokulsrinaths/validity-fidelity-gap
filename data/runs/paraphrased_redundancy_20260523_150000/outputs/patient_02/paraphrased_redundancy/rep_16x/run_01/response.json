@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RK4kjDGcscVcz8rUN2OI4Axm",
+  "object": "chat.completion",
+  "created": 1779573710,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"002-11290\",\n\"conditions\": [\"acute appendicitis\"],\n\"medications\": [\n  {\"name\": \"ceftriaxone\", \"dose\": \"1 g IV\", \"route\": \"intravenous\"},\n  {\"name\": \"metronidazole\", \"dose\": \"500 mg IV\", \"route\": \"intravenous\"},\n  {\"name\": \"acetaminophen\", \"dose\": \"650 mg PO\", \"route\": \"oral\"}\n],\n\"observations\": [\n  {\"temperature\": 38.1, \"white blood cell count\": 14.2}\n],\n\"procedures\": [\"laparoscopic appendectomy\"]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3942,
+    "total_tokens": 4084,
+    "completion_tokens": 142,
+    "estimated_cost": 8.594000000000001e-05,
+    "prompt_tokens_details": null
+  }
+}

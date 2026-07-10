@@ -1,0 +1,39 @@
+{
+  "patient_id": "002-11290",
+  "conditions": [
+    "acute appendicitis"
+  ],
+  "medications": [
+    {
+      "name": "ceftriaxone",
+      "dose": "1 g",
+      "route": "IV",
+      "time": "pre-operatively"
+    },
+    {
+      "name": "metronidazole",
+      "dose": "500 mg",
+      "route": "IV",
+      "time": "pre-operatively"
+    },
+    {
+      "name": "acetaminophen",
+      "dose": "650 mg",
+      "route": "PO",
+      "time": "post-operatively",
+      "frequency": "every 6 hours"
+    }
+  ],
+  "observations": [
+    {
+      "temperature": 38.1,
+      "white_blood_cell_count": 14.2
+    }
+  ],
+  "procedures": [
+    {
+      "name": "laparoscopic appendectomy",
+      "date": "2026-03-18"
+    }
+  ]
+}

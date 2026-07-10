@@ -1,0 +1,11 @@
+type(response): <class 'dict'>
+top-level keys: ['choices', 'created', 'id', 'model', 'object', 'usage']
+type(choices): <class 'list'>
+type(choices[0]): <class 'dict'>
+choices[0] keys: ['finish_reason', 'index', 'logprobs', 'message']
+type(choices[0].message): <class 'dict'>
+message keys: ['content', 'name', 'reasoning_content', 'role', 'tool_calls']
+type(message.content): <class 'str'>
+len(message.content): 542
+message.content preview: '{\n"patient_id": "001-88421",\n"conditions": ["Asthma exacerbation"],\n"medications": [\n  {"name": "Albuterol inhaler", "dosage": "90 mcg", "frequency": "q4-6h", "route": "inhaled", "prn": "wheeze"},\n  {"name": "Prednisone", "dosage": "40 mg", "frequency": "daily", "route": "PO", "duration": "5 days"},\n  {"name": "Cetirizine", "dosage": "10 mg", "frequency": "daily", "route": "PO"}\n],\n"observations":'
+finish_reason: 'stop'

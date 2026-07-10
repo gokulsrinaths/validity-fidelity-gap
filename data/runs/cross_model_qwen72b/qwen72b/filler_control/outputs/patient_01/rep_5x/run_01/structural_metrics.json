@@ -1,0 +1,17 @@
+{
+  "model_key": "qwen72b",
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "condition": "filler_control",
+  "patient_id": "patient_01",
+  "repetition": 5,
+  "run": 1,
+  "timestamp": "2026-05-22T01:17:47.864716",
+  "raw_valid_json": 1,
+  "schema_match": 1,
+  "repair_needed": 0,
+  "structural_drift_score": 0.0,
+  "extra_keys_count": 0,
+  "missing_keys_count": 0,
+  "malformed_json": 0,
+  "markdown_fence_present": 0
+}

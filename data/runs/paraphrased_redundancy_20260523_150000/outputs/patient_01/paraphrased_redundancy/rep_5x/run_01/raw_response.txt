@@ -1,0 +1,14 @@
+{
+"patient_id": "001-88421",
+"conditions": ["asthma exacerbation"],
+"medications": [
+  {"name": "Albuterol inhaler", "dosage": "90 mcg", "frequency": "every 4-6 hours as needed", "route": "inhaled"},
+  {"name": "Prednisone", "dosage": "40 mg", "frequency": "daily", "route": "orally"},
+  {"name": "Cetirizine", "dosage": "10 mg", "frequency": "daily", "route": "orally"}
+],
+"observations": [
+  {"name": "oxygen saturation", "value": "94%"},
+  {"name": "peak flow", "value": "320 liters per minute"}
+],
+"procedures": ["nebulized bronchodilator treatment"]
+}

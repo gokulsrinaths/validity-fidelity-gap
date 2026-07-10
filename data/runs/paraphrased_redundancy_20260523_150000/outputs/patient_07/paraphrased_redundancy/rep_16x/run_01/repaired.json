@@ -1,0 +1,36 @@
+{
+  "patient_id": "patient_07",
+  "conditions": [
+    "osteoarthritis of the right knee",
+    "hyperlipidemia"
+  ],
+  "medications": [
+    {
+      "name": "atorvastatin",
+      "dosage": "20 mg",
+      "frequency": "at bedtime",
+      "instructions": "hold for 7 days prior to surgery"
+    },
+    {
+      "name": "naproxen",
+      "dosage": "500 mg",
+      "frequency": "twice daily as needed for pain",
+      "instructions": "hold for 7 days prior to surgery"
+    }
+  ],
+  "observations": [
+    {
+      "name": "body mass index (BMI)",
+      "value": 31.2,
+      "unit": "kg/m2"
+    },
+    {
+      "name": "low-density lipoprotein (LDL) cholesterol level",
+      "value": 168,
+      "unit": "mg/dL"
+    }
+  ],
+  "procedures": [
+    "right total knee arthroplasty"
+  ]
+}

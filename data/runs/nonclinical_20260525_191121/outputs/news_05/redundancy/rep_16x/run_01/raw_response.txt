@@ -1,0 +1,7 @@
+{
+"doc_id": "BANK_REPORTS_RECORD_QUARTERLY_EARNINGS",
+"events": [],
+"persons": ["Michael Park", "Laura Hendricks"],
+"organizations": ["First National Bank", "Community Savings Bank of Ohio", "Federal Reserve"],
+"locations": ["Ohio", "Midwest"]
+}

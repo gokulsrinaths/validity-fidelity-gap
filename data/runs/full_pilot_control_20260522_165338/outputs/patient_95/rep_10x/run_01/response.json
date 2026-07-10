@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-Rwz7vhnzgPdIBZU6Ma4cKrEH",
+  "object": "chat.completion",
+  "created": 1779495262,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\n{\"condition\": \"Heart failure with reduced ejection fraction (HFrEF)\"},\n{\"condition\": \"Atrial fibrillation\"}\n],\n\"medications\": [\n{\"name\": \"Furosemide\", \"dosage\": \"40 mg\", \"frequency\": \"daily\"},\n{\"name\": \"Metoprolol succinate\", \"dosage\": \"50 mg\", \"frequency\": \"daily\"},\n{\"name\": \"Apixaban\", \"dosage\": \"5 mg\", \"frequency\": \"BID\"}\n],\n\"observations\": [\n{\"name\": \"BNP\", \"value\": \"820 pg/mL\"},\n{\"name\": \"HR\", \"value\": \"110 bpm irregular\"}\n],\n\"procedures\": [\n{\"name\": \"Electrical cardioversion\", \"date\": \"2026-04-22\"}\n] \n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1132,
+    "total_tokens": 1313,
+    "completion_tokens": 181,
+    "estimated_cost": 3.1689999999999996e-05,
+    "prompt_tokens_details": null
+  }
+}

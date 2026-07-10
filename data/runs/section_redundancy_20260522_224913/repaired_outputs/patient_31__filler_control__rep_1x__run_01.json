@@ -1,0 +1,42 @@
+{
+  "patient_id": "patient_31",
+  "conditions": [
+    "Asthma",
+    "Seasonal allergic rhinitis"
+  ],
+  "medications": [
+    {
+      "name": "Albuterol inhaler",
+      "dosage": "90 mcg",
+      "frequency": "q4-6h",
+      "route": "inhaled",
+      "prn": "wheeze"
+    },
+    {
+      "name": "Prednisone",
+      "dosage": "40 mg",
+      "frequency": "daily",
+      "route": "PO",
+      "duration": "5 days"
+    },
+    {
+      "name": "Cetirizine",
+      "dosage": "10 mg",
+      "frequency": "daily",
+      "route": "PO"
+    }
+  ],
+  "observations": [
+    {
+      "name": "SpO2",
+      "value": "94%"
+    },
+    {
+      "name": "Peak flow",
+      "value": "320 L/min"
+    }
+  ],
+  "procedures": [
+    "Nebulized bronchodilator treatment in ED"
+  ]
+}

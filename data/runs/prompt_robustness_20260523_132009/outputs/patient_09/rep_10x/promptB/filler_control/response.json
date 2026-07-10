@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RfNIrYqrHB1KM8MQgCKPIf0S",
+  "object": "chat.completion",
+  "created": 1779568163,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"009-99110\",\n  \"conditions\": [\"Migraine without aura\"],\n  \"medications\": [\"Sumatriptan 50 mg PO\", \"Propranolol 20 mg PO BID\"],\n  \"observations\": [\"BP 118/74 mmHg\", \"Neuro exam: normal\"],\n  \"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 875,
+    "total_tokens": 954,
+    "completion_tokens": 79,
+    "estimated_cost": 2.1449999999999996e-05,
+    "prompt_tokens_details": null
+  }
+}

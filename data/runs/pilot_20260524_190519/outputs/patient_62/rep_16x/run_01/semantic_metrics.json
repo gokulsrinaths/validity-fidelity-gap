@@ -1,0 +1,11 @@
+{
+  "patient_id": "patient_62",
+  "repetition": 16,
+  "run": 1,
+  "micro_precision": 0.7142857142857143,
+  "micro_recall": 0.7142857142857143,
+  "micro_f1": 0.7142857142857143,
+  "omission_count": 2,
+  "hallucination_count": 2,
+  "extracted_entities_n": 7
+}

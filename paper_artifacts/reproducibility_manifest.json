@@ -1,0 +1,106 @@
+{
+  "repo_root": "<project_root>",
+  "runs": {
+    "full_pilot_8b": "data\\runs\\full_pilot_20260520_192127",
+    "full_control_8b": "data\\runs\\full_pilot_control_20260520_235546",
+    "largeN_redundancy": "data\\runs\\full_pilot_20260522_161847",
+    "largeN_control": "data\\runs\\full_pilot_control_20260522_165338",
+    "shuffled_midrange_rep3": "data\\runs\\full_pilot_shuffled_20260522_155750",
+    "section_level_largeN": "data\\runs\\section_redundancy_20260522_224913",
+    "prompt_robustness_ABC": "data\\runs\\prompt_robustness_20260523_134838"
+  },
+  "hashes": {
+    "full_pilot_8b:metrics/redundancy_scaling_statistics.csv": {
+      "path": "data/runs/full_pilot_20260520_192127/metrics/redundancy_scaling_statistics.csv",
+      "sha256": "91ccd76df2628ba841432da04536db8cb21365d89f4b05b7e30add559721a414"
+    },
+    "full_pilot_8b:metrics/semantic_metrics.csv": {
+      "path": "data/runs/full_pilot_20260520_192127/metrics/semantic_metrics.csv",
+      "sha256": "9c79013704613499c4774b13df0ec1f36340975e3600c2ed365fc5631ea3c17a"
+    },
+    "full_pilot_8b:metrics/structural_metrics.csv": {
+      "path": "data/runs/full_pilot_20260520_192127/metrics/structural_metrics.csv",
+      "sha256": "38a81f80cd41f128bf2434c7c4260d6c83d0fff5f88fe7b609e0f1f1d727286b"
+    },
+    "full_control_8b:metrics/redundancy_scaling_statistics.csv": {
+      "path": "data/runs/full_pilot_control_20260520_235546/metrics/redundancy_scaling_statistics.csv",
+      "sha256": "2b189b8d35da3bd9a451ef8f63a9ce4ba0925f7a1378a038ae3d4ae3e2e3fa6c"
+    },
+    "full_control_8b:DRE_statistics.csv": {
+      "path": "data/runs/full_pilot_control_20260520_235546/DRE_statistics.csv",
+      "sha256": "c04cf3b2849a27347a81892c2098a81ec3181ee1c3dbbfac64bb4864466ce475"
+    },
+    "full_control_8b:control_vs_redundancy.csv": {
+      "path": "data/runs/full_pilot_control_20260520_235546/control_vs_redundancy.csv",
+      "sha256": "5c4d1c51dd6f39a75e0733a13180b22cff73125ef72d9458a833676d5dba2809"
+    },
+    "full_control_8b:metrics/semantic_metrics.csv": {
+      "path": "data/runs/full_pilot_control_20260520_235546/metrics/semantic_metrics.csv",
+      "sha256": "edbc355590113fe86733ed92f3970f36d857245501714de27490d1f4293bb200"
+    },
+    "full_control_8b:metrics/structural_metrics.csv": {
+      "path": "data/runs/full_pilot_control_20260520_235546/metrics/structural_metrics.csv",
+      "sha256": "f1ec44464dd0fa3dee632d6c1ad28b4546c43f99a37b31cfde10300f9fe97597"
+    },
+    "largeN_redundancy:metrics/redundancy_scaling_statistics.csv": {
+      "path": "data/runs/full_pilot_20260522_161847/metrics/redundancy_scaling_statistics.csv",
+      "sha256": "92f2f51ec5a4a10c25881206dda43bfb523b1e84a5e9e2cf8e48518dd8ebdc05"
+    },
+    "largeN_redundancy:metrics/semantic_metrics.csv": {
+      "path": "data/runs/full_pilot_20260522_161847/metrics/semantic_metrics.csv",
+      "sha256": "0b1dc0080732fdc79777d20fde255a8026ffcbb44a2e5aeea1637b5ea846a227"
+    },
+    "largeN_redundancy:metrics/structural_metrics.csv": {
+      "path": "data/runs/full_pilot_20260522_161847/metrics/structural_metrics.csv",
+      "sha256": "5834d2aeb2ef2d136539de69b4a9f2822eaf674179210c4e0636b96eff583cd1"
+    },
+    "largeN_control:metrics/redundancy_scaling_statistics.csv": {
+      "path": "data/runs/full_pilot_control_20260522_165338/metrics/redundancy_scaling_statistics.csv",
+      "sha256": "c92b10399252300d8dad0466af92286e2984bf35968e2e9077d281b45ec1d2d0"
+    },
+    "largeN_control:DRE_statistics.csv": {
+      "path": "data/runs/full_pilot_control_20260522_165338/DRE_statistics.csv",
+      "sha256": "9fdc55f335147238e58a6c9eac8546afdc5c39ab17e5fbb915fa15ee51c93f26"
+    },
+    "largeN_control:control_vs_redundancy.csv": {
+      "path": "data/runs/full_pilot_control_20260522_165338/control_vs_redundancy.csv",
+      "sha256": "783666006f37d6a41d88b1ee8d161211e3b470d73b44c26b1de63aac1b2cfe34"
+    },
+    "largeN_control:metrics/semantic_metrics.csv": {
+      "path": "data/runs/full_pilot_control_20260522_165338/metrics/semantic_metrics.csv",
+      "sha256": "8637244034e1be8eb3e10390d55ccf41253ae8582d85040a7c729692fdaf39fb"
+    },
+    "largeN_control:metrics/structural_metrics.csv": {
+      "path": "data/runs/full_pilot_control_20260522_165338/metrics/structural_metrics.csv",
+      "sha256": "00a7bd64babaabbd0f43b66dd908eabba7a3f71f0e8fe23b1c3bc14860385fcf"
+    },
+    "shuffled_midrange_rep3:metrics/redundancy_scaling_statistics.csv": {
+      "path": "data/runs/full_pilot_shuffled_20260522_155750/metrics/redundancy_scaling_statistics.csv",
+      "sha256": "f7840d8004ac637c12590200826db445f137d19750b0805bff1f8c51b3a1597e"
+    },
+    "shuffled_midrange_rep3:metrics/semantic_metrics.csv": {
+      "path": "data/runs/full_pilot_shuffled_20260522_155750/metrics/semantic_metrics.csv",
+      "sha256": "d5e3e458a0f2a83438c9c9559e01c55d5903f53e30e1a6c017bf7479ae496124"
+    },
+    "shuffled_midrange_rep3:metrics/structural_metrics.csv": {
+      "path": "data/runs/full_pilot_shuffled_20260522_155750/metrics/structural_metrics.csv",
+      "sha256": "3d152cf73d3f91d098b4e7a1cb2b9085cdd4a879dc24c3efd46a964926f4ee94"
+    },
+    "section_level_largeN:metrics/semantic_metrics.csv": {
+      "path": "data/runs/section_redundancy_20260522_224913/metrics/semantic_metrics.csv",
+      "sha256": "8fb95dced8fd8816efa35010be885e3d66d7a4ebdeda1799a9f489d728ae6013"
+    },
+    "section_level_largeN:metrics/structural_metrics.csv": {
+      "path": "data/runs/section_redundancy_20260522_224913/metrics/structural_metrics.csv",
+      "sha256": "6530bdfc03587386d04dfa4dc1b4a45afdc9fae8157f3cca2abfebabcedfab64"
+    },
+    "prompt_robustness_ABC:metrics/semantic_metrics.csv": {
+      "path": "data/runs/prompt_robustness_20260523_134838/metrics/semantic_metrics.csv",
+      "sha256": "706373052f01380cef4a3ca90526b11cf0357d68c8e8e3493eaa0d455789dc53"
+    },
+    "prompt_robustness_ABC:metrics/structural_metrics.csv": {
+      "path": "data/runs/prompt_robustness_20260523_134838/metrics/structural_metrics.csv",
+      "sha256": "c5768ed8d8a8a1b759bd0c5ab8af620c5fff7bcb4c49dcb3f4cf40f85a804a3d"
+    }
+  }
+}

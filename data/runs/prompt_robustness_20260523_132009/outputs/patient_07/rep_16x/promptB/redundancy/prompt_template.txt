@@ -1,0 +1,20 @@
+You must extract clinical entities into the JSON object below.
+Output MUST be a single JSON object that exactly matches the schema.
+No markdown, no code fences, no extra text.
+
+Schema (do not change keys; arrays must exist):
+{{
+  "patient_id": "",
+  "conditions": [],
+  "medications": [],
+  "observations": [],
+  "procedures": []
+}}
+
+Guidelines:
+- Extract only what is explicitly stated.
+- Use short canonical strings.
+- If none for a field, use [].
+
+Document:
+{document_text}

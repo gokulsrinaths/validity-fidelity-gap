@@ -1,0 +1,57 @@
+{
+  "raw_text": "{\n\"patient_id\": \"002-11290\",\n\"conditions\": [\"Acute appendicitis\"],\n\"medications\": [\n  {\"name\": \"Ceftriaxone\", \"dose\": \"1 g\", \"route\": \"IV\", \"time\": \"pre-op\"},\n  {\"name\": \"Metronidazole\", \"dose\": \"500 mg\", \"route\": \"IV\", \"time\": \"pre-op\"},\n  {\"name\": \"Acetaminophen\", \"dose\": \"650 mg\", \"route\": \"PO\", \"frequency\": \"q6h\", \"prn\": \"pain\"}\n],\n\"observations\": [\n  {\"name\": \"Temp\", \"value\": \"38.1 C\"},\n  {\"name\": \"WBC\", \"value\": \"14.2 K/uL\"}\n],\n\"procedures\": [\n  {\"name\": \"Laparoscopic appendectomy\", \"date\": \"2026-03-18\"}\n] }",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"002-11290\",\n\"conditions\": [\"Acute appendicitis\"],\n\"medications\": [\n  {\"name\": \"Ceftriaxone\", \"dose\": \"1 g\", \"route\": \"IV\", \"time\": \"pre-op\"},\n  {\"name\": \"Metronidazole\", \"dose\": \"500 mg\", \"route\": \"IV\", \"time\": \"pre-op\"},\n  {\"name\": \"Acetaminophen\", \"dose\": \"650 mg\", \"route\": \"PO\", \"frequency\": \"q6h\", \"prn\": \"pain\"}\n],\n\"observations\": [\n  {\"name\": \"Temp\", \"value\": \"38.1 C\"},\n  {\"name\": \"WBC\", \"value\": \"14.2 K/uL\"}\n],\n\"procedures\": [\n  {\"name\": \"Laparoscopic appendectomy\", \"date\": \"2026-03-18\"}\n] }",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_02",
+    "conditions": [
+      "Acute appendicitis"
+    ],
+    "medications": [
+      {
+        "name": "Ceftriaxone",
+        "dose": "1 g",
+        "route": "IV",
+        "time": "pre-op"
+      },
+      {
+        "name": "Metronidazole",
+        "dose": "500 mg",
+        "route": "IV",
+        "time": "pre-op"
+      },
+      {
+        "name": "Acetaminophen",
+        "dose": "650 mg",
+        "route": "PO",
+        "frequency": "q6h",
+        "prn": "pain"
+      }
+    ],
+    "observations": [
+      {
+        "name": "Temp",
+        "value": "38.1 C"
+      },
+      {
+        "name": "WBC",
+        "value": "14.2 K/uL"
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Laparoscopic appendectomy",
+        "date": "2026-03-18"
+      }
+    ]
+  }
+}

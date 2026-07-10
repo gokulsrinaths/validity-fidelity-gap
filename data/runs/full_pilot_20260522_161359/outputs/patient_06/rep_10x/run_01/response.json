@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RMiXkfmvZP2B14ITqknymDdp",
+  "object": "chat.completion",
+  "created": 1779491712,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"006-55211\",\n\"conditions\": [\n\"Streptococcal pharyngitis\"\n],\n\"medications\": [\n{\n\"dose\": \"500 mg\",\n\"route\": \"PO\",\n\"frequency\": \"BID\",\n\"duration\": \"10 days\",\n\"name\": \"Amoxicillin\"\n},\n{\n\"dose\": \"400 mg\",\n\"route\": \"PO\",\n\"frequency\": \"q6h\",\n\"duration\": \"PRN\",\n\"name\": \"Ibuprofen\"\n}\n],\n\"observations\": [\n{\n\"name\": \"Temp\",\n\"value\": \"39.0 C\"\n},\n{\n\"name\": \"Rapid strep test\",\n\"value\": \"positive\"\n}\n],\n\"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1552,
+    "total_tokens": 1703,
+    "completion_tokens": 151,
+    "estimated_cost": 3.859e-05,
+    "prompt_tokens_details": null
+  }
+}

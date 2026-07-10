@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "status_code": 200,
+  "latency_s": 6.722299399999429,
+  "response_json": {
+    "id": "chatcmpl-RZq321T2YrUxyir7uRomVQve",
+    "object": "chat.completion",
+    "created": 1779695634,
+    "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\n  \"Asthma\",\n  \"Seasonal allergic rhinitis\"\n],\n\"medications\": [\n  {\n    \"name\": \"Albuterol inhaler\",\n    \"dosage\": \"90 mcg\",\n    \"frequency\": \"2 puffs inhaled q4-6h PRN wheeze\"\n  },\n  {\n    \"name\": \"Prednisone\",\n    \"dosage\": \"40 mg\",\n    \"frequency\": \"PO daily x 5 days\"\n  },\n  {\n    \"name\": \"Cetirizine\",\n    \"dosage\": \"10 mg\",\n    \"frequency\": \"PO daily\"\n  }\n],\n\"observations\": [\n  {\n    \"name\": \"SpO2\",\n    \"value\": \"94%\",\n    \"unit\": \"%\"\n  },\n  {\n    \"name\": \"Peak flow\",\n    \"value\": \"320\",\n    \"unit\": \"L/min\"\n  }\n],\n\"procedures\": [\n  \"Nebulized bronchodilator treatment in ED\"\n]\n}",
+          "reasoning_content": null,
+          "name": null,
+          "tool_calls": []
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 396,
+      "total_tokens": 626,
+      "completion_tokens": 230,
+      "estimated_cost": 0.0002504,
+      "prompt_tokens_details": null
+    }
+  },
+  "error": null
+}

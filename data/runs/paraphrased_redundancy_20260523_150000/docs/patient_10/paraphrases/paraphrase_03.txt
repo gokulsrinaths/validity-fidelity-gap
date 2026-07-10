@@ -1,0 +1,24 @@
+DISCHARGE SUMMARY
+
+Patient Robert King, MRN 010-77345, born 1969-10-28, was admitted on 2026-05-10 and discharged on 2026-05-11.
+
+DIAGNOSES
+- The patient was diagnosed with acute kidney injury of pre-renal origin.
+- Dehydration was also identified as a contributing factor.
+
+HOSPITAL COURSE
+The patient's condition showed significant improvement following the administration of intravenous fluids.
+
+MEDICATIONS
+- Normal saline IV fluids were administered during the hospital stay.
+- Ondansetron 4 mg ODT was prescribed every 8 hours as needed for nausea.
+
+OBSERVATIONS
+- Upon admission, the patient's creatinine level was 2.1 mg/dL, which decreased to 1.4 mg/dL at discharge.
+- The patient's BUN level was 38 mg/dL.
+
+PROCEDURES
+- The patient underwent IV fluid resuscitation to address dehydration.
+
+PLAN
+The patient will be advised to maintain oral hydration and avoid the use of nonsteroidal anti-inflammatory drugs (NSAIDs). A repeat blood panel (BMP) is scheduled with the patient's primary care physician (PCP) in 3 days.

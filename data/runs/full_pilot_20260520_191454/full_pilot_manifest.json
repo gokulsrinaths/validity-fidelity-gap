@@ -1,0 +1,18 @@
+{
+  "run_id": "20260520_191454",
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "num_patients": 10,
+  "repetition_levels": [
+    1,
+    2,
+    5,
+    10,
+    16,
+    32
+  ],
+  "runs_per_condition": 3,
+  "total_calls": 180,
+  "note": "Scientific variables fixed; only redundancy factor varies."
+}

@@ -1,0 +1,5 @@
+{
+"patient_id": "003-77211",
+"conditions": [
+"Type 2 diabetes mellitus",
+"Hypert[1]

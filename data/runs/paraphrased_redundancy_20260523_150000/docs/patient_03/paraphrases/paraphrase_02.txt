@@ -1,0 +1,25 @@
+Discharge Summary for Maria Gomez, MRN 003-77211
+
+Patient Discharge Details:
+Maria Gomez was discharged on February 12, 2026, after being admitted on February 10, 2026.
+
+Diagnoses:
+Maria Gomez was diagnosed with type 2 diabetes mellitus, hypertension, and a diabetic foot ulcer on her left foot.
+
+Hospital Course:
+During her hospital stay, Maria received treatment for her infected diabetic foot ulcer with intravenous antibiotics, which resulted in improvement.
+
+Medications:
+At discharge, Maria was prescribed the following medications:
+- Metformin 1000 mg orally twice daily with meals
+- Lisinopril 10 mg orally once daily
+- Amoxicillin-clavulanate 875/125 mg orally twice daily for 7 days
+
+Vital Signs and Laboratory Results:
+Maria's A1c level was 8.7% and her blood pressure was 152/92 mmHg.
+
+Procedures:
+On February 11, 2026, Maria underwent wound debridement on her left foot.
+
+Follow-up Instructions:
+Maria is scheduled for follow-up appointments, including wound care and glucose monitoring, and a visit with her primary care physician in one week.

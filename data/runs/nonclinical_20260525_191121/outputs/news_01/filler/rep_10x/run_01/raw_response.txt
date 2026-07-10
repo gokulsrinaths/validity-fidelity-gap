@@ -1,0 +1,23 @@
+{
+"doc_id": "CITY COUNCIL APPROVES NEW TRANSIT EXPANSION PLAN",
+"events": [
+"Metropolitan City Council voted 7-2 to approve a $2.4 billion transit expansion plan",
+"Construction will begin in spring 2027",
+"The first new station, at Harbor Boulevard, is scheduled to open in late 2029"
+],
+"persons": [
+"Sandra Liu",
+"James Okonkwo",
+"Maria Torres",
+"Ellen Park"
+],
+"organizations": [
+"Metropolitan City Council",
+"Metropolitan Transit Authority"
+],
+"locations": [
+"Metropolitan City",
+"Downtown corridor",
+"Harbor Boulevard"
+]
+}

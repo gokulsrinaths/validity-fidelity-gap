@@ -1,0 +1,9 @@
+repetition,f1_mean,condition
+1,0.48018674136321193,filler_control
+5,0.5098926237161531,filler_control
+10,0.5098926237161531,filler_control
+16,0.4059080298786181,filler_control
+1,0.46842203548085903,paraphrased_redundancy
+5,0.2552147525676937,paraphrased_redundancy
+10,0.19345651080945198,paraphrased_redundancy
+16,0.2361053652230123,paraphrased_redundancy

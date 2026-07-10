@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RJhag8ZmrKrKU8k1opeqetxq",
+  "object": "chat.completion",
+  "created": 1779517630,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma\", \"Seasonal allergic rhinitis\"],\n\"medications\": [\n[\"Albuterol inhaler\", \"90 mcg\", \"2 puffs inhaled q4-6h PRN wheeze\"],\n[\"Prednisone\", \"40 mg\", \"PO daily x 5 days\"],\n[\"Cetirizine\", \"10 mg\", \"PO daily\"]\n],\n\"observations\": [\n[\"SpO2\", \"94%\"],\n[\"Peak flow\", \"320 L/min\"]\n],\n\"procedures\": [\"Nebulized bronchodilator treatment in ED\"]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 647,
+    "total_tokens": 784,
+    "completion_tokens": 137,
+    "estimated_cost": 1.979e-05,
+    "prompt_tokens_details": null
+  }
+}

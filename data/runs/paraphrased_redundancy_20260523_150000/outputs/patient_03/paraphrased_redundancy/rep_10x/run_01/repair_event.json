@@ -1,0 +1,43 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"003-77211\",\n  \"conditions\": [\n    \"Type 2 diabetes mellitus\",\n    \"Hypertension\",\n    \"Diabetic foot ulcer on the left foot\"\n  ],\n  \"medications\": [\n    \"Metformin 1000 mg orally twice a day with meals\",\n    \"Lisinopril 10 mg orally once a day\",\n    \"Amoxicillin-clavulanate 875/125 mg orally twice a day for 7 days\"\n  ],\n  \"observations\": [\n    {\n      \"type\": \"A1c level\",\n      \"value\": \"8.7%\"\n    },\n    {\n      \"type\": \"Blood pressure\",\n      \"value\": \"152/92 mmHg\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Wound debridement of the left foot\",\n      \"date\": \"2026-02-11\"\n    }\n  ]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"003-77211\",\n  \"conditions\": [\n    \"Type 2 diabetes mellitus\",\n    \"Hypertension\",\n    \"Diabetic foot ulcer on the left foot\"\n  ],\n  \"medications\": [\n    \"Metformin 1000 mg orally twice a day with meals\",\n    \"Lisinopril 10 mg orally once a day\",\n    \"Amoxicillin-clavulanate 875/125 mg orally twice a day for 7 days\"\n  ],\n  \"observations\": [\n    {\n      \"type\": \"A1c level\",\n      \"value\": \"8.7%\"\n    },\n    {\n      \"type\": \"Blood pressure\",\n      \"value\": \"152/92 mmHg\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Wound debridement of the left foot\",\n      \"date\": \"2026-02-11\"\n    }\n  ]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_03",
+    "conditions": [
+      "Type 2 diabetes mellitus",
+      "Hypertension",
+      "Diabetic foot ulcer on the left foot"
+    ],
+    "medications": [
+      "Metformin 1000 mg orally twice a day with meals",
+      "Lisinopril 10 mg orally once a day",
+      "Amoxicillin-clavulanate 875/125 mg orally twice a day for 7 days"
+    ],
+    "observations": [
+      {
+        "type": "A1c level",
+        "value": "8.7%"
+      },
+      {
+        "type": "Blood pressure",
+        "value": "152/92 mmHg"
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Wound debridement of the left foot",
+        "date": "2026-02-11"
+      }
+    ]
+  }
+}

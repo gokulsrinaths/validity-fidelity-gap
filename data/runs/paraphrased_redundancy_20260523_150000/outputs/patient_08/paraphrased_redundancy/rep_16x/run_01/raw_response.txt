@@ -1,0 +1,51 @@
+{
+"patient_id": "008-33009",
+"conditions": [
+"community-acquired pneumonia",
+"chronic obstructive pulmonary disease (COPD)"
+],
+"medications": [
+{
+"name": "azithromycin",
+"dose": "500 mg",
+"route": "oral",
+"frequency": "day one",
+"duration": "days two through five"
+},
+{
+"name": "azithromycin",
+"dose": "250 mg",
+"route": "oral",
+"frequency": "daily",
+"duration": "days two through five"
+},
+{
+"name": "prednisone",
+"dose": "40 mg",
+"route": "oral",
+"frequency": "daily",
+"duration": "five days"
+},
+{
+"name": "tiotropium inhaler",
+"dose": "two puffs",
+"route": "inhalation",
+"frequency": "twice daily"
+}
+],
+"observations": [
+{
+"name": "oxygen saturation",
+"value": "91%",
+"unit": "%"
+},
+{
+"name": "respiratory rate",
+"value": "24",
+"unit": "breaths per minute"
+}
+],
+"procedures": [
+"supplemental oxygen therapy"
+]
+}

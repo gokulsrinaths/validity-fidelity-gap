@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RIUDVh6LXJzYW4VktAp3PPcK",
+  "object": "chat.completion",
+  "created": 1779573870,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\n\"heart failure with reduced ejection fraction (HFrEF)\",\n\"atrial fibrillation\"\n],\n\"medications\": [\n\"furosemide 40 mg orally once daily\",\n\"metoprolol succinate 50 mg orally once daily\",\n\"apixaban 5 mg orally twice daily\"\n],\n\"observations\": [\n{\n\"value\": 820,\n\"unit\": \"pg/mL\",\n\"description\": \"B-type natriuretic peptide (BNP) level\"\n},\n{\n\"value\": 110,\n\"unit\": \"beats per minute\",\n\"description\": \"heart rate\"\n}\n],\n\"procedures\": [\n{\n\"name\": \"Electrical cardioversion\",\n\"date\": \"2026-04-22\"\n}\n]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1414,
+    "total_tokens": 1577,
+    "completion_tokens": 163,
+    "estimated_cost": 3.643e-05,
+    "prompt_tokens_details": null
+  }
+}

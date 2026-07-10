@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R225EhxKOtJrIdD7vxnBuQLU",
+  "object": "chat.completion",
+  "created": 1779570205,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"010-77345\",\n  \"conditions\": [\n    \"Acute kidney injury (pre-renal)\",\n    \"Dehydration\"\n  ],\n  \"medications\": [\n    \"Normal saline IV fluids (in hospital)\",\n    \"Ondansetron 4 mg ODT q8h PRN nausea\"\n  ],\n  \"observations\": [\n    {\n      \"value\": \"2.1\",\n      \"unit\": \"mg/dL\",\n      \"time\": \"admission\",\n      \"name\": \"Creatinine\"\n    },\n    {\n      \"value\": \"1.4\",\n      \"unit\": \"mg/dL\",\n      \"time\": \"discharge\",\n      \"name\": \"Creatinine\"\n    },\n    {\n      \"value\": \"38\",\n      \"unit\": \"mg/dL\",\n      \"time\": \"\",\n      \"name\": \"BUN\"\n    }\n  ],\n  \"procedures\": [\n    \"IV fluid resuscitation\"\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1067,
+    "total_tokens": 1273,
+    "completion_tokens": 206,
+    "estimated_cost": 3.164e-05,
+    "prompt_tokens_details": null
+  }
+}

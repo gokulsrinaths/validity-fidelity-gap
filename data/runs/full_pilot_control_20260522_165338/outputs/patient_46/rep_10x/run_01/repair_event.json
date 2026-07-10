@@ -1,0 +1,29 @@
+{
+  "raw_text": "{\n\"patient_id\": \"006-55211\",\n\"conditions\": [\n\"Streptococcal pharyngitis\"\n],\n\"medications\": [\n\"Amoxicillin 500 mg PO BID x 10 days\",\n\"Ibuprofen 400 mg PO q6h PRN pain/fever\"\n],\n\"observations\": [\n\"Temp 39.0 C\",\n\"Rapid strep test: positive\"\n],\n\"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"006-55211\",\n\"conditions\": [\n\"Streptococcal pharyngitis\"\n],\n\"medications\": [\n\"Amoxicillin 500 mg PO BID x 10 days\",\n\"Ibuprofen 400 mg PO q6h PRN pain/fever\"\n],\n\"observations\": [\n\"Temp 39.0 C\",\n\"Rapid strep test: positive\"\n],\n\"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_46",
+    "conditions": [
+      "Streptococcal pharyngitis"
+    ],
+    "medications": [
+      "Amoxicillin 500 mg PO BID x 10 days",
+      "Ibuprofen 400 mg PO q6h PRN pain/fever"
+    ],
+    "observations": [
+      "Temp 39.0 C",
+      "Rapid strep test: positive"
+    ],
+    "procedures": []
+  }
+}

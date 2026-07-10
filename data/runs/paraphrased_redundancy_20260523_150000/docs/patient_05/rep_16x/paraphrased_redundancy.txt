@@ -1,0 +1,383 @@
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and the heart rate was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES PERFORMED
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and attend a cardiology follow-up appointment in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+The left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and the heart rate was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and heart rate (HR) was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES PERFORMED
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and heart rate (HR) was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and the heart rate was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES PERFORMED
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and attend a cardiology follow-up appointment in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+The left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and the heart rate was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and heart rate (HR) was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES PERFORMED
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and heart rate (HR) was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and the heart rate was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES PERFORMED
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and attend a cardiology follow-up appointment in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+The left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and the heart rate was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and heart rate (HR) was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES PERFORMED
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and heart rate (HR) was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and the heart rate was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES PERFORMED
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and attend a cardiology follow-up appointment in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+The left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and the heart rate was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and heart rate (HR) was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES PERFORMED
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.
+
+HOSPITAL DISCHARGE SUMMARY
+
+Patient: Sam Nguyen, MRN: 005-90122, Date of Birth: 1955-05-30
+
+Admission Date: 2026-04-21, Discharge Date: 2026-04-24
+
+DIAGNOSES
+The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) and atrial fibrillation.
+
+ECHO RESULTS
+Left ventricular ejection fraction (LVEF) was measured at 30%.
+
+DISCHARGE MEDICATIONS
+The patient was prescribed furosemide 40 mg orally once daily, metoprolol succinate 50 mg orally once daily, and apixaban 5 mg orally twice daily.
+
+OBSERVATIONS
+The patient's B-type natriuretic peptide (BNP) level was 820 pg/mL, and heart rate (HR) was 110 beats per minute with an irregular rhythm.
+
+PROCEDURES
+Electrical cardioversion was performed on 2026-04-22.
+
+DISCHARGE INSTRUCTIONS
+The patient is to monitor daily weights, follow a low-sodium diet, and schedule a follow-up appointment with cardiology in one week.

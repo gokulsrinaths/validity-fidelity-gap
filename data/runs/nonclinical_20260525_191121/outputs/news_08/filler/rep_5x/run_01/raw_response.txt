@@ -1,0 +1,7 @@
+{
+"doc_id": "AIRLINE ANNOUNCES NEW TRANSATLANTIC ROUTES",
+"events": ["Horizon Airlines announced Wednesday the launch of five new nonstop transatlantic routes from its Chicago hub beginning in May 2027"],
+"persons": ["Vanessa Okafor", "Renata Cruz"],
+"organizations": ["Horizon Airlines", "TransAtlantic Airways", "Department of Transportation"],
+"locations": ["Chicago", "Dublin", "Lisbon", "Athens"]
+}

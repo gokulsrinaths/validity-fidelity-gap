@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RlPKpG8yPjY7flj24LrA6RmN",
+  "object": "chat.completion",
+  "created": 1779437520,
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\n    \"Major depressive disorder\",\n    \"Insomnia\"\n],\n\"medications\": [\n    \"Sertraline 50 mg PO daily\",\n    \"Trazodone 50 mg PO at bedtime PRN sleep\"\n],\n\"observations\": [\n    \"PHQ-9 score 16\",\n    \"Weight 78.4 kg\"\n],\n\"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": null
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1691,
+    "total_tokens": 1793,
+    "completion_tokens": 102,
+    "estimated_cost": 0.00064956,
+    "prompt_tokens_details": null
+  }
+}

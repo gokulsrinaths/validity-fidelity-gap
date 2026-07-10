@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R5XH4NYx0Y5x34d1vLhIqRpk",
+  "object": "chat.completion",
+  "created": 1779569349,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"001-88421\",\n  \"conditions\": [\"Asthma exacerbation\"],\n  \"medications\": [\n    {\"name\": \"Albuterol inhaler\", \"dose\": \"90 mcg\", \"frequency\": \"q4-6h\", \"route\": \"inhaled\", \"prn\": \"wheeze\"},\n    {\"name\": \"Prednisone\", \"dose\": \"40 mg\", \"frequency\": \"daily\", \"route\": \"PO\", \"duration\": \"5 days\"},\n    {\"name\": \"Cetirizine\", \"dose\": \"10 mg\", \"frequency\": \"daily\", \"route\": \"PO\"}\n  ],\n  \"observations\": [\n    {\"name\": \"SpO2\", \"value\": \"94%\"},\n    {\"name\": \"Peak flow\", \"value\": \"320 L/min\"}\n  ],\n  \"procedures\": [\"Nebulized bronchodilator treatment\"]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 402,
+    "total_tokens": 604,
+    "completion_tokens": 202,
+    "estimated_cost": 1.814e-05,
+    "prompt_tokens_details": null
+  }
+}

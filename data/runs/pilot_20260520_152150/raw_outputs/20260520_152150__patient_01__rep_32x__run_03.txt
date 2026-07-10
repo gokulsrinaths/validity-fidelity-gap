@@ -1,0 +1,6 @@
+{
+  "patient_id": "001-88421",
+  "conditions": [
+    "Asthma exacerbation"
+  ],
+  "medications

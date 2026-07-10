@@ -1,0 +1,61 @@
+patient_id,repetition,gt_entities_n,overlap_entities_n,overlap_frac,overlap_entities
+patient_01,1,9,6,0.6666666666666666,asthma; seasonal allergic rhinitis; asthma exacerbation; spo2 94% on room air; peak flow 320 l/min; nebulized bronchodilator treatment
+patient_01,2,9,6,0.6666666666666666,asthma; seasonal allergic rhinitis; asthma exacerbation; spo2 94% on room air; peak flow 320 l/min; nebulized bronchodilator treatment
+patient_01,5,9,6,0.6666666666666666,asthma; seasonal allergic rhinitis; asthma exacerbation; spo2 94% on room air; peak flow 320 l/min; nebulized bronchodilator treatment
+patient_01,10,9,6,0.6666666666666666,asthma; seasonal allergic rhinitis; asthma exacerbation; spo2 94% on room air; peak flow 320 l/min; nebulized bronchodilator treatment
+patient_01,16,9,6,0.6666666666666666,asthma; seasonal allergic rhinitis; asthma exacerbation; spo2 94% on room air; peak flow 320 l/min; nebulized bronchodilator treatment
+patient_01,32,9,6,0.6666666666666666,asthma; seasonal allergic rhinitis; asthma exacerbation; spo2 94% on room air; peak flow 320 l/min; nebulized bronchodilator treatment
+patient_02,1,7,6,0.8571428571428571,acute appendicitis; ceftriaxone 1 g iv pre-op; metronidazole 500 mg iv pre-op; temp 38.1 c; wbc 14.2 k/ul; laparoscopic appendectomy
+patient_02,2,7,6,0.8571428571428571,acute appendicitis; ceftriaxone 1 g iv pre-op; metronidazole 500 mg iv pre-op; temp 38.1 c; wbc 14.2 k/ul; laparoscopic appendectomy
+patient_02,5,7,6,0.8571428571428571,acute appendicitis; ceftriaxone 1 g iv pre-op; metronidazole 500 mg iv pre-op; temp 38.1 c; wbc 14.2 k/ul; laparoscopic appendectomy
+patient_02,10,7,6,0.8571428571428571,acute appendicitis; ceftriaxone 1 g iv pre-op; metronidazole 500 mg iv pre-op; temp 38.1 c; wbc 14.2 k/ul; laparoscopic appendectomy
+patient_02,16,7,6,0.8571428571428571,acute appendicitis; ceftriaxone 1 g iv pre-op; metronidazole 500 mg iv pre-op; temp 38.1 c; wbc 14.2 k/ul; laparoscopic appendectomy
+patient_02,32,7,6,0.8571428571428571,acute appendicitis; ceftriaxone 1 g iv pre-op; metronidazole 500 mg iv pre-op; temp 38.1 c; wbc 14.2 k/ul; laparoscopic appendectomy
+patient_03,1,9,6,0.6666666666666666,type 2 diabetes mellitus; hypertension; diabetic foot ulcer; a1c 8.7%; bp 152/92 mmhg; wound debridement
+patient_03,2,9,6,0.6666666666666666,type 2 diabetes mellitus; hypertension; diabetic foot ulcer; a1c 8.7%; bp 152/92 mmhg; wound debridement
+patient_03,5,9,6,0.6666666666666666,type 2 diabetes mellitus; hypertension; diabetic foot ulcer; a1c 8.7%; bp 152/92 mmhg; wound debridement
+patient_03,10,9,6,0.6666666666666666,type 2 diabetes mellitus; hypertension; diabetic foot ulcer; a1c 8.7%; bp 152/92 mmhg; wound debridement
+patient_03,16,9,6,0.6666666666666666,type 2 diabetes mellitus; hypertension; diabetic foot ulcer; a1c 8.7%; bp 152/92 mmhg; wound debridement
+patient_03,32,9,6,0.6666666666666666,type 2 diabetes mellitus; hypertension; diabetic foot ulcer; a1c 8.7%; bp 152/92 mmhg; wound debridement
+patient_04,1,6,4,0.6666666666666666,major depressive disorder; insomnia; phq-9 score 16; weight 78.4 kg
+patient_04,2,6,4,0.6666666666666666,major depressive disorder; insomnia; phq-9 score 16; weight 78.4 kg
+patient_04,5,6,4,0.6666666666666666,major depressive disorder; insomnia; phq-9 score 16; weight 78.4 kg
+patient_04,10,6,4,0.6666666666666666,major depressive disorder; insomnia; phq-9 score 16; weight 78.4 kg
+patient_04,16,6,4,0.6666666666666666,major depressive disorder; insomnia; phq-9 score 16; weight 78.4 kg
+patient_04,32,6,4,0.6666666666666666,major depressive disorder; insomnia; phq-9 score 16; weight 78.4 kg
+patient_05,1,9,6,0.6666666666666666,heart failure with reduced ejection fraction; atrial fibrillation; lvef 30%; bnp 820 pg/ml; hr 110 bpm irregular; electrical cardioversion
+patient_05,2,9,6,0.6666666666666666,heart failure with reduced ejection fraction; atrial fibrillation; lvef 30%; bnp 820 pg/ml; hr 110 bpm irregular; electrical cardioversion
+patient_05,5,9,6,0.6666666666666666,heart failure with reduced ejection fraction; atrial fibrillation; lvef 30%; bnp 820 pg/ml; hr 110 bpm irregular; electrical cardioversion
+patient_05,10,9,6,0.6666666666666666,heart failure with reduced ejection fraction; atrial fibrillation; lvef 30%; bnp 820 pg/ml; hr 110 bpm irregular; electrical cardioversion
+patient_05,16,9,6,0.6666666666666666,heart failure with reduced ejection fraction; atrial fibrillation; lvef 30%; bnp 820 pg/ml; hr 110 bpm irregular; electrical cardioversion
+patient_05,32,9,6,0.6666666666666666,heart failure with reduced ejection fraction; atrial fibrillation; lvef 30%; bnp 820 pg/ml; hr 110 bpm irregular; electrical cardioversion
+patient_06,1,5,3,0.6,streptococcal pharyngitis; temp 39.0 c; rapid strep test positive
+patient_06,2,5,3,0.6,streptococcal pharyngitis; temp 39.0 c; rapid strep test positive
+patient_06,5,5,3,0.6,streptococcal pharyngitis; temp 39.0 c; rapid strep test positive
+patient_06,10,5,3,0.6,streptococcal pharyngitis; temp 39.0 c; rapid strep test positive
+patient_06,16,5,3,0.6,streptococcal pharyngitis; temp 39.0 c; rapid strep test positive
+patient_06,32,5,3,0.6,streptococcal pharyngitis; temp 39.0 c; rapid strep test positive
+patient_07,1,7,5,0.7142857142857143,osteoarthritis; hyperlipidemia; bmi 31.2 kg/m2; ldl 168 mg/dl; right total knee arthroplasty
+patient_07,2,7,5,0.7142857142857143,osteoarthritis; hyperlipidemia; bmi 31.2 kg/m2; ldl 168 mg/dl; right total knee arthroplasty
+patient_07,5,7,5,0.7142857142857143,osteoarthritis; hyperlipidemia; bmi 31.2 kg/m2; ldl 168 mg/dl; right total knee arthroplasty
+patient_07,10,7,5,0.7142857142857143,osteoarthritis; hyperlipidemia; bmi 31.2 kg/m2; ldl 168 mg/dl; right total knee arthroplasty
+patient_07,16,7,5,0.7142857142857143,osteoarthritis; hyperlipidemia; bmi 31.2 kg/m2; ldl 168 mg/dl; right total knee arthroplasty
+patient_07,32,7,5,0.7142857142857143,osteoarthritis; hyperlipidemia; bmi 31.2 kg/m2; ldl 168 mg/dl; right total knee arthroplasty
+patient_08,1,9,6,0.6666666666666666,community-acquired pneumonia; chronic obstructive pulmonary disease; spo2 91% on room air; rr 24 /min; chest x-ray right lower lobe infiltrate; supplemental oxygen therapy
+patient_08,2,9,6,0.6666666666666666,community-acquired pneumonia; chronic obstructive pulmonary disease; spo2 91% on room air; rr 24 /min; chest x-ray right lower lobe infiltrate; supplemental oxygen therapy
+patient_08,5,9,6,0.6666666666666666,community-acquired pneumonia; chronic obstructive pulmonary disease; spo2 91% on room air; rr 24 /min; chest x-ray right lower lobe infiltrate; supplemental oxygen therapy
+patient_08,10,9,6,0.6666666666666666,community-acquired pneumonia; chronic obstructive pulmonary disease; spo2 91% on room air; rr 24 /min; chest x-ray right lower lobe infiltrate; supplemental oxygen therapy
+patient_08,16,9,6,0.6666666666666666,community-acquired pneumonia; chronic obstructive pulmonary disease; spo2 91% on room air; rr 24 /min; chest x-ray right lower lobe infiltrate; supplemental oxygen therapy
+patient_08,32,9,6,0.6666666666666666,community-acquired pneumonia; chronic obstructive pulmonary disease; spo2 91% on room air; rr 24 /min; chest x-ray right lower lobe infiltrate; supplemental oxygen therapy
+patient_09,1,5,3,0.6,migraine without aura; bp 118/74 mmhg; neuro exam normal
+patient_09,2,5,3,0.6,migraine without aura; bp 118/74 mmhg; neuro exam normal
+patient_09,5,5,3,0.6,migraine without aura; bp 118/74 mmhg; neuro exam normal
+patient_09,10,5,3,0.6,migraine without aura; bp 118/74 mmhg; neuro exam normal
+patient_09,16,5,3,0.6,migraine without aura; bp 118/74 mmhg; neuro exam normal
+patient_09,32,5,3,0.6,migraine without aura; bp 118/74 mmhg; neuro exam normal
+patient_10,1,7,6,0.8571428571428571,acute kidney injury; dehydration; normal saline iv fluids; ondansetron 4 mg odt q8h prn; bun 38 mg/dl; iv fluid resuscitation
+patient_10,2,7,6,0.8571428571428571,acute kidney injury; dehydration; normal saline iv fluids; ondansetron 4 mg odt q8h prn; bun 38 mg/dl; iv fluid resuscitation
+patient_10,5,7,6,0.8571428571428571,acute kidney injury; dehydration; normal saline iv fluids; ondansetron 4 mg odt q8h prn; bun 38 mg/dl; iv fluid resuscitation
+patient_10,10,7,6,0.8571428571428571,acute kidney injury; dehydration; normal saline iv fluids; ondansetron 4 mg odt q8h prn; bun 38 mg/dl; iv fluid resuscitation
+patient_10,16,7,6,0.8571428571428571,acute kidney injury; dehydration; normal saline iv fluids; ondansetron 4 mg odt q8h prn; bun 38 mg/dl; iv fluid resuscitation
+patient_10,32,7,6,0.8571428571428571,acute kidney injury; dehydration; normal saline iv fluids; ondansetron 4 mg odt q8h prn; bun 38 mg/dl; iv fluid resuscitation

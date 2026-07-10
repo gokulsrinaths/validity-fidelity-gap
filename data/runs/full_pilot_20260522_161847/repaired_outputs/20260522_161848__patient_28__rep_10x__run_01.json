@@ -1,0 +1,19 @@
+{
+  "patient_id": "patient_28",
+  "conditions": [
+    "Community-acquired pneumonia",
+    "COPD"
+  ],
+  "medications": [
+    "Azithromycin 500 mg PO day 1 then 250 mg daily days 2-5",
+    "Prednisone 40 mg PO daily x 5 days",
+    "Tiotropium inhaler: 2 puffs inhaled daily"
+  ],
+  "observations": [
+    "SpO2 91% on room air",
+    "RR 24 /min"
+  ],
+  "procedures": [
+    "Supplemental oxygen therapy"
+  ]
+}

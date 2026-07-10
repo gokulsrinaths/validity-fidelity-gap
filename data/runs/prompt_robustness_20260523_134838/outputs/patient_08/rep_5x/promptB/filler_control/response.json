@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RPsdYHiwOmaIk53NxBVG9YsP",
+  "object": "chat.completion",
+  "created": 1779570035,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"008-33009\",\n  \"conditions\": [\n    \"Community-acquired pneumonia\",\n    \"Chronic obstructive pulmonary disease (COPD)\"\n  ],\n  \"medications\": [\n    \"Azithromycin\",\n    \"Prednisone\",\n    \"Tiotropium\"\n  ],\n  \"observations\": [\n    {\n      \"value\": \"91\",\n      \"unit\": \"%\",\n      \"qualifier\": \"SpO2 on room air\"\n    },\n    {\n      \"value\": \"24\",\n      \"unit\": \"/min\",\n      \"qualifier\": \"RR\"\n    }\n  ],\n  \"procedures\": [\n    \"Supplemental oxygen therapy\"\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 760,
+    "total_tokens": 908,
+    "completion_tokens": 148,
+    "estimated_cost": 2.2599999999999997e-05,
+    "prompt_tokens_details": null
+  }
+}

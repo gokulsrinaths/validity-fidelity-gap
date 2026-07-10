@@ -1,0 +1,31 @@
+{
+  "patient_id": "patient_10",
+  "conditions": [
+    "Acute kidney injury of pre-renal origin",
+    "Dehydration"
+  ],
+  "medications": [
+    "Normal saline IV fluids",
+    "Ondansetron 4 mg orally disintegrating tablets"
+  ],
+  "observations": [
+    {
+      "value": 2.1,
+      "unit": "mg/dL",
+      "description": "Creatinine level upon admission"
+    },
+    {
+      "value": 1.4,
+      "unit": "mg/dL",
+      "description": "Creatinine level at discharge"
+    },
+    {
+      "value": 38,
+      "unit": "mg/dL",
+      "description": "BUN level"
+    }
+  ],
+  "procedures": [
+    "IV fluid resuscitation"
+  ]
+}

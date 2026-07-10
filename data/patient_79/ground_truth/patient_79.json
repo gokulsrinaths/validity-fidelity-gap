@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient_79",
+  "conditions": [
+    "Migraine without aura"
+  ],
+  "medications": [
+    "Sumatriptan 50 mg at onset may repeat once",
+    "Propranolol 20 mg BID"
+  ],
+  "observations": [
+    "BP 118/74 mmHg",
+    "Neuro exam normal"
+  ],
+  "procedures": []
+}

@@ -1,0 +1,22 @@
+{
+  "model_key": "qwen72b",
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "condition": "filler_control",
+  "patient_id": "patient_03",
+  "repetition": 16,
+  "run": 1,
+  "timestamp": "2026-05-22T01:20:00.319963",
+  "latency_s": 10.322315600000366,
+  "micro_precision": 0.4444444444444444,
+  "micro_recall": 0.4444444444444444,
+  "micro_f1": 0.4444444444444444,
+  "omission_count": 5,
+  "hallucination_count": 5,
+  "drift_vs_1x": 0.0,
+  "drift_vs_gold": 0.7142857142857143,
+  "drift_score": 0.35714285714285715,
+  "extracted_entities_n": 9,
+  "pdf_pages": 4,
+  "character_count": 9352,
+  "estimated_tokens": 2338
+}

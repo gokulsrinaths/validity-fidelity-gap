@@ -1,0 +1,7 @@
+{
+"doc_id": "INTERNATIONAL SUMMIT REACHES CLIMATE ACCORD",
+"events": ["Representatives from 47 nations signed the Geneva Climate Accord on Friday, pledging to reduce carbon emissions by 40 percent by 2035 relative to 2005 levels.", "The accord was brokered over three days of negotiations led by Swiss diplomat Klaus Weber and US climate envoy Patricia Osei.", "China and India both signed after late-night concessions on technology transfer provisions.", "The European Union pledged to front 60 billion euros in green energy financing for developing nations.", "The International Energy Agency will monitor compliance beginning in 2027."],
+"persons": ["Fatima Al-Rashid", "Klaus Weber", "Patricia Osei"],
+"organizations": ["UN", "Switzerland", "US", "China", "India", "European Union", "International Energy Agency"],
+"locations": ["Geneva", "Paris"]
+}

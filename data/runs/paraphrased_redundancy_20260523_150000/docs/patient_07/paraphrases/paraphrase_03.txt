@@ -1,0 +1,13 @@
+Here is a rewritten version of the clinical note:
+
+Evelyn Chen, MRN 007-22018, born 1971-12-01, underwent preoperative evaluation on 2026-03-02.
+
+The planned surgical procedure is a right total knee arthroplasty.
+
+Evelyn's past medical history includes osteoarthritis of the right knee and hyperlipidemia.
+
+Her current medications are atorvastatin 20 mg orally at bedtime and naproxen 500 mg orally twice daily as needed for pain, with instructions to hold the naproxen for 7 days prior to surgery.
+
+Physical observations include a body mass index of 31.2 kg/m2 and a low-density lipoprotein cholesterol level of 168 mg/dL.
+
+Based on the evaluation, it was determined that Evelyn is a suitable candidate for surgery. The plan for deep vein thrombosis prophylaxis was reviewed and will be implemented accordingly.

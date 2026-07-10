@@ -1,0 +1,10 @@
+call_id,patient_id,repetition,run,raw_valid_json,repair_needed,structural_drift_score,missing_keys_count,extra_keys_count,schema_match,markdown_fence_present
+20260520_190057__patient_01__rep_1x__run_01,patient_01,1,1,True,False,0.0,0,0,True,False
+20260520_190057__patient_01__rep_2x__run_01,patient_01,2,1,True,False,0.0,0,0,True,False
+20260520_190057__patient_01__rep_5x__run_01,patient_01,5,1,True,False,0.0,0,0,True,False
+20260520_190057__patient_02__rep_1x__run_01,patient_02,1,1,True,False,0.0,0,0,True,False
+20260520_190057__patient_02__rep_2x__run_01,patient_02,2,1,True,False,0.0,0,0,True,False
+20260520_190057__patient_02__rep_5x__run_01,patient_02,5,1,True,False,0.0,0,0,True,False
+20260520_190057__patient_03__rep_1x__run_01,patient_03,1,1,True,False,0.0,0,0,True,False
+20260520_190057__patient_03__rep_2x__run_01,patient_03,2,1,True,False,0.0,0,0,True,False
+20260520_190057__patient_03__rep_5x__run_01,patient_03,5,1,True,False,0.0,0,0,True,False

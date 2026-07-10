@@ -1,0 +1,36 @@
+{
+  "patient_id": "patient_12",
+  "conditions": [
+    "Acute appendicitis"
+  ],
+  "medications": [
+    {
+      "name": "Ceftriaxone",
+      "dosage": "1 g IV pre-op"
+    },
+    {
+      "name": "Metronidazole",
+      "dosage": "500 mg IV pre-op"
+    },
+    {
+      "name": "Acetaminophen",
+      "dosage": "650 mg PO q6h PRN pain"
+    }
+  ],
+  "observations": [
+    {
+      "name": "Temp",
+      "value": "38.1 C"
+    },
+    {
+      "name": "WBC",
+      "value": "14.2 K/uL"
+    }
+  ],
+  "procedures": [
+    {
+      "name": "Laparoscopic appendectomy",
+      "date": "2026-03-18"
+    }
+  ]
+}

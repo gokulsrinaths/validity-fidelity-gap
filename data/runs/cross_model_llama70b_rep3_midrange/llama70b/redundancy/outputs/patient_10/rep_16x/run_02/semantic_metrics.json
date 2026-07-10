@@ -1,0 +1,22 @@
+{
+  "model_key": "llama70b",
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "condition": "redundancy",
+  "patient_id": "patient_10",
+  "repetition": 16,
+  "run": 2,
+  "timestamp": "2026-05-22T02:09:42.368358",
+  "latency_s": 5.273230299999341,
+  "micro_precision": 0.42857142857142855,
+  "micro_recall": 0.42857142857142855,
+  "micro_f1": 0.42857142857142855,
+  "omission_count": 4,
+  "hallucination_count": 4,
+  "drift_vs_1x": 0.0,
+  "drift_vs_gold": 0.7272727272727273,
+  "drift_score": 0.36363636363636365,
+  "extracted_entities_n": 7,
+  "pdf_pages": 7,
+  "character_count": 7983,
+  "estimated_tokens": 1996
+}

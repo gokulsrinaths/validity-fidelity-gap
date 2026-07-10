@@ -1,0 +1,23 @@
+{
+"doc_id": "AIRLINE ANNOUNCES NEW TRANSATLANTIC ROUTES",
+"events": [
+"Horizon Airlines announced the launch of five new nonstop transatlantic routes",
+"Horizon expects to hire 600 additional pilots and 1,400 cabin crew",
+"TransAtlantic Airways filed a complaint with the Department of Transportation",
+"The Department of Transportation is reviewing the complaint"
+],
+"persons": [
+"Vanessa Okafor",
+"Renata Cruz"
+],
+"organizations": [
+"Horizon Airlines",
+"TransAtlantic Airways",
+"Department of Transportation"
+],
+"locations": [
+"Chicago",
+"Dublin",
+"Lisbon",
+"Athens"
+] }

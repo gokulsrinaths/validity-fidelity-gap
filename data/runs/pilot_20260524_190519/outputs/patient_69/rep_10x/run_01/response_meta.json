@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "status_code": 200,
+  "latency_s": 5.727485699999306,
+  "response_json": {
+    "id": "chatcmpl-RJDpbbBGBipiIf3cGNJYZo3A",
+    "object": "chat.completion",
+    "created": 1779695606,
+    "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n\"patient_id\": \"009-99110\",\n\"conditions\": [\"Migraine without aura\"],\n\"medications\": [\"Sumatriptan 50 mg PO at onset of headache; may repeat once in 2 hours\", \"Propranolol 20 mg PO BID for migraine prevention\"],\n\"observations\": [\"BP 118/74 mmHg\", \"Neuro exam: normal\"],\n\"procedures\": []\n}",
+          "reasoning_content": null,
+          "name": null,
+          "tool_calls": []
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1422,
+      "total_tokens": 1511,
+      "completion_tokens": 89,
+      "estimated_cost": 0.0006044000000000001,
+      "prompt_tokens_details": null
+    }
+  },
+  "error": null
+}

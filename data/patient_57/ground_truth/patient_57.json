@@ -1,0 +1,18 @@
+{
+  "patient_id": "patient_57",
+  "conditions": [
+    "Osteoarthritis",
+    "Hyperlipidemia"
+  ],
+  "medications": [
+    "Atorvastatin 20 mg nightly",
+    "Naproxen 500 mg BID PRN"
+  ],
+  "observations": [
+    "BMI 31.2 kg/m2",
+    "LDL 168 mg/dL"
+  ],
+  "procedures": [
+    "Right total knee arthroplasty"
+  ]
+}

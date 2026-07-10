@@ -1,0 +1,33 @@
+{
+  "raw_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma exacerbation\"],\n\"medications\": [\n  {\"name\": \"Albuterol inhaler\", \"dosage\": \"90 mcg\", \"frequency\": \"q4-6h\", \"route\": \"inhaled\", \"prn\": \"w[]",
+  "markdown_fence_present": false,
+  "extracted_json_text": null,
+  "raw_valid_json": false,
+  "malformed_json": true,
+  "schema_match": false,
+  "repair_needed": true,
+  "extra_keys": [],
+  "missing_keys": [
+    "conditions",
+    "medications",
+    "observations",
+    "patient_id",
+    "procedures"
+  ],
+  "operations": [
+    "set_patient_id",
+    "fill_missing_conditions",
+    "fill_missing_medications",
+    "fill_missing_observations",
+    "fill_missing_procedures",
+    "repair_from_malformed_json",
+    "repair_schema_mismatch"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_01",
+    "conditions": [],
+    "medications": [],
+    "observations": [],
+    "procedures": []
+  }
+}

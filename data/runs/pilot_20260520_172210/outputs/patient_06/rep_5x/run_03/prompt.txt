@@ -1,0 +1,95 @@
+Extract all medical information from the document into this EXACT schema:
+
+{
+"patient_id": "",
+"conditions": [],
+"medications": [],
+"observations": [],
+"procedures": []
+}
+
+Rules:
+
+* Return ONLY valid JSON
+* Do not wrap in markdown
+* Do not add extra keys
+* Do not rename fields
+* Arrays must always exist
+* If empty, use []
+
+Document:
+URGENT CARE NOTE
+Name: Taylor Brown MRN: 006-55211 DOB: 2001-09-14
+Date: 2026-05-02
+CHIEF COMPLAINT
+Sore throat and fever.
+ASSESSMENT
+Streptococcal pharyngitis (rapid strep positive).
+MEDICATIONS
+- Amoxicillin 500 mg PO BID x 10 days
+- Ibuprofen 400 mg PO q6h PRN pain/fever
+OBSERVATIONS
+- Temp 39.0 C
+- Rapid strep test: positive
+PLAN
+Complete antibiotics; return precautions discussed.
+URGENT CARE NOTE
+Name: Taylor Brown MRN: 006-55211 DOB: 2001-09-14
+Date: 2026-05-02
+CHIEF COMPLAINT
+Sore throat and fever.
+ASSESSMENT
+Streptococcal pharyngitis (rapid strep positive).
+MEDICATIONS
+- Amoxicillin 500 mg PO BID x 10 days
+- Ibuprofen 400 mg PO q6h PRN pain/fever
+OBSERVATIONS
+- Temp 39.0 C
+- Rapid strep test: positive
+PLAN
+Complete antibiotics; return precautions discussed.
+URGENT CARE NOTE
+Name: Taylor Brown MRN: 006-55211 DOB: 2001-09-14
+Date: 2026-05-02
+CHIEF COMPLAINT
+Sore throat and fever.
+ASSESSMENT
+Streptococcal pharyngitis (rapid strep positive).
+MEDICATIONS
+- Amoxicillin 500 mg PO BID x 10 days
+- Ibuprofen 400 mg PO q6h PRN pain/fever
+OBSERVATIONS
+- Temp 39.0 C
+- Rapid strep test: positive
+PLAN
+Complete antibiotics; return precautions discussed.
+URGENT CARE NOTE
+Name: Taylor Brown MRN: 006-55211 DOB: 2001-09-14
+Date: 2026-05-02
+CHIEF COMPLAINT
+Sore throat and fever.
+ASSESSMENT
+Streptococcal pharyngitis (rapid strep positive).
+MEDICATIONS
+- Amoxicillin 500 mg PO BID x 10 days
+- Ibuprofen 400 mg PO q6h PRN pain/fever
+OBSERVATIONS
+- Temp 39.0 C
+- Rapid strep test: positive
+PLAN
+Complete antibiotics; return precautions discussed.
+URGENT CARE NOTE
+Name: Taylor Brown MRN: 006-55211 DOB: 2001-09-14
+Date: 2026-05-02
+CHIEF COMPLAINT
+Sore throat and fever.
+ASSESSMENT
+Streptococcal pharyngitis (rapid strep positive).
+MEDICATIONS
+- Amoxicillin 500 mg PO BID x 10 days
+- Ibuprofen 400 mg PO q6h PRN pain/fever
+OBSERVATIONS
+- Temp 39.0 C
+- Rapid strep test: positive
+PLAN
+Complete antibiotics; return precautions discussed.

@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R8olqA3tCtlG9NqrZfy1QHo8",
+  "object": "chat.completion",
+  "created": 1779490867,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\n\"Osteoarthritis (right knee)\",\n\"Hypertension\"\n],\n\"medications\": [\n\"Atorvastatin 20 mg PO nightly\",\n\"Naproxen 500 mg PO BID PRN pain (hold 7 days prior to surgery)\"\n],\n\"observations\": [\n\"BMI 31.2 kg/m2\",\n\"LDL 168 mg/dL\"\n],\n\"procedures\": [\n\"Right total knee arthroplasty\"\n]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1711,
+    "total_tokens": 1822,
+    "completion_tokens": 111,
+    "estimated_cost": 3.9769999999999994e-05,
+    "prompt_tokens_details": null
+  }
+}

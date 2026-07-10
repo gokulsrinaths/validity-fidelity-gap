@@ -1,0 +1,45 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"009-99110\",\n  \"conditions\": [\n    \"migraine headaches without aura\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Sumatriptan\",\n      \"dosage\": \"50 mg\",\n      \"route\": \"orally\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"every 2 hours\"\n    },\n    {\n      \"name\": \"Propranolol\",\n      \"dosage\": \"20 mg\",\n      \"route\": \"orally\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"for migraine prevention\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"vital_signs\": {\n        \"blood_pressure\": \"118/74 mmHg\"\n      },\n      \"examination\": \"normal findings\"\n    }\n  ],\n  \"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"009-99110\",\n  \"conditions\": [\n    \"migraine headaches without aura\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Sumatriptan\",\n      \"dosage\": \"50 mg\",\n      \"route\": \"orally\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"every 2 hours\"\n    },\n    {\n      \"name\": \"Propranolol\",\n      \"dosage\": \"20 mg\",\n      \"route\": \"orally\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"for migraine prevention\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"vital_signs\": {\n        \"blood_pressure\": \"118/74 mmHg\"\n      },\n      \"examination\": \"normal findings\"\n    }\n  ],\n  \"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_09",
+    "conditions": [
+      "migraine headaches without aura"
+    ],
+    "medications": [
+      {
+        "name": "Sumatriptan",
+        "dosage": "50 mg",
+        "route": "orally",
+        "frequency": "as needed",
+        "duration": "every 2 hours"
+      },
+      {
+        "name": "Propranolol",
+        "dosage": "20 mg",
+        "route": "orally",
+        "frequency": "twice daily",
+        "duration": "for migraine prevention"
+      }
+    ],
+    "observations": [
+      {
+        "vital_signs": {
+          "blood_pressure": "118/74 mmHg"
+        },
+        "examination": "normal findings"
+      }
+    ],
+    "procedures": []
+  }
+}

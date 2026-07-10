@@ -1,0 +1,7 @@
+{
+"doc_id": "CITY COUNCIL APPROVES NEW TRANSIT EXPANSION PLAN",
+"events": ["vote", "approval", "construction"],
+"persons": ["Sandra Liu", "James Okonkwo", "Maria Torres", "Ellen Park"],
+"organizations": ["Metropolitan City Council", "Metropolitan Transit Authority"],
+"locations": ["downtown corridor", "Harbor Boulevard"]
+}

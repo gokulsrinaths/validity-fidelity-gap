@@ -1,0 +1,35 @@
+{
+"patient_id": "007-22018",
+"conditions": [
+"Osteoarthritis (right knee)",
+"Hyperlipidemia"
+],
+"medications": [
+{
+"name": "Atorvastatin",
+"dose": "20 mg",
+"route": "PO",
+"frequency": "nightly"
+},
+{
+"name": "Naproxen",
+"dose": "500 mg",
+"route": "PO",
+"frequency": "BID PRN pain",
+"pre_surgery_instruction": "hold 7 days prior to surgery"
+}
+],
+"observations": [
+{
+"name": "BMI",
+"value": "31.2 kg/m2"
+},
+{
+"name": "LDL",
+"value": "168 mg/dL"
+}
+],
+"procedures": [
+"Right total knee arthroplasty"
+]
+}

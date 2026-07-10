@@ -1,0 +1,30 @@
+{
+  "raw_text": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\n  \"Major depressive disorder\",\n  \"Insomnia\"\n],\n\"medications\": [\n  \"Sertraline 50 mg PO daily\",\n  \"Trazodone 50 mg PO at bedtime PRN sleep\"\n],\n\"observations\": [\n  \"PHQ-9 score 16\",\n  \"Weight 78.4 kg\"\n],\n\"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\n  \"Major depressive disorder\",\n  \"Insomnia\"\n],\n\"medications\": [\n  \"Sertraline 50 mg PO daily\",\n  \"Trazodone 50 mg PO at bedtime PRN sleep\"\n],\n\"observations\": [\n  \"PHQ-9 score 16\",\n  \"Weight 78.4 kg\"\n],\n\"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_74",
+    "conditions": [
+      "Major depressive disorder",
+      "Insomnia"
+    ],
+    "medications": [
+      "Sertraline 50 mg PO daily",
+      "Trazodone 50 mg PO at bedtime PRN sleep"
+    ],
+    "observations": [
+      "PHQ-9 score 16",
+      "Weight 78.4 kg"
+    ],
+    "procedures": []
+  }
+}

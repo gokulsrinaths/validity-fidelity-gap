@@ -1,0 +1,7 @@
+{
+"doc_id": "INTERNATIONAL SUMMIT REACHES CLIMATE ACCORD",
+"events": ["Geneva Climate Accord"],
+"persons": ["Fatima Al-Rashid", "Klaus Weber", "Patricia Osei"],
+"organizations": ["UN", "EU", "International Energy Agency", "US"],
+"locations": ["Geneva", "Switzerland", "India", "China"]
+}

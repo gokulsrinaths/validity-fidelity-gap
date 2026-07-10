@@ -1,0 +1,32 @@
+{
+  "raw_text": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\"osteoarthritis of the right knee\", \"hyperlipidemia\"],\n\"medications\": [\"atorvastatin 20 mg orally at bedtime\", \"naproxen 500 mg orally twice daily as needed for pain\"],\n\"observations\": [\"BMI of 31.2 kg/m2\", \"LDL level of 168 mg/dL\"],\n\"procedures\": [\"right total knee arthroplasty\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\"osteoarthritis of the right knee\", \"hyperlipidemia\"],\n\"medications\": [\"atorvastatin 20 mg orally at bedtime\", \"naproxen 500 mg orally twice daily as needed for pain\"],\n\"observations\": [\"BMI of 31.2 kg/m2\", \"LDL level of 168 mg/dL\"],\n\"procedures\": [\"right total knee arthroplasty\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_07",
+    "conditions": [
+      "osteoarthritis of the right knee",
+      "hyperlipidemia"
+    ],
+    "medications": [
+      "atorvastatin 20 mg orally at bedtime",
+      "naproxen 500 mg orally twice daily as needed for pain"
+    ],
+    "observations": [
+      "BMI of 31.2 kg/m2",
+      "LDL level of 168 mg/dL"
+    ],
+    "procedures": [
+      "right total knee arthroplasty"
+    ]
+  }
+}

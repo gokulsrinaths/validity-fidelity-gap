@@ -1,0 +1,22 @@
+Here is a rewritten version of the clinical note:
+
+DISCHARGE SUMMARY
+Patient Omar Haddad, with a date of birth of August 19, 1948, and medical record number 008-33009, was admitted on February 28, 2026, and discharged on March 3, 2026.
+
+DIAGNOSES
+The patient was diagnosed with community-acquired pneumonia and chronic obstructive pulmonary disease (COPD).
+
+IMAGING
+A chest X-ray revealed an infiltrate in the right lower lobe.
+
+MEDICATIONS
+The patient was prescribed azithromycin 500 mg orally on day one, followed by 250 mg daily from days two to five. Prednisone 40 mg orally was administered daily for five days. Additionally, the patient was instructed to use a tiotropium inhaler, inhaling two puffs twice daily.
+
+OBSERVATIONS
+The patient's oxygen saturation was 91% on room air, and respiratory rate was 24 breaths per minute.
+
+PROCEDURES
+The patient received supplemental oxygen therapy.
+
+PLAN
+The patient is to complete the prescribed course of antibiotics and schedule a follow-up appointment with the pulmonary specialist in two weeks.

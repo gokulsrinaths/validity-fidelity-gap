@@ -1,0 +1,42 @@
+{
+  "raw_text": "{\n\"patient_id\": \"010-77345\",\n\"conditions\": [\n\"acute kidney injury of pre-renal origin\",\n\"dehydration\"\n],\n\"medications\": [\n\"normal saline IV fluids\",\n\"ondansetron 4 mg orally disintegrating tablets\"\n],\n\"observations\": [\n{\n\"label\": \"creatinine level\",\n\"value\": \"2.1 mg/dL\"\n},\n{\n\"label\": \"creatinine level\",\n\"value\": \"1.4 mg/dL\"\n},\n{\n\"label\": \"BUN level\",\n\"value\": \"38 mg/dL\"\n}\n],\n\"procedures\": [\n\"IV fluid resuscitation\"\n]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"010-77345\",\n\"conditions\": [\n\"acute kidney injury of pre-renal origin\",\n\"dehydration\"\n],\n\"medications\": [\n\"normal saline IV fluids\",\n\"ondansetron 4 mg orally disintegrating tablets\"\n],\n\"observations\": [\n{\n\"label\": \"creatinine level\",\n\"value\": \"2.1 mg/dL\"\n},\n{\n\"label\": \"creatinine level\",\n\"value\": \"1.4 mg/dL\"\n},\n{\n\"label\": \"BUN level\",\n\"value\": \"38 mg/dL\"\n}\n],\n\"procedures\": [\n\"IV fluid resuscitation\"\n]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_10",
+    "conditions": [
+      "acute kidney injury of pre-renal origin",
+      "dehydration"
+    ],
+    "medications": [
+      "normal saline IV fluids",
+      "ondansetron 4 mg orally disintegrating tablets"
+    ],
+    "observations": [
+      {
+        "label": "creatinine level",
+        "value": "2.1 mg/dL"
+      },
+      {
+        "label": "creatinine level",
+        "value": "1.4 mg/dL"
+      },
+      {
+        "label": "BUN level",
+        "value": "38 mg/dL"
+      }
+    ],
+    "procedures": [
+      "IV fluid resuscitation"
+    ]
+  }
+}

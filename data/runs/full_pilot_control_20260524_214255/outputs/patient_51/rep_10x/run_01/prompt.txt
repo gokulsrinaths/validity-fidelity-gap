@@ -1,0 +1,109 @@
+Extract all medical information from the document into this EXACT schema:
+
+{
+"patient_id": "",
+"conditions": [],
+"medications": [],
+"observations": [],
+"procedures": []
+}
+
+Rules:
+
+* Return ONLY valid JSON
+* Do not wrap in markdown
+* Do not add extra keys
+* Do not rename fields
+* Arrays must always exist
+* If empty, use []
+
+Document:
+DISCHARGE SUMMARY
+Name: Alex Rivera MRN: 001-88421 DOB: 1978-04-12
+Admit Date: 2026-04-03 Discharge Date: 2026-04-05
+CHIEF COMPLAINT
+Shortness of breath and wheezing.
+HPI
+47-year-old with history of asthma presents with 2 days of cough, wheeze, and dyspnea after URI symptoms.
+PAST MEDICAL HISTORY
+- Asthma
+- Seasonal allergic rhinitis
+MEDICATIONS ON DISCHARGE
+- Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze
+- Prednisone 40 mg PO daily x 5 days
+- Cetirizine 10 mg PO daily
+OBSERVATIONS / VITALS
+- SpO2 94% on room air
+- Peak flow 320 L/min
+PROCEDURES
+- Nebulized bronchodilator treatment in ED
+ASSESSMENT & PLAN
+Asthma exacerbation: continue steroid burst and rescue inhaler; follow up with PCP in 1 week.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Scheduling information: Follow-up appointments may be arranged through the clinic front desk.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+Administrative note: this section contains non-clinical placeholder text for document length control.
+The quick brown fox jumps over the lazy dog. This sentence is repeated for length matching only.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.
+Policy reminder: Always verify patient identity using two identifiers per standard procedure.

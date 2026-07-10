@@ -1,0 +1,5 @@
+repetition,redundancy_f1_mean,redundancy_omission_mean,redundancy_halluc_mean,redundancy_raw_json_valid_rate,redundancy_sds_mean,redundancy_repair_rate,control_f1_mean,control_omission_mean,control_halluc_mean,control_raw_json_valid_rate,control_sds_mean,control_repair_rate
+1,0.4628997727036942,4.05050505050505,3.8484848484848486,1.0,0.0,0.0,0.4667152194211017,4.04,3.84,1.0,0.0,0.0
+5,0.5506606683077271,3.383838383838384,3.282828282828283,1.0,0.0,0.0,0.5361998132586367,3.51,3.37,1.0,0.0,0.0
+10,0.5495985060690942,3.4,3.3,1.0,0.0,0.0,0.5516059757236228,3.39,3.28,1.0,0.0,0.0
+16,0.5495985060690942,3.4,3.3,1.0,0.0,0.0,0.5581699346405229,3.34,3.24,1.0,0.0,0.0

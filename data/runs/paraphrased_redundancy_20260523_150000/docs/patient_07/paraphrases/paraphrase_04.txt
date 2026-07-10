@@ -1,0 +1,19 @@
+Here is a rewritten version of the clinical note:
+
+Clinical Summary:
+Evelyn Chen, MRN 007-22018, born 1971-12-01, was evaluated on 2026-03-02.
+
+Upcoming Surgery:
+Ms. Chen is scheduled to undergo a right total knee arthroplasty.
+
+Medical Background:
+She has a history of osteoarthritis affecting her right knee and hyperlipidemia.
+
+Current Medications:
+Her current regimen includes atorvastatin 20 mg taken orally at bedtime and naproxen 500 mg taken orally twice daily as needed for pain, with instructions to discontinue 7 days prior to surgery.
+
+Vital Signs and Lab Results:
+Her body mass index (BMI) is 31.2 kg/m2, and her low-density lipoprotein (LDL) cholesterol level is 168 mg/dL.
+
+Treatment Plan:
+Surgery will proceed as planned, with a review of the deep vein thrombosis (DVT) prophylaxis protocol.

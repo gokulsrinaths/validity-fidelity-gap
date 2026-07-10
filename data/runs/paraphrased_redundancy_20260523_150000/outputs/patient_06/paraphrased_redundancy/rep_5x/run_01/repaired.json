@@ -1,0 +1,27 @@
+{
+  "patient_id": "patient_06",
+  "conditions": [
+    "streptococcal pharyngitis"
+  ],
+  "medications": [
+    {
+      "name": "Amoxicillin",
+      "dosage": "500 mg",
+      "frequency": "twice a day",
+      "duration": "10 days"
+    },
+    {
+      "name": "Ibuprofen",
+      "dosage": "400 mg",
+      "frequency": "every 6 hours",
+      "duration": "as needed"
+    }
+  ],
+  "observations": [
+    {
+      "temperature": 39.0,
+      "test_result": "positive"
+    }
+  ],
+  "procedures": []
+}

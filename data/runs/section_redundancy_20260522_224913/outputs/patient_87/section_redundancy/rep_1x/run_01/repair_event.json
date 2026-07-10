@@ -1,0 +1,32 @@
+{
+  "raw_text": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\"Osteoarthritis (right knee)\", \"Hyperlipidemia\"],\n\"medications\": [\"Atorvastatin 20 mg PO nightly\", \"Naproxen 500 mg PO BID PRN pain\"],\n\"observations\": [\"BMI 31.2 kg/m2\", \"LDL 168 mg/dL\"],\n\"procedures\": [\"Right total knee arthroplasty\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\"Osteoarthritis (right knee)\", \"Hyperlipidemia\"],\n\"medications\": [\"Atorvastatin 20 mg PO nightly\", \"Naproxen 500 mg PO BID PRN pain\"],\n\"observations\": [\"BMI 31.2 kg/m2\", \"LDL 168 mg/dL\"],\n\"procedures\": [\"Right total knee arthroplasty\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_87",
+    "conditions": [
+      "Osteoarthritis (right knee)",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Atorvastatin 20 mg PO nightly",
+      "Naproxen 500 mg PO BID PRN pain"
+    ],
+    "observations": [
+      "BMI 31.2 kg/m2",
+      "LDL 168 mg/dL"
+    ],
+    "procedures": [
+      "Right total knee arthroplasty"
+    ]
+  }
+}

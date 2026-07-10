@@ -1,0 +1,20 @@
+{
+  "run_id": "20260520_192127",
+  "patient_id": "patient_05",
+  "repetition": 32,
+  "run": 3,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "timestamp": "2026-05-20T19:28:47.874347",
+  "ok": 1,
+  "status_code": 200,
+  "latency_s": 8.462158300000738,
+  "raw_valid_json": 1,
+  "schema_match": 1,
+  "repair_needed": 0,
+  "extra_keys_count": 0,
+  "missing_keys_count": 0,
+  "malformed_json": 0,
+  "markdown_fence_present": 0,
+  "structural_drift_score": 0.0,
+  "extracted_entities_n": 8
+}

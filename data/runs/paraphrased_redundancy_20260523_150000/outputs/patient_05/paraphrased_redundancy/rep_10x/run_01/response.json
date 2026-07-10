@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R1RnXVydQbcP1BxBYNdlZ5ig",
+  "object": "chat.completion",
+  "created": 1779573878,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"005-90122\",\n  \"conditions\": [\n    \"heart failure with reduced ejection fraction (HFrEF)\",\n    \"atrial fibrillation\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"furosemide\",\n      \"dosage\": \"40 mg\",\n      \"frequency\": \"once daily\"\n    },\n    {\n      \"name\": \"metoprolol succinate\",\n      \"dosage\": \"50 mg\",\n      \"frequency\": \"once daily\"\n    },\n    {\n      \"name\": \"apixaban\",\n      \"dosage\": \"5 mg\",\n      \"frequency\": \"twice daily\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"B-type natriuretic peptide (BNP)\",\n      \"value\": \"820 pg/mL\"\n    },\n    {\n      \"name\": \"heart rate (HR)\",\n      \"value\": \"110 beats per minute\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"electrical cardioversion\",\n      \"date\": \"2026-04-22\"\n    }\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2685,
+    "total_tokens": 2924,
+    "completion_tokens": 239,
+    "estimated_cost": 6.565e-05,
+    "prompt_tokens_details": null
+  }
+}

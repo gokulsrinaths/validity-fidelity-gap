@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RL4H26aDTYcNYQQWv69NVm3R",
+  "object": "chat.completion",
+  "created": 1779573824,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\n\"major depressive disorder\",\n\"insomnia\"\n],\n\"medications\": [\n{\n\"name\": \"sertraline\",\n\"dose\": \"50 mg\",\n\"frequency\": \"once daily\",\n\"route\": \"oral\"\n},\n{\n\"name\": \"trazodone\",\n\"dose\": \"50 mg\",\n\"frequency\": \"as needed\",\n\"route\": \"oral\"\n}\n],\n\"observations\": [\n{\n\"name\": \"PHQ-9 score\",\n\"value\": 16,\n\"unit\": \"\"\n},\n{\n\"name\": \"weight\",\n\"value\": 78.4,\n\"unit\": \"kg\"\n}\n],\n\"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3202,
+    "total_tokens": 3345,
+    "completion_tokens": 143,
+    "estimated_cost": 7.119e-05,
+    "prompt_tokens_details": null
+  }
+}

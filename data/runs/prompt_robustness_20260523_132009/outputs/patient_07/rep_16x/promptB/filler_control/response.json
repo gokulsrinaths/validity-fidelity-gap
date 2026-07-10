@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RzAXVB81f5YzJsPtCFSfEieT",
+  "object": "chat.completion",
+  "created": 1779568063,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"007-22018\",\n  \"conditions\": [\n    \"Osteoarthritis\",\n    \"Hyperlipidemia\"\n  ],\n  \"medications\": [\n    \"Atorvastatin\",\n    \"Naproxen\"\n  ],\n  \"observations\": [\n    {\n      \"name\": \"BMI\",\n      \"value\": \"31.2\"\n    },\n    {\n      \"name\": \"LDL\",\n      \"value\": \"168\"\n    }\n  ],\n  \"procedures\": [\n    \"Right total knee arthroplasty\"\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1486,
+    "total_tokens": 1609,
+    "completion_tokens": 123,
+    "estimated_cost": 3.587e-05,
+    "prompt_tokens_details": null
+  }
+}

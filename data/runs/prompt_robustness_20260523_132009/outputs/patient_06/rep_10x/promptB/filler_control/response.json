@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RsFEpLiqZmXeYuO2S1fl68XN",
+  "object": "chat.completion",
+  "created": 1779567992,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"006-55211\",\n  \"conditions\": [\n    \"Streptococcal pharyngitis\"\n  ],\n  \"medications\": [\n    \"Amoxicillin 500 mg PO BID x 10 days\",\n    \"Ibuprofen 400 mg PO q6h PRN pain/fever\"\n  ],\n  \"observations\": [\n    {\n      \"value\": \"39.0\",\n      \"unit\": \"C\",\n      \"category\": \"Temp\"\n    },\n    {\n      \"value\": \"positive\",\n      \"category\": \"Rapid strep test\"\n    }\n  ],\n  \"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 931,
+    "total_tokens": 1071,
+    "completion_tokens": 140,
+    "estimated_cost": 2.5620000000000002e-05,
+    "prompt_tokens_details": null
+  }
+}

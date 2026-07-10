@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient_06",
+  "conditions": [
+    "Streptococcal pharyngitis"
+  ],
+  "medications": [
+    "Amoxicillin",
+    "Ibuprofen"
+  ],
+  "observations": [
+    "39.0 C",
+    "positive"
+  ],
+  "procedures": []
+}

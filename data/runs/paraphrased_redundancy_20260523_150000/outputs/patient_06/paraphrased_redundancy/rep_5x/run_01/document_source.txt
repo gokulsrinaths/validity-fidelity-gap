@@ -1,0 +1,58 @@
+URGENT CARE NOTE
+Patient: Taylor Brown, MRN: 006-55211, Date of Birth: 2001-09-14
+Chief Complaint: The patient presented with a complaint of a sore throat and fever.
+Assessment: The patient was diagnosed with streptococcal pharyngitis, confirmed by a positive rapid strep
+test.
+Medications: The patient was prescribed Amoxicillin 500 mg orally twice a day for 10 days, and Ibuprofen
+400 mg orally every 6 hours as needed for pain and fever.
+Observations: The patient's temperature was 39.0 degrees Celsius, and the rapid strep test was positive.
+Plan: The patient is to complete the full course of antibiotics as prescribed, and return precautions
+were discussed.
+URGENT CARE NOTE
+Patient: Taylor Brown, MRN: 006-55211, DOB: 2001-09-14
+Date: 2026-05-02
+Chief Complaint: The patient presents with a complaint of a sore throat accompanied by a fever.
+Assessment: Laboratory results confirm the presence of Streptococcal pharyngitis, as evidenced by a
+positive rapid strep test.
+Medications:
+- Amoxicillin 500 mg is prescribed to be taken orally twice a day for a duration of 10 days.
+- Ibuprofen 400 mg is prescribed to be taken orally every 6 hours as needed for pain and fever relief.
+Observations:
+- The patient's temperature is 39.0 degrees Celsius.
+- The rapid strep test result is positive.
+Plan: The patient is advised to complete the full course of antibiotics as prescribed and to follow the
+return precautions discussed.
+URGENT CARE NOTE
+Patient: Taylor Brown, MRN: 006-55211, DOB: 2001-09-14
+Date of Visit: 2026-05-02
+Chief Complaint: The patient presented with complaints of a sore throat and fever.
+Assessment: Laboratory results confirmed the presence of Streptococcal pharyngitis, as indicated by a
+positive rapid strep test.
+Medications: The patient was prescribed Amoxicillin 500 mg orally twice daily for a duration of 10 days,
+and Ibuprofen 400 mg orally every 6 hours as needed for pain and fever.
+Observations: The patient's temperature was recorded at 39.0 degrees Celsius, and the rapid strep test
+was positive.
+Plan: The patient is to complete the full course of antibiotics as prescribed, and return precautions
+were discussed.
+URGENT CARE NOTE
+Patient: Taylor Brown, MRN: 006-55211, DOB: 2001-09-14
+Date of Visit: 2026-05-02
+Chief Complaint: The patient presented with a complaint of a sore throat and fever.
+Assessment: Laboratory results confirmed the presence of Streptococcal pharyngitis, as indicated by a
+positive rapid strep test.
+Medications: The patient was prescribed Amoxicillin 500 mg orally twice daily for a duration of 10 days,
+and Ibuprofen 400 mg orally every 6 hours as needed for pain and fever.
+Observations: The patient's temperature was recorded at 39.0 degrees Celsius, and the rapid strep test
+was positive.
+Plan: The patient is expected to complete the full course of antibiotics as prescribed, and return
+precautions were discussed with the patient.
+URGENT CARE NOTE
+Patient: Taylor Brown, MRN: 006-55211, Date of Birth: 2001-09-14
+Chief Complaint: The patient presented with a complaint of a sore throat and fever.
+Assessment: The patient was diagnosed with streptococcal pharyngitis, confirmed by a positive rapid strep
+test.
+Medications: The patient was prescribed Amoxicillin 500 mg orally twice a day for 10 days, and Ibuprofen
+400 mg orally every 6 hours as needed for pain and fever.
+Observations: The patient's temperature was 39.0 degrees Celsius, and the rapid strep test was positive.
+Plan: The patient is to complete the full course of antibiotics as prescribed, and return precautions
+were discussed.

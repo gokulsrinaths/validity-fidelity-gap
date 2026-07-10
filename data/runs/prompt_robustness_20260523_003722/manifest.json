@@ -1,0 +1,23 @@
+{
+  "run_id": "20260523_003722",
+  "experiment": "prompt_robustness_midrange",
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "temperature": 0.0,
+  "max_tokens": 512,
+  "num_patients": 50,
+  "repetition_levels": [
+    1,
+    5,
+    10,
+    16
+  ],
+  "runs_per_condition": 1,
+  "conditions": [
+    "redundancy",
+    "filler_control"
+  ],
+  "prompts": {
+    "promptA": "baseline",
+    "promptB": "alternative_wording_same_schema"
+  }
+}

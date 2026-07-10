@@ -1,0 +1,36 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"006-55211\",\n  \"conditions\": [\n    \"Streptococcal pharyngitis\"\n  ],\n  \"medications\": [\n    \"Amoxicillin\",\n    \"Ibuprofen\"\n  ],\n  \"observations\": [\n    {\n      \"value\": \"39.0\",\n      \"unit\": \"C\",\n      \"type\": \"Temperature\"\n    },\n    {\n      \"value\": \"positive\",\n      \"type\": \"Rapid strep test\"\n    }\n  ],\n  \"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"006-55211\",\n  \"conditions\": [\n    \"Streptococcal pharyngitis\"\n  ],\n  \"medications\": [\n    \"Amoxicillin\",\n    \"Ibuprofen\"\n  ],\n  \"observations\": [\n    {\n      \"value\": \"39.0\",\n      \"unit\": \"C\",\n      \"type\": \"Temperature\"\n    },\n    {\n      \"value\": \"positive\",\n      \"type\": \"Rapid strep test\"\n    }\n  ],\n  \"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_06",
+    "conditions": [
+      "Streptococcal pharyngitis"
+    ],
+    "medications": [
+      "Amoxicillin",
+      "Ibuprofen"
+    ],
+    "observations": [
+      {
+        "value": "39.0",
+        "unit": "C",
+        "type": "Temperature"
+      },
+      {
+        "value": "positive",
+        "type": "Rapid strep test"
+      }
+    ],
+    "procedures": []
+  }
+}

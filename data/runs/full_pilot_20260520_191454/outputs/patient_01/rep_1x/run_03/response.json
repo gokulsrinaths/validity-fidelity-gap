@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RryDCSF2HmVyqnCiYgcnyw8Z",
+  "object": "chat.completion",
+  "created": 1779329723,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma\", \"Season[]",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 396,
+    "total_tokens": 419,
+    "completion_tokens": 23,
+    "estimated_cost": 9.07e-06,
+    "prompt_tokens_details": null
+  }
+}

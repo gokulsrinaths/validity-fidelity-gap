@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RsZRPet4DQDwUtqtaTNUWKvX",
+  "object": "chat.completion",
+  "created": 1779687897,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"002-11290\",\n\"conditions\": [\"Acute appendicitis\"],\n\"medications\": [\n{\"name\": \"Ceftriaxone\", \"dosage\": \"1 g IV\", \"frequency\": \"pre-op\"},\n{\"name\": \"Metronidazole\", \"dosage\": \"500 mg IV\", \"frequency\": \"pre-op\"},\n{\"name\": \"Acetaminophen\", \"dosage\": \"650 mg PO\", \"frequency\": \"q6h PRN pain\"}\n],\n\"observations\": [\n{\"name\": \"Temperature\", \"value\": \"38.1 C\"},\n{\"name\": \"WBC\", \"value\": \"14.2 K/uL\"}\n],\n\"procedures\": [\n{\"name\": \"Laparoscopic appendectomy\", \"date\": \"2026-03-18\"}\n]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 340,
+    "total_tokens": 517,
+    "completion_tokens": 177,
+    "estimated_cost": 0.0002068,
+    "prompt_tokens_details": null
+  }
+}

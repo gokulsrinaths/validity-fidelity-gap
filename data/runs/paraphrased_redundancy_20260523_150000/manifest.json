@@ -1,0 +1,22 @@
+{
+  "run_id": "20260523_150000",
+  "experiment": "paraphrased_redundancy_midrange",
+  "model_extraction": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "model_paraphrase": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "temperature_extraction": 0.0,
+  "temperature_paraphrase": 0.2,
+  "num_patients": 50,
+  "repetition_levels": [
+    1,
+    5,
+    10,
+    16
+  ],
+  "runs_per_condition": 1,
+  "k_paraphrases": 4,
+  "conditions": [
+    "paraphrased_redundancy",
+    "filler_control"
+  ],
+  "note": "Paraphrases are generated to preserve facts; extraction prompt/schema unchanged."
+}

@@ -1,0 +1,23 @@
+{
+"doc_id": "CITY COUNCIL APPROVES NEW TRANSIT EXPANSION PLAN",
+"events": [
+"Metropolitan City Council voted 7-2",
+"construction would begin in spring 2027",
+"first new station, at Harbor Boulevard, is scheduled to open in late 2029"
+],
+"persons": [
+"Sandra Liu",
+"James Okonkwo",
+"Maria Torres",
+"Ellen Park"
+],
+"organizations": [
+"Metropolitan City Council",
+"Metropolitan Transit Authority"
+],
+"locations": [
+"Green Line subway",
+"downtown corridor",
+"Harbor Boulevard"
+]
+}

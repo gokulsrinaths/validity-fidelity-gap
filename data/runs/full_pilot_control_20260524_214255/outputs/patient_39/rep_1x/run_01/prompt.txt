@@ -1,0 +1,33 @@
+Extract all medical information from the document into this EXACT schema:
+
+{
+"patient_id": "",
+"conditions": [],
+"medications": [],
+"observations": [],
+"procedures": []
+}
+
+Rules:
+
+* Return ONLY valid JSON
+* Do not wrap in markdown
+* Do not add extra keys
+* Do not rename fields
+* Arrays must always exist
+* If empty, use []
+
+Document:
+OUTPATIENT NOTE
+Name: Aisha Johnson MRN: 009-99110 DOB: 1988-06-05
+Date: 2026-04-08
+ASSESSMENT
+- Migraine without aura
+MEDICATIONS
+- Sumatriptan 50 mg PO at onset of headache; may repeat once in 2 hours
+- Propranolol 20 mg PO BID for migraine prevention
+OBSERVATIONS
+- BP 118/74 mmHg
+- Neuro exam: normal
+PLAN
+Trigger avoidance; headache diary; follow up in 6 weeks.

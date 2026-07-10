@@ -1,0 +1,340 @@
+Clinical Note:
+Encounter Note (ED)
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: November 3, 1990
+Encounter Date: March 18, 2026
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female patient reported experiencing 12 hours of right lower quadrant pain accompanied by
+nausea and low-grade fever.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Procedures:
+On March 18, 2026, a laparoscopic appendectomy was performed.
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively,
+acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+Post-operative care will be provided, and the patient will be advanced to a regular diet as tolerated. A
+follow-up appointment in the surgery clinic is scheduled for two weeks.
+Clinical Note:
+Encounter Summary:
+Patient Priya Shah, MRN 002-11290, born 1990-11-03, presented to the emergency department on 2026-03-18.
+Chief Complaint:
+The patient reported experiencing right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female patient had been experiencing right lower quadrant abdominal pain, nausea, and low-
+grade fever for 12 hours.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Interventions:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications:
+The patient received ceftriaxone 1 g IV pre-operatively, metronidazole 500 mg IV pre-operatively, and
+acetaminophen 650 mg orally every 6 hours as needed for pain.
+Vital Signs and Laboratory Results:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+The patient will receive post-operative care, advance to a regular diet as tolerated, and follow up in
+the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Summary:
+Patient Priya Shah, MRN 002-11290, born 1990-11-03, presented on 2026-03-18.
+Chief Symptom:
+Priya reported experiencing right lower quadrant abdominal pain.
+History of Present Illness:
+She had been experiencing this pain, accompanied by nausea and low-grade fever, for 12 hours prior to her
+visit.
+Diagnosis:
+Acute appendicitis was diagnosed.
+Surgical Intervention:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications Administered:
+Prior to surgery, Priya received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively, she
+was prescribed acetaminophen 650 mg orally every 6 hours as needed for pain.
+Vital Signs and Laboratory Results:
+Her temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Post-Operative Care:
+Priya will receive post-operative care, and her diet will be advanced as tolerated. She is scheduled to
+follow up in the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Note (ED)
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: 1990-11-03
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female experienced 12 hours of right lower quadrant pain accompanied by nausea and low-
+grade fever.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Procedures:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively,
+acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+The patient will receive post-operative care, advance to a regular diet as tolerated, and follow up in
+the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Note (ED)
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: November 3, 1990
+Encounter Date: March 18, 2026
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female patient reported experiencing 12 hours of right lower quadrant pain accompanied by
+nausea and low-grade fever.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Procedures:
+On March 18, 2026, a laparoscopic appendectomy was performed.
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively,
+acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+Post-operative care will be provided, and the patient will be advanced to a regular diet as tolerated. A
+follow-up appointment in the surgery clinic is scheduled for two weeks.
+Clinical Note:
+Encounter Summary:
+Patient Priya Shah, MRN 002-11290, born 1990-11-03, presented to the emergency department on 2026-03-18.
+Chief Complaint:
+The patient reported experiencing right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female patient had been experiencing right lower quadrant abdominal pain, nausea, and low-
+grade fever for 12 hours.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Interventions:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications:
+The patient received ceftriaxone 1 g IV pre-operatively, metronidazole 500 mg IV pre-operatively, and
+acetaminophen 650 mg orally every 6 hours as needed for pain.
+Vital Signs and Laboratory Results:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+The patient will receive post-operative care, advance to a regular diet as tolerated, and follow up in
+the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Summary:
+Patient Priya Shah, MRN 002-11290, born 1990-11-03, presented on 2026-03-18.
+Chief Symptom:
+Priya reported experiencing right lower quadrant abdominal pain.
+History of Present Illness:
+She had been experiencing this pain, accompanied by nausea and low-grade fever, for 12 hours prior to her
+visit.
+Diagnosis:
+Acute appendicitis was diagnosed.
+Surgical Intervention:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications Administered:
+Prior to surgery, Priya received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively, she
+was prescribed acetaminophen 650 mg orally every 6 hours as needed for pain.
+Vital Signs and Laboratory Results:
+Her temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Post-Operative Care:
+Priya will receive post-operative care, and her diet will be advanced as tolerated. She is scheduled to
+follow up in the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Note (ED)
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: 1990-11-03
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female experienced 12 hours of right lower quadrant pain accompanied by nausea and low-
+grade fever.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Procedures:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively,
+acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+The patient will receive post-operative care, advance to a regular diet as tolerated, and follow up in
+the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Note (ED)
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: November 3, 1990
+Encounter Date: March 18, 2026
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female patient reported experiencing 12 hours of right lower quadrant pain accompanied by
+nausea and low-grade fever.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Procedures:
+On March 18, 2026, a laparoscopic appendectomy was performed.
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively,
+acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+Post-operative care will be provided, and the patient will be advanced to a regular diet as tolerated. A
+follow-up appointment in the surgery clinic is scheduled for two weeks.
+Clinical Note:
+Encounter Summary:
+Patient Priya Shah, MRN 002-11290, born 1990-11-03, presented to the emergency department on 2026-03-18.
+Chief Complaint:
+The patient reported experiencing right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female patient had been experiencing right lower quadrant abdominal pain, nausea, and low-
+grade fever for 12 hours.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Interventions:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications:
+The patient received ceftriaxone 1 g IV pre-operatively, metronidazole 500 mg IV pre-operatively, and
+acetaminophen 650 mg orally every 6 hours as needed for pain.
+Vital Signs and Laboratory Results:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+The patient will receive post-operative care, advance to a regular diet as tolerated, and follow up in
+the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Summary:
+Patient Priya Shah, MRN 002-11290, born 1990-11-03, presented on 2026-03-18.
+Chief Symptom:
+Priya reported experiencing right lower quadrant abdominal pain.
+History of Present Illness:
+She had been experiencing this pain, accompanied by nausea and low-grade fever, for 12 hours prior to her
+visit.
+Diagnosis:
+Acute appendicitis was diagnosed.
+Surgical Intervention:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications Administered:
+Prior to surgery, Priya received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively, she
+was prescribed acetaminophen 650 mg orally every 6 hours as needed for pain.
+Vital Signs and Laboratory Results:
+Her temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Post-Operative Care:
+Priya will receive post-operative care, and her diet will be advanced as tolerated. She is scheduled to
+follow up in the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Note (ED)
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: 1990-11-03
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female experienced 12 hours of right lower quadrant pain accompanied by nausea and low-
+grade fever.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Procedures:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively,
+acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+The patient will receive post-operative care, advance to a regular diet as tolerated, and follow up in
+the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Note (ED)
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: November 3, 1990
+Encounter Date: March 18, 2026
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female patient reported experiencing 12 hours of right lower quadrant pain accompanied by
+nausea and low-grade fever.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Procedures:
+On March 18, 2026, a laparoscopic appendectomy was performed.
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively,
+acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+Post-operative care will be provided, and the patient will be advanced to a regular diet as tolerated. A
+follow-up appointment in the surgery clinic is scheduled for two weeks.
+Clinical Note:
+Encounter Summary:
+Patient Priya Shah, MRN 002-11290, born 1990-11-03, presented to the emergency department on 2026-03-18.
+Chief Complaint:
+The patient reported experiencing right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female patient had been experiencing right lower quadrant abdominal pain, nausea, and low-
+grade fever for 12 hours.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Interventions:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications:
+The patient received ceftriaxone 1 g IV pre-operatively, metronidazole 500 mg IV pre-operatively, and
+acetaminophen 650 mg orally every 6 hours as needed for pain.
+Vital Signs and Laboratory Results:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+The patient will receive post-operative care, advance to a regular diet as tolerated, and follow up in
+the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Summary:
+Patient Priya Shah, MRN 002-11290, born 1990-11-03, presented on 2026-03-18.
+Chief Symptom:
+Priya reported experiencing right lower quadrant abdominal pain.
+History of Present Illness:
+She had been experiencing this pain, accompanied by nausea and low-grade fever, for 12 hours prior to her
+visit.
+Diagnosis:
+Acute appendicitis was diagnosed.
+Surgical Intervention:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications Administered:
+Prior to surgery, Priya received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively, she
+was prescribed acetaminophen 650 mg orally every 6 hours as needed for pain.
+Vital Signs and Laboratory Results:
+Her temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Post-Operative Care:
+Priya will receive post-operative care, and her diet will be advanced as tolerated. She is scheduled to
+follow up in the surgery clinic in 2 weeks.
+Clinical Note:
+Encounter Note (ED)
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: 1990-11-03
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+History of Present Illness:
+A 35-year-old female experienced 12 hours of right lower quadrant pain accompanied by nausea and low-
+grade fever.
+Assessment:
+The patient was diagnosed with acute appendicitis.
+Procedures:
+A laparoscopic appendectomy was performed on 2026-03-18.
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively,
+acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+Plan:
+The patient will receive post-operative care, advance to a regular diet as tolerated, and follow up in
+the surgery clinic in 2 weeks.

@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RRkJ0oVAUdmD6HeDZclTS0vk",
+  "object": "chat.completion",
+  "created": 1779316504,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\"Major depressive",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2350,
+    "total_tokens": 2367,
+    "completion_tokens": 17,
+    "estimated_cost": 4.7850000000000004e-05,
+    "prompt_tokens_details": null
+  }
+}

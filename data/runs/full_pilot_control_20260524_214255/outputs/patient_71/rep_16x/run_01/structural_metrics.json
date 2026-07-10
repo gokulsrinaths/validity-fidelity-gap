@@ -1,0 +1,9 @@
+{
+  "patient_id": "patient_71",
+  "repetition": 16,
+  "run": 1,
+  "raw_valid_json": 1,
+  "repair_needed": 0,
+  "schema_match": 1,
+  "structural_drift_score": 0.0
+}

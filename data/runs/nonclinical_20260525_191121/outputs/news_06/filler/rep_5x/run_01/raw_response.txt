@@ -1,0 +1,7 @@
+{
+"doc_id": "CHAMPIONSHIP_TEAM_CELEBRATES_VICTORY_PARADE",
+"events": ["Boston Celtics' NBA championship win"],
+"persons": ["Brian Stevens", "Marcus Webb", "Yuki Tanaka", "Dana Alvarez", "Carlos Reyes"],
+"organizations": ["Boston Celtics", "Golden State Warriors"],
+"locations": ["Boston", "Copley Square", "Downtown Crossing", "City Hall Plaza", "TD Garden"]
+}

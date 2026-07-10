@@ -1,0 +1,7 @@
+{
+"doc_id": "BANK REPORTS RECORD QUARTERLY EARNINGS",
+"events": ["First National Bank posted record quarterly earnings of $3.8 billion"],
+"persons": ["Michael Park", "Laura Hendricks"],
+"organizations": ["First National Bank", "Community Savings Bank of Ohio", "Federal Reserve"],
+"locations": ["Midwest", "Ohio"]
+}

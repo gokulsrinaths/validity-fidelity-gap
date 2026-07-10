@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R1ab5fCtP7MLlDKySEj6bE9W",
+  "object": "chat.completion",
+  "created": 1779330681,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"007-22018\",\n  \"conditions\": [\n    \"Osteoarthritis (right knee)\",\n    \"Hyperlipidemia\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Atorvastatin\",\n      \"dosage\": \"20 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"nightly\"\n    },\n    {\n      \"name\": \"Naproxen\",\n      \"dosage\": \"500 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"BID PRN pain\",\n      \"precaution\": \"hold 7 days prior to surgery\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"BMI\",\n      \"value\": 31.2,\n      \"unit\": \"kg/m2\"\n    },\n    {\n      \"name\": \"LDL\",\n      \"value\": 168,\n      \"unit\": \"mg/dL\"\n    }\n  ],\n  \"procedures\": [\n    \"Right total knee arthroplasty\"\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5166,
+    "total_tokens": 5390,
+    "completion_tokens": 224,
+    "estimated_cost": 0.00011451999999999998,
+    "prompt_tokens_details": null
+  }
+}

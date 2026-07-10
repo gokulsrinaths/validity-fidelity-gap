@@ -1,0 +1,37 @@
+{
+  "raw_text": "[1]{\n\"relevance\": \"Yes\",\n\"key_highlights\": [\n  \"Stell Voyah-branded cars in Europe\",\n  \"Stellantis and Dongfeng Group plan to establish a new joint venture that will manufacture and sell Dongfeng vehicles in selected European markets.\",\n  \"The plan to sell Voyah-branded cars in Europe -- 2nd Update\",\n  \"Stellantis and Dongfeng Group plan to establish a new joint venture that will manufacture and sell Dongfeng vehicles in selected European markets.\"\n]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"relevance\": \"Yes\",\n\"key_highlights\": [\n  \"Stell Voyah-branded cars in Europe\",\n  \"Stellantis and Dongfeng Group plan to establish a new joint venture that will manufacture and sell Dongfeng vehicles in selected European markets.\",\n  \"The plan to sell Voyah-branded cars in Europe -- 2nd Update\",\n  \"Stellantis and Dongfeng Group plan to establish a new joint venture that will manufacture and sell Dongfeng vehicles in selected European markets.\"\n]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": false,
+  "repair_needed": true,
+  "extra_keys": [
+    "key_highlights",
+    "relevance"
+  ],
+  "missing_keys": [
+    "conditions",
+    "medications",
+    "observations",
+    "patient_id",
+    "procedures"
+  ],
+  "operations": [
+    "extract_first_json_object",
+    "set_patient_id",
+    "fill_missing_conditions",
+    "fill_missing_medications",
+    "fill_missing_observations",
+    "fill_missing_procedures",
+    "remove_unsupported_keys",
+    "repair_schema_mismatch"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_03",
+    "conditions": [],
+    "medications": [],
+    "observations": [],
+    "procedures": []
+  }
+}

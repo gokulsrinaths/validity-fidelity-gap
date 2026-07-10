@@ -1,0 +1,40 @@
+{
+  "raw_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma exacerbation\"],\n\"medications\": [\n\"Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze\",\n\"Prednisone 40 mg PO daily x 5 days\",\n\"Cetirizine 10 mg PO daily\"\n],\n\"observations\": [\n{\n\"value\": \"94%\",\n\"unit\": \"%\",\n\"category\": \"SpO2\"\n},\n{\n\"value\": \"320\",\n\"unit\": \"L/min\",\n\"category\": \"Peak flow\"\n}\n],\n\"procedures\": [\"Nebulized bronchodilator treatment in ED\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma exacerbation\"],\n\"medications\": [\n\"Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze\",\n\"Prednisone 40 mg PO daily x 5 days\",\n\"Cetirizine 10 mg PO daily\"\n],\n\"observations\": [\n{\n\"value\": \"94%\",\n\"unit\": \"%\",\n\"category\": \"SpO2\"\n},\n{\n\"value\": \"320\",\n\"unit\": \"L/min\",\n\"category\": \"Peak flow\"\n}\n],\n\"procedures\": [\"Nebulized bronchodilator treatment in ED\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_01",
+    "conditions": [
+      "Asthma exacerbation"
+    ],
+    "medications": [
+      "Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze",
+      "Prednisone 40 mg PO daily x 5 days",
+      "Cetirizine 10 mg PO daily"
+    ],
+    "observations": [
+      {
+        "value": "94%",
+        "unit": "%",
+        "category": "SpO2"
+      },
+      {
+        "value": "320",
+        "unit": "L/min",
+        "category": "Peak flow"
+      }
+    ],
+    "procedures": [
+      "Nebulized bronchodilator treatment in ED"
+    ]
+  }
+}

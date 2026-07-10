@@ -1,0 +1,20 @@
+{
+"patient_id": "003-77211",
+"conditions": [
+"Type 2 diabetes mellitus",
+"Hypertension",
+"Diabetic foot ulcer (left)"
+],
+"medications": [
+"Metformin 1000 mg PO BID with meals",
+"Lisinopril 10 mg PO daily",
+"Amoxicillin-clavulanate 875/125 mg PO BID x 7 days"
+],
+"observations": [
+"A1c 8.7%",
+"BP 152/92 mmHg"
+],
+"procedures": [
+"Wound debridement (left foot) 2026-02-11"
+]
+}

@@ -1,0 +1,41 @@
+{
+  "raw_text": "{\n\"patient_id\": \"006-55211\",\n\"conditions\": [\"streptococcal pharyngitis\"],\n\"medications\": [\n  {\"name\": \"Amoxicillin\", \"dosage\": \"500 mg\", \"frequency\": \"twice a day\", \"duration\": \"10 days\"},\n  {\"name\": \"Ibuprofen\", \"dosage\": \"400 mg\", \"frequency\": \"every 6 hours\", \"duration\": \"as needed\"}\n],\n\"observations\": [\n  {\"temperature\": 39.0, \"test_result\": \"positive\"}\n],\n\"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"006-55211\",\n\"conditions\": [\"streptococcal pharyngitis\"],\n\"medications\": [\n  {\"name\": \"Amoxicillin\", \"dosage\": \"500 mg\", \"frequency\": \"twice a day\", \"duration\": \"10 days\"},\n  {\"name\": \"Ibuprofen\", \"dosage\": \"400 mg\", \"frequency\": \"every 6 hours\", \"duration\": \"as needed\"}\n],\n\"observations\": [\n  {\"temperature\": 39.0, \"test_result\": \"positive\"}\n],\n\"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_06",
+    "conditions": [
+      "streptococcal pharyngitis"
+    ],
+    "medications": [
+      {
+        "name": "Amoxicillin",
+        "dosage": "500 mg",
+        "frequency": "twice a day",
+        "duration": "10 days"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "400 mg",
+        "frequency": "every 6 hours",
+        "duration": "as needed"
+      }
+    ],
+    "observations": [
+      {
+        "temperature": 39.0,
+        "test_result": "positive"
+      }
+    ],
+    "procedures": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R83UT25ARCVE5I3Fh1H49thE",
+  "object": "chat.completion",
+  "created": 1779567797,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"003-77211\",\n  \"conditions\": [\n    \"Type 2 diabetes mellitus\",\n    \"Hypertension\",\n    \"Diabetic foot ulcer (left)\"\n  ],\n  \"medications\": [\n    \"Metformin 1000 mg PO BID with meals\",\n    \"Lisinopril 10 mg PO daily\",\n    \"Amoxicillin-clavulanate 875/125 mg PO BID x 7 days\"\n  ],\n  \"observations\": [\n    {\n      \"value\": 8.7,\n      \"unit\": \"%\",\n      \"name\": \"A1c\"\n    },\n    {\n      \"value\": 152,\n      \"unit\": \"mmHg\",\n      \"name\": \"BP systolic\"\n    },\n    {\n      \"value\": 92,\n      \"unit\": \"mmHg\",\n      \"name\": \"BP diastolic\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Wound debridement (left foot)\",\n      \"date\": \"2026-02-11\"\n    }\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 378,
+    "total_tokens": 613,
+    "completion_tokens": 235,
+    "estimated_cost": 1.931e-05,
+    "prompt_tokens_details": null
+  }
+}

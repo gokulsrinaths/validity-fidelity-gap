@@ -1,0 +1,7 @@
+{
+"doc_id": "TECH GIANT ACQUIRES AI STARTUP FOR $800 MILLION",
+"events": [],
+"persons": ["David Chen", "Rachel Goldstein", "Priya Anand"],
+"organizations": ["Apex Technologies", "NeuralPath Inc.", "Sequoia Capital", "Andreessen Horowitz"],
+"locations": ["Austin", "Texas"]
+}

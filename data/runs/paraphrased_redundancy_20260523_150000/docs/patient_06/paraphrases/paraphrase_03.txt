@@ -1,0 +1,15 @@
+URGENT CARE NOTE
+
+Patient: Taylor Brown, MRN: 006-55211, DOB: 2001-09-14
+
+Date of Visit: 2026-05-02
+
+Chief Complaint: The patient presented with complaints of a sore throat and fever.
+
+Assessment: Laboratory results confirmed the presence of Streptococcal pharyngitis, as indicated by a positive rapid strep test.
+
+Medications: The patient was prescribed Amoxicillin 500 mg orally twice daily for a duration of 10 days, and Ibuprofen 400 mg orally every 6 hours as needed for pain and fever.
+
+Observations: The patient's temperature was recorded at 39.0 degrees Celsius, and the rapid strep test was positive.
+
+Plan: The patient is to complete the full course of antibiotics as prescribed, and return precautions were discussed.

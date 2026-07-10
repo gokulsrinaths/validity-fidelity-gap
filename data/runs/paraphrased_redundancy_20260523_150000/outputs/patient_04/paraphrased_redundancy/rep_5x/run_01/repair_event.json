@@ -1,0 +1,44 @@
+{
+  "raw_text": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\"major depressive disorder\", \"insomnia\"],\n\"medications\": [\n  {\"name\": \"sertraline\", \"dosage\": \"50 mg\", \"frequency\": \"once daily\"},\n  {\"name\": \"trazodone\", \"dosage\": \"50 mg\", \"frequency\": \"as needed at bedtime\"}\n],\n\"observations\": [\n  {\"score\": 16, \"description\": \"significant depressive symptoms\"},\n  {\"value\": 78.4, \"description\": \"weight\"}\n],\n\"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\"major depressive disorder\", \"insomnia\"],\n\"medications\": [\n  {\"name\": \"sertraline\", \"dosage\": \"50 mg\", \"frequency\": \"once daily\"},\n  {\"name\": \"trazodone\", \"dosage\": \"50 mg\", \"frequency\": \"as needed at bedtime\"}\n],\n\"observations\": [\n  {\"score\": 16, \"description\": \"significant depressive symptoms\"},\n  {\"value\": 78.4, \"description\": \"weight\"}\n],\n\"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_04",
+    "conditions": [
+      "major depressive disorder",
+      "insomnia"
+    ],
+    "medications": [
+      {
+        "name": "sertraline",
+        "dosage": "50 mg",
+        "frequency": "once daily"
+      },
+      {
+        "name": "trazodone",
+        "dosage": "50 mg",
+        "frequency": "as needed at bedtime"
+      }
+    ],
+    "observations": [
+      {
+        "score": 16,
+        "description": "significant depressive symptoms"
+      },
+      {
+        "value": 78.4,
+        "description": "weight"
+      }
+    ],
+    "procedures": []
+  }
+}

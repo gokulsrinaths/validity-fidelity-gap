@@ -1,0 +1,22 @@
+{
+  "patient_id": "006-55211",
+  "conditions": [
+    "Streptococcal pharyngitis"
+  ],
+  "medications": [
+    "Amoxicillin",
+    "Ibuprofen"
+  ],
+  "observations": [
+    {
+      "value": "39.0",
+      "unit": "C",
+      "type": "Temperature"
+    },
+    {
+      "value": "positive",
+      "type": "Rapid strep test"
+    }
+  ],
+  "procedures": []
+}

@@ -1,0 +1,33 @@
+{
+  "raw_text": "{\n\"patient_id\": \"008-33009\",\n\"conditions\": [\"Community-acquired pneumonia\", \"Chronic obstructive pulmonary disease (COPD)\"],\n\"medications\": [\"Azithromycin 500 mg PO day 1 then 250 mg daily days 2-5\", \"Prednisone 40 mg PO daily x 5 days\", \"Tiotropium inhaler: 2 puffs inhaled daily\"],\n\"observations\": [\"SpO2 91% on room air\", \"RR 24 /min\"],\n\"procedures\": [\"Supplemental oxygen therapy\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"008-33009\",\n\"conditions\": [\"Community-acquired pneumonia\", \"Chronic obstructive pulmonary disease (COPD)\"],\n\"medications\": [\"Azithromycin 500 mg PO day 1 then 250 mg daily days 2-5\", \"Prednisone 40 mg PO daily x 5 days\", \"Tiotropium inhaler: 2 puffs inhaled daily\"],\n\"observations\": [\"SpO2 91% on room air\", \"RR 24 /min\"],\n\"procedures\": [\"Supplemental oxygen therapy\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_58",
+    "conditions": [
+      "Community-acquired pneumonia",
+      "Chronic obstructive pulmonary disease (COPD)"
+    ],
+    "medications": [
+      "Azithromycin 500 mg PO day 1 then 250 mg daily days 2-5",
+      "Prednisone 40 mg PO daily x 5 days",
+      "Tiotropium inhaler: 2 puffs inhaled daily"
+    ],
+    "observations": [
+      "SpO2 91% on room air",
+      "RR 24 /min"
+    ],
+    "procedures": [
+      "Supplemental oxygen therapy"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ok": false,
+  "status_code": null,
+  "latency_s": 2.0418110999999044,
+  "error": "Failed after 5 attempts: HTTPSConnectionPool(host='api.deepinfra.com', port=443): Max retries exceeded with url: /v1/openai/chat/completions (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=9): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\")))",
+  "response_json": null
+}

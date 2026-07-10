@@ -1,0 +1,36 @@
+{
+  "patient_id": "patient_01",
+  "conditions": [
+    "asthma exacerbation"
+  ],
+  "medications": [
+    {
+      "name": "Albuterol inhaler",
+      "dosage": "90 mcg",
+      "frequency": "2 puffs inhaled every 4-6 hours as needed for wheezing"
+    },
+    {
+      "name": "Prednisone",
+      "dosage": "40 mg",
+      "frequency": "orally daily for 5 days"
+    },
+    {
+      "name": "Cetirizine",
+      "dosage": "10 mg",
+      "frequency": "orally daily"
+    }
+  ],
+  "observations": [
+    {
+      "vital_sign": "oxygen saturation",
+      "value": "94%"
+    },
+    {
+      "vital_sign": "peak flow",
+      "value": "320 liters per minute"
+    }
+  ],
+  "procedures": [
+    "Nebulized bronchodilator treatment"
+  ]
+}

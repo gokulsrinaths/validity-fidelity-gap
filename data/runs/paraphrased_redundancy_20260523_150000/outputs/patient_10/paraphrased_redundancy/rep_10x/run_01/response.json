@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RUTiw89vaeW1olA2CHS5Bj3P",
+  "object": "chat.completion",
+  "created": 1779574162,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"010-77345\",\n  \"conditions\": [\n    \"Acute kidney injury of pre-renal origin\",\n    \"Dehydration\"\n  ],\n  \"medications\": [\n    \"Normal saline IV fluids\",\n    \"Ondansetron 4 mg orally disintegrating tablets\"\n  ],\n  \"observations\": [\n    {\n      \"value\": 2.1,\n      \"unit\": \"mg/dL\",\n      \"description\": \"Creatinine level upon admission\"\n    },\n    {\n      \"value\": 1.4,\n      \"unit\": \"mg/dL\",\n      \"description\": \"Creatinine level at discharge\"\n    },\n    {\n      \"value\": 38,\n      \"unit\": \"mg/dL\",\n      \"description\": \"BUN level\"\n    }\n  ],\n  \"procedures\": [\n    \"IV fluid resuscitation\"\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2500,
+    "total_tokens": 2687,
+    "completion_tokens": 187,
+    "estimated_cost": 5.935e-05,
+    "prompt_tokens_details": null
+  }
+}

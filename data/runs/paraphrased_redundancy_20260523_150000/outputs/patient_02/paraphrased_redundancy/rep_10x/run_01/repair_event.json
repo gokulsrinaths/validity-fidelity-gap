@@ -1,0 +1,53 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"002-11290\",\n  \"conditions\": [\n    \"acute appendicitis\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"ceftriaxone\",\n      \"dose\": \"1 g\",\n      \"route\": \"IV\",\n      \"time\": \"pre-operatively\"\n    },\n    {\n      \"name\": \"metronidazole\",\n      \"dose\": \"500 mg\",\n      \"route\": \"IV\",\n      \"time\": \"pre-operatively\"\n    },\n    {\n      \"name\": \"acetaminophen\",\n      \"dose\": \"650 mg\",\n      \"route\": \"PO\",\n      \"time\": \"post-operatively\",\n      \"frequency\": \"every 6 hours\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"temperature\": 38.1,\n      \"white_blood_cell_count\": 14.2\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"laparoscopic appendectomy\",\n      \"date\": \"2026-03-18\"\n    }\n  ]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"002-11290\",\n  \"conditions\": [\n    \"acute appendicitis\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"ceftriaxone\",\n      \"dose\": \"1 g\",\n      \"route\": \"IV\",\n      \"time\": \"pre-operatively\"\n    },\n    {\n      \"name\": \"metronidazole\",\n      \"dose\": \"500 mg\",\n      \"route\": \"IV\",\n      \"time\": \"pre-operatively\"\n    },\n    {\n      \"name\": \"acetaminophen\",\n      \"dose\": \"650 mg\",\n      \"route\": \"PO\",\n      \"time\": \"post-operatively\",\n      \"frequency\": \"every 6 hours\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"temperature\": 38.1,\n      \"white_blood_cell_count\": 14.2\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"laparoscopic appendectomy\",\n      \"date\": \"2026-03-18\"\n    }\n  ]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_02",
+    "conditions": [
+      "acute appendicitis"
+    ],
+    "medications": [
+      {
+        "name": "ceftriaxone",
+        "dose": "1 g",
+        "route": "IV",
+        "time": "pre-operatively"
+      },
+      {
+        "name": "metronidazole",
+        "dose": "500 mg",
+        "route": "IV",
+        "time": "pre-operatively"
+      },
+      {
+        "name": "acetaminophen",
+        "dose": "650 mg",
+        "route": "PO",
+        "time": "post-operatively",
+        "frequency": "every 6 hours"
+      }
+    ],
+    "observations": [
+      {
+        "temperature": 38.1,
+        "white_blood_cell_count": 14.2
+      }
+    ],
+    "procedures": [
+      {
+        "name": "laparoscopic appendectomy",
+        "date": "2026-03-18"
+      }
+    ]
+  }
+}

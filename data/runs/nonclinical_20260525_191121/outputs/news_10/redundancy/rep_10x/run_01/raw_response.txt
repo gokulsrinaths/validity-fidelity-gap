@@ -1,0 +1,22 @@
+{
+"doc_id": "CITY SCHOOL DISTRICT ADOPTS AI TUTORING PROGRAM",
+"events": [
+"partnership",
+"deployment",
+"hearing"
+],
+"persons": [
+"Angela Morales",
+"James Fowler",
+"Diane Wong"
+],
+"organizations": [
+"Los Angeles Unified School District",
+"EduAI Corp",
+"Families for Public Education",
+"ACLU of California"
+],
+"locations": [
+"Los Angeles"
+]
+}

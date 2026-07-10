@@ -1,0 +1,2 @@
+total_entity_instances,total_fn_cases,fn_recovered_as_nested_dict,knowledge_retention_rate,rep_5x_fn_total,rep_5x_fn_as_dict,rep_5x_knowledge_retention,rep_16x_fn_total,rep_16x_fn_as_dict,rep_16x_knowledge_retention
+500,280,280,1.0,130,130,1.0,150,150,1.0

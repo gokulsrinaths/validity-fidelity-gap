@@ -1,0 +1,55 @@
+{
+  "raw_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma exacerbation\"],\n\"medications\": [\n  {\"name\": \"Albuterol inhaler\", \"dosage\": \"90 mcg\", \"frequency\": \"q4-6h\", \"route\": \"inhaled\", \"prn\": \"wheeze\"},\n  {\"name\": \"Prednisone\", \"dosage\": \"40 mg\", \"frequency\": \"daily\", \"route\": \"PO\", \"duration\": \"5 days\"},\n  {\"name\": \"Cetirizine\", \"dosage\": \"10 mg\", \"frequency\": \"daily\", \"route\": \"PO\"}\n],\n\"observations\": [\n  {\"name\": \"SpO2\", \"value\": \"94%\"},\n  {\"name\": \"Peak flow\", \"value\": \"320 L/min\"}\n],\n\"procedures\": [\"Nebulized bronchodilator treatment\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma exacerbation\"],\n\"medications\": [\n  {\"name\": \"Albuterol inhaler\", \"dosage\": \"90 mcg\", \"frequency\": \"q4-6h\", \"route\": \"inhaled\", \"prn\": \"wheeze\"},\n  {\"name\": \"Prednisone\", \"dosage\": \"40 mg\", \"frequency\": \"daily\", \"route\": \"PO\", \"duration\": \"5 days\"},\n  {\"name\": \"Cetirizine\", \"dosage\": \"10 mg\", \"frequency\": \"daily\", \"route\": \"PO\"}\n],\n\"observations\": [\n  {\"name\": \"SpO2\", \"value\": \"94%\"},\n  {\"name\": \"Peak flow\", \"value\": \"320 L/min\"}\n],\n\"procedures\": [\"Nebulized bronchodilator treatment\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_01",
+    "conditions": [
+      "Asthma exacerbation"
+    ],
+    "medications": [
+      {
+        "name": "Albuterol inhaler",
+        "dosage": "90 mcg",
+        "frequency": "q4-6h",
+        "route": "inhaled",
+        "prn": "wheeze"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "40 mg",
+        "frequency": "daily",
+        "route": "PO",
+        "duration": "5 days"
+      },
+      {
+        "name": "Cetirizine",
+        "dosage": "10 mg",
+        "frequency": "daily",
+        "route": "PO"
+      }
+    ],
+    "observations": [
+      {
+        "name": "SpO2",
+        "value": "94%"
+      },
+      {
+        "name": "Peak flow",
+        "value": "320 L/min"
+      }
+    ],
+    "procedures": [
+      "Nebulized bronchodilator treatment"
+    ]
+  }
+}

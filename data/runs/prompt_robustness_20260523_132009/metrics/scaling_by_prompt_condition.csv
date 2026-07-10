@@ -1,0 +1,17 @@
+repetition,n,f1_mean,omission_mean,halluc_mean,prompt,condition
+1,10,0.48018674136321193,3.9,3.6,promptA,filler_control
+5,10,0.5098926237161531,3.8,3.4,promptA,filler_control
+10,10,0.4745985060690943,4.1,3.7,promptA,filler_control
+16,10,0.4459080298786181,4.3,4.0,promptA,filler_control
+1,10,0.46989262371615315,4.0,3.6,promptA,redundancy
+5,10,0.3249556489262372,5.0,4.6,promptA,redundancy
+10,10,0.3205298786181139,5.0,4.7,promptA,redundancy
+16,10,0.2919584500466853,5.2,4.9,promptA,redundancy
+1,10,0.4046940881615805,4.5,4.3,promptB,filler_control
+5,10,0.3966830065359477,4.7,4.4,promptB,filler_control
+10,10,0.3593790849673203,4.8,4.5,promptB,filler_control
+16,10,0.2804925303454715,5.4,5.1,promptB,filler_control
+1,10,0.4018369453044376,4.5,4.4,promptB,redundancy
+5,10,0.30338702147525676,5.2,4.9,promptB,redundancy
+10,10,0.30624416433239965,5.1,4.8,promptB,redundancy
+16,10,0.23640289449112978,5.6,5.3,promptB,redundancy

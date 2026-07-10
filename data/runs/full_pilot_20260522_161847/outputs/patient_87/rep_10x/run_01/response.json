@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RqwAkoboH2nJ8NoKkZWhgmzq",
+  "object": "chat.completion",
+  "created": 1779493136,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\n\"Osteoarthritis (right knee)\",\n\"Hyperlipidemia\"\n],\n\"medications\": [\n{\n\"name\": \"Atorvastatin\",\n\"dose\": \"20 mg\",\n\"route\": \"PO\",\n\"frequency\": \"nightly\"\n},\n{\n\"name\": \"Naproxen\",\n\"dose\": \"500 mg\",\n\"route\": \"PO\",\n\"frequency\": \"BID PRN pain\",\n\"pre_surgery_instruction\": \"hold 7 days prior to surgery\"\n}\n],\n\"observations\": [\n{\n\"name\": \"BMI\",\n\"value\": \"31.2 kg/m2\"\n},\n{\n\"name\": \"LDL\",\n\"value\": \"168 mg/dL\"\n}\n],\n\"procedures\": [\n\"Right total knee arthroplasty\"\n]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1712,
+    "total_tokens": 1884,
+    "completion_tokens": 172,
+    "estimated_cost": 4.2839999999999996e-05,
+    "prompt_tokens_details": null
+  }
+}

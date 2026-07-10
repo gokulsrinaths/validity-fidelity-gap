@@ -1,0 +1,76 @@
+patient_id,n_gold_meds,recall_structured_1x,recall_structured_16x,recall_freeform_1x_doc,gap_freeform_minus_structured,probe_response_snippet
+patient_01,3,0.0,0.0,1.0,1.0,"Albuterol inhaler 90 mcg
+Prednisone 40 mg
+Cetirizine 10 mg"
+patient_02,3,1.0,0.0,1.0,1.0,"Ceftriaxone 1 g IV
+Metronidazole 500 mg IV
+Acetaminophen 650 mg PO q6h"
+patient_03,3,1.0,1.0,0.6666666666666666,-0.33333333333333337,"Metformin 1000 mg PO BID
+Lisinopril 10 mg PO daily
+Amoxicillin-clavulanate 875/125 mg PO BID"
+patient_04,2,1.0,1.0,1.0,0.0,"Sertraline 50 mg PO daily
+Trazodone 50 mg PO at bedtime PRN sleep"
+patient_05,3,1.0,0.0,1.0,1.0,"Furosemide 40 mg PO daily
+Metoprolol succinate 50 mg PO daily
+Apixaban 5 mg PO BID"
+patient_06,2,1.0,0.0,1.0,1.0,"Amoxicillin 500 mg PO BID x 10 days
+Ibuprofen 400 mg PO q6h PRN pain/fever"
+patient_07,2,1.0,0.0,1.0,1.0,"Atorvastatin 20 mg
+Naproxen 500 mg BID"
+patient_08,3,1.0,1.0,1.0,0.0,"Azithromycin 500 mg PO day 1 then 250 mg daily days 2-5
+Prednisone 40 mg PO daily x 5 days
+Tiotropium inhaler: 2 puffs inhaled daily"
+patient_09,2,0.0,0.0,1.0,1.0,"Sumatriptan 50 mg PO
+Propranolol 20 mg PO BID"
+patient_10,2,1.0,1.0,1.0,0.0,"Normal saline IV fluids
+Ondansetron 4 mg ODT q8h"
+patient_100,2,1.0,1.0,1.0,0.0,"Normal saline IV fluids
+Ondansetron 4 mg ODT q8h"
+patient_11,3,0.0,0.0,1.0,1.0,"Albuterol inhaler 90 mcg
+Prednisone 40 mg
+Cetirizine 10 mg"
+patient_12,3,1.0,0.0,1.0,1.0,"Ceftriaxone 1 g IV
+Metronidazole 500 mg IV
+Acetaminophen 650 mg PO q6h"
+patient_13,3,1.0,1.0,0.6666666666666666,-0.33333333333333337,"Metformin 1000 mg PO BID
+Lisinopril 10 mg PO daily
+Amoxicillin-clavulanate 875/125 mg PO BID"
+patient_14,2,1.0,1.0,1.0,0.0,"Sertraline 50 mg PO daily
+Trazodone 50 mg PO at bedtime PRN sleep"
+patient_15,3,1.0,0.0,1.0,1.0,"Furosemide 40 mg PO daily
+Metoprolol succinate 50 mg PO daily
+Apixaban 5 mg PO BID"
+patient_16,2,1.0,0.0,1.0,1.0,"Amoxicillin 500 mg PO BID x 10 days
+Ibuprofen 400 mg PO q6h PRN pain/fever"
+patient_17,2,1.0,0.0,1.0,1.0,"Atorvastatin 20 mg
+Naproxen 500 mg BID"
+patient_18,3,1.0,1.0,1.0,0.0,"Azithromycin 500 mg PO day 1 then 250 mg daily days 2-5
+Prednisone 40 mg PO daily x 5 days
+Tiotropium inhaler: 2 puffs inhaled daily"
+patient_19,2,1.0,0.0,1.0,1.0,"Sumatriptan 50 mg PO
+Propranolol 20 mg PO BID"
+patient_20,2,1.0,1.0,1.0,0.0,"Normal saline IV fluids
+Ondansetron 4 mg ODT q8h"
+patient_21,3,0.0,0.0,1.0,1.0,"Albuterol inhaler 90 mcg
+Prednisone 40 mg
+Cetirizine 10 mg"
+patient_22,3,1.0,0.0,1.0,1.0,"Ceftriaxone 1 g IV
+Metronidazole 500 mg IV
+Acetaminophen 650 mg PO q6h"
+patient_23,3,1.0,1.0,0.6666666666666666,-0.33333333333333337,"Metformin 1000 mg PO BID
+Lisinopril 10 mg PO daily
+Amoxicillin-clavulanate 875/125 mg PO BID"
+patient_24,2,1.0,1.0,1.0,0.0,"Sertraline 50 mg PO daily
+Trazodone 50 mg PO at bedtime PRN sleep"
+patient_25,3,1.0,0.0,1.0,1.0,"Furosemide 40 mg PO daily
+Metoprolol succinate 50 mg PO daily
+Apixaban 5 mg PO BID"
+patient_26,2,1.0,0.0,1.0,1.0,"Amoxicillin 500 mg PO BID x 10 days
+Ibuprofen 400 mg PO q6h PRN pain/fever"
+patient_27,2,1.0,0.0,1.0,1.0,"Atorvastatin 20 mg
+Naproxen 500 mg BID"
+patient_28,3,1.0,1.0,1.0,0.0,"Azithromycin 500 mg PO day 1 then 250 mg daily days 2-5
+Prednisone 40 mg PO daily x 5 days
+Tiotropium inhaler: 2 puffs inhaled daily"
+patient_29,2,0.0,0.0,1.0,1.0,"Sumatriptan 50 mg PO
+Propranolol 20 mg PO BID"

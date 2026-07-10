@@ -1,0 +1,13 @@
+model_key,condition,repetition,f1_mean,omission_mean,halluc_mean,entities_mean
+llama70b,filler_control,1,0.4747152194211017,4.0,3.8,7.1
+llama70b,filler_control,2,0.46491129785247426,4.1,3.9,7.1
+llama70b,filler_control,5,0.5638842203548086,3.3,3.2,7.2
+llama70b,filler_control,10,0.5067413632119514,3.7,3.6,7.2
+llama70b,filler_control,16,0.5638842203548086,3.3,3.2,7.2
+llama70b,filler_control,32,0.5495985060690943,3.4,3.3,7.2
+llama70b,redundancy,1,0.4747152194211017,4.0,3.8,7.1
+llama70b,redundancy,2,0.49824463118580764,3.8,3.6,7.1
+llama70b,redundancy,5,0.5495985060690943,3.4,3.3,7.2
+llama70b,redundancy,10,0.5495985060690943,3.4,3.3,7.2
+llama70b,redundancy,16,0.5495985060690943,3.4,3.3,7.2
+llama70b,redundancy,32,0.5495985060690943,3.4,3.3,7.2

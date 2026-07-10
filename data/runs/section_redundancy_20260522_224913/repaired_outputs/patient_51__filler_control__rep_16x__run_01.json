@@ -1,0 +1,26 @@
+{
+  "patient_id": "patient_51",
+  "conditions": [
+    "Asthma exacerbation"
+  ],
+  "medications": [
+    "Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze",
+    "Prednisone 40 mg PO daily x 5 days",
+    "Cetirizine 10 mg PO daily"
+  ],
+  "observations": [
+    {
+      "value": "94%",
+      "unit": "%",
+      "category": "SpO2"
+    },
+    {
+      "value": "320",
+      "unit": "L/min",
+      "category": "Peak flow"
+    }
+  ],
+  "procedures": [
+    "Nebulized bronchodilator treatment in ED"
+  ]
+}

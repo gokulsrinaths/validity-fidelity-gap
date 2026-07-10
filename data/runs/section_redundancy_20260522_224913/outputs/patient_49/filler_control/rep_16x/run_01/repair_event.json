@@ -1,0 +1,29 @@
+{
+  "raw_text": "{\n\"patient_id\": \"009-99110\",\n\"conditions\": [\"Migraine without aura\"],\n\"medications\": [\"Sumatriptan 50 mg PO at onset of headache; may repeat once in 2 hours\", \"Propranolol 20 mg PO BID for migraine prevention\"],\n\"observations\": [\"BP 118/74 mmHg\", \"Neuro exam: normal\"],\n\"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"009-99110\",\n\"conditions\": [\"Migraine without aura\"],\n\"medications\": [\"Sumatriptan 50 mg PO at onset of headache; may repeat once in 2 hours\", \"Propranolol 20 mg PO BID for migraine prevention\"],\n\"observations\": [\"BP 118/74 mmHg\", \"Neuro exam: normal\"],\n\"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_49",
+    "conditions": [
+      "Migraine without aura"
+    ],
+    "medications": [
+      "Sumatriptan 50 mg PO at onset of headache; may repeat once in 2 hours",
+      "Propranolol 20 mg PO BID for migraine prevention"
+    ],
+    "observations": [
+      "BP 118/74 mmHg",
+      "Neuro exam: normal"
+    ],
+    "procedures": []
+  }
+}

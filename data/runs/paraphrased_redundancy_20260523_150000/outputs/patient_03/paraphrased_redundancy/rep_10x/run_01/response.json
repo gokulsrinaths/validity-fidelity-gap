@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-Rrpjhd5heOp15rwNjLQysS5T",
+  "object": "chat.completion",
+  "created": 1779573763,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"003-77211\",\n  \"conditions\": [\n    \"Type 2 diabetes mellitus\",\n    \"Hypertension\",\n    \"Diabetic foot ulcer on the left foot\"\n  ],\n  \"medications\": [\n    \"Metformin 1000 mg orally twice a day with meals\",\n    \"Lisinopril 10 mg orally once a day\",\n    \"Amoxicillin-clavulanate 875/125 mg orally twice a day for 7 days\"\n  ],\n  \"observations\": [\n    {\n      \"type\": \"A1c level\",\n      \"value\": \"8.7%\"\n    },\n    {\n      \"type\": \"Blood pressure\",\n      \"value\": \"152/92 mmHg\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Wound debridement of the left foot\",\n      \"date\": \"2026-02-11\"\n    }\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2665,
+    "total_tokens": 2867,
+    "completion_tokens": 202,
+    "estimated_cost": 6.34e-05,
+    "prompt_tokens_details": null
+  }
+}

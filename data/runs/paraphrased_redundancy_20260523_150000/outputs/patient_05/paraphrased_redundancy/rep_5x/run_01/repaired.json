@@ -1,0 +1,30 @@
+{
+  "patient_id": "patient_05",
+  "conditions": [
+    "heart failure with reduced ejection fraction (HFrEF)",
+    "atrial fibrillation"
+  ],
+  "medications": [
+    "furosemide 40 mg orally once daily",
+    "metoprolol succinate 50 mg orally once daily",
+    "apixaban 5 mg orally twice daily"
+  ],
+  "observations": [
+    {
+      "value": 820,
+      "unit": "pg/mL",
+      "description": "B-type natriuretic peptide (BNP) level"
+    },
+    {
+      "value": 110,
+      "unit": "beats per minute",
+      "description": "heart rate"
+    }
+  ],
+  "procedures": [
+    {
+      "name": "Electrical cardioversion",
+      "date": "2026-04-22"
+    }
+  ]
+}

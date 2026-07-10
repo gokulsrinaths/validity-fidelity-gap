@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R1ddWEbrke32WsbOAMNsCvN0",
+  "object": "chat.completion",
+  "created": 1779347771,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"009-99110\",\n  \"conditions\": [\n    {\n      \"name\": \"Migraine without aura\"\n    }\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Sumatriptan\",\n      \"dosage\": \"50 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"at onset of headache; may repeat once in 2 hours\"\n    },\n    {\n      \"name\": \"Propranolol\",\n      \"dosage\": \"20 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"BID for migraine prevention\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"BP\",\n      \"value\": \"118/74 mmHg\"\n    },\n    {\n      \"name\": \"Neuro exam\",\n      \"value\": \"normal\"\n    }\n  ],\n  \"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2269,
+    "total_tokens": 2458,
+    "completion_tokens": 189,
+    "estimated_cost": 5.483e-05,
+    "prompt_tokens_details": null
+  }
+}

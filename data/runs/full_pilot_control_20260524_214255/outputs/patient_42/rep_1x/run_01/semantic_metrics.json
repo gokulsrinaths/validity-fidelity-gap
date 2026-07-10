@@ -1,0 +1,20 @@
+{
+  "run_id": "20260524_214255",
+  "patient_id": "patient_42",
+  "repetition": 1,
+  "run": 1,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "timestamp": "2026-05-24T22:33:38.120244",
+  "ok": 1,
+  "status_code": 200,
+  "latency_s": 19.472800600000483,
+  "micro_precision": 0.14285714285714285,
+  "micro_recall": 0.14285714285714285,
+  "micro_f1": 0.14285714285714285,
+  "omission_count": 6,
+  "hallucination_count": 6,
+  "drift_vs_1x": 0.0,
+  "drift_vs_gold": 0.9230769230769231,
+  "drift_score": 0.46153846153846156,
+  "extracted_entities_n": 7
+}

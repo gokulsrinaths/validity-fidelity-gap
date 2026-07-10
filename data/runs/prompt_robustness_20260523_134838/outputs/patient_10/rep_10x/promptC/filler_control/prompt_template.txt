@@ -1,0 +1,18 @@
+TASK: Convert the document into a JSON object that matches the schema exactly.
+RESTRICTIONS: JSON only. No markdown. No extra keys. Do not rename fields.
+
+Required JSON schema:
+{{
+  "patient_id": "",
+  "conditions": [],
+  "medications": [],
+  "observations": [],
+  "procedures": []
+}}
+
+Return empty arrays when information is not present.
+Use concise strings.
+
+DOCUMENT START
+{document_text}
+DOCUMENT END

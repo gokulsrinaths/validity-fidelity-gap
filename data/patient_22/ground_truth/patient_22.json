@@ -1,0 +1,18 @@
+{
+  "patient_id": "patient_22",
+  "conditions": [
+    "Acute appendicitis"
+  ],
+  "medications": [
+    "Ceftriaxone 1 g IV pre-op",
+    "Metronidazole 500 mg IV pre-op",
+    "Acetaminophen 650 mg q6h PRN"
+  ],
+  "observations": [
+    "Temp 38.1 C",
+    "WBC 14.2 K/uL"
+  ],
+  "procedures": [
+    "Laparoscopic appendectomy"
+  ]
+}

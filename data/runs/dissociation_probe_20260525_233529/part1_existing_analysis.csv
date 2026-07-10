@@ -1,0 +1,501 @@
+patient_id,repetition,gold_medication,is_tp,is_fn,fn_recovered_as_dict,output_format
+patient_01,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_01,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_01,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_01,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_01,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_01,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_02,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_02,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_02,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_02,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_02,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_02,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_03,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_03,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_03,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_03,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_03,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_03,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_04,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_04,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_04,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_04,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_05,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_05,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_05,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_05,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_05,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_05,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_06,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_06,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_06,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_06,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_07,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_07,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_07,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_07,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_08,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_08,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_08,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_08,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_08,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_08,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_09,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_09,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_09,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_09,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_10,5,Normal saline IV fluids,1,0,0,plain_string
+patient_10,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_10,16,Normal saline IV fluids,1,0,0,plain_string
+patient_10,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_100,5,Normal saline IV fluids,1,0,0,plain_string
+patient_100,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_100,16,Normal saline IV fluids,1,0,0,plain_string
+patient_100,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_11,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_11,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_11,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_11,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_11,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_11,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_12,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_12,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_12,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_12,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_12,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_12,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_13,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_13,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_13,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_13,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_13,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_13,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_14,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_14,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_14,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_14,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_15,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_15,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_15,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_15,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_15,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_15,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_16,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_16,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_16,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_16,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_17,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_17,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_17,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_17,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_18,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_18,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_18,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_18,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_18,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_18,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_19,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_19,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_19,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_19,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_20,5,Normal saline IV fluids,1,0,0,plain_string
+patient_20,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_20,16,Normal saline IV fluids,1,0,0,plain_string
+patient_20,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_21,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_21,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_21,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_21,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_21,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_21,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_22,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_22,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_22,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_22,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_22,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_22,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_23,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_23,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_23,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_23,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_23,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_23,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_24,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_24,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_24,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_24,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_25,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_25,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_25,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_25,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_25,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_25,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_26,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_26,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_26,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_26,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_27,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_27,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_27,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_27,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_28,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_28,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_28,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_28,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_28,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_28,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_29,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_29,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_29,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_29,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_30,5,Normal saline IV fluids,1,0,0,plain_string
+patient_30,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_30,16,Normal saline IV fluids,1,0,0,plain_string
+patient_30,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_31,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_31,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_31,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_31,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_31,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_31,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_32,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_32,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_32,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_32,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_32,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_32,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_33,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_33,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_33,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_33,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_33,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_33,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_34,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_34,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_34,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_34,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_35,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_35,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_35,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_35,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_35,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_35,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_36,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_36,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_36,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_36,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_37,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_37,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_37,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_37,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_38,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_38,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_38,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_38,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_38,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_38,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_39,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_39,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_39,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_39,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_40,5,Normal saline IV fluids,1,0,0,plain_string
+patient_40,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_40,16,Normal saline IV fluids,1,0,0,plain_string
+patient_40,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_41,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_41,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_41,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_41,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_41,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_41,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_42,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_42,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_42,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_42,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_42,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_42,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_43,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_43,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_43,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_43,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_43,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_43,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_44,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_44,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_44,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_44,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_45,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_45,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_45,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_45,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_45,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_45,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_46,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_46,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_46,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_46,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_47,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_47,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_47,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_47,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_48,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_48,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_48,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_48,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_48,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_48,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_49,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_49,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_49,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_49,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_50,5,Normal saline IV fluids,1,0,0,plain_string
+patient_50,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_50,16,Normal saline IV fluids,1,0,0,plain_string
+patient_50,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_51,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_51,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_51,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_51,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_51,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_51,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_52,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_52,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_52,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_52,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_52,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_52,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_53,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_53,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_53,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_53,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_53,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_53,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_54,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_54,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_54,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_54,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_55,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_55,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_55,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_55,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_55,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_55,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_56,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_56,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_56,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_56,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_57,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_57,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_57,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_57,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_58,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_58,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_58,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_58,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_58,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_58,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_59,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_59,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_59,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_59,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_60,5,Normal saline IV fluids,1,0,0,plain_string
+patient_60,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_60,16,Normal saline IV fluids,1,0,0,plain_string
+patient_60,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_61,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_61,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_61,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_61,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_61,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_61,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_62,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_62,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_62,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_62,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_62,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_62,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_63,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_63,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_63,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_63,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_63,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_63,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_64,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_64,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_64,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_64,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_65,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_65,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_65,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_65,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_65,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_65,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_66,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_66,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_66,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_66,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_67,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_67,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_67,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_67,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_68,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_68,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_68,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_68,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_68,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_68,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_69,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_69,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_69,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_69,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_70,5,Normal saline IV fluids,1,0,0,plain_string
+patient_70,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_70,16,Normal saline IV fluids,1,0,0,plain_string
+patient_70,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_71,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_71,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_71,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_71,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_71,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_71,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_72,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_72,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_72,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_72,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_72,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_72,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_73,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_73,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_73,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_73,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_73,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_73,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_74,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_74,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_74,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_74,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_75,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_75,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_75,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_75,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_75,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_75,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_76,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_76,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_76,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_76,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_77,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_77,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_77,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_77,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_78,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_78,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_78,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_78,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_78,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_78,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_79,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_79,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_79,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_79,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_80,5,Normal saline IV fluids,1,0,0,plain_string
+patient_80,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_80,16,Normal saline IV fluids,1,0,0,plain_string
+patient_80,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_81,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_81,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_81,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_81,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_81,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_81,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_82,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_82,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_82,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_82,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_82,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_82,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_83,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_83,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_83,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_83,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_83,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_83,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_84,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_84,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_84,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_84,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_85,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_85,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_85,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_85,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_85,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_85,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_86,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_86,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_86,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_86,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_87,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_87,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_87,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_87,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_88,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_88,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_88,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_88,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_88,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_88,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_89,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_89,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_89,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_89,16,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_90,5,Normal saline IV fluids,1,0,0,plain_string
+patient_90,5,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_90,16,Normal saline IV fluids,1,0,0,plain_string
+patient_90,16,Ondansetron 4 mg ODT q8h PRN,1,0,0,plain_string
+patient_91,5,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_91,5,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_91,5,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_91,16,Albuterol inhaler 90 mcg 2 puffs q4-6h PRN,0,1,1,nested_dict
+patient_91,16,Prednisone 40 mg daily x 5 days,0,1,1,nested_dict
+patient_91,16,Cetirizine 10 mg daily,0,1,1,nested_dict
+patient_92,5,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_92,5,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_92,5,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_92,16,Ceftriaxone 1 g IV pre-op,0,1,1,nested_dict
+patient_92,16,Metronidazole 500 mg IV pre-op,0,1,1,nested_dict
+patient_92,16,Acetaminophen 650 mg q6h PRN,0,1,1,nested_dict
+patient_93,5,Metformin 1000 mg BID,1,0,0,plain_string
+patient_93,5,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_93,5,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_93,16,Metformin 1000 mg BID,1,0,0,plain_string
+patient_93,16,Lisinopril 10 mg daily,1,0,0,plain_string
+patient_93,16,Amoxicillin-clavulanate 875/125 mg BID x 7 days,1,0,0,plain_string
+patient_94,5,Sertraline 50 mg daily,1,0,0,plain_string
+patient_94,5,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_94,16,Sertraline 50 mg daily,1,0,0,plain_string
+patient_94,16,Trazodone 50 mg at bedtime PRN,1,0,0,plain_string
+patient_95,5,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_95,5,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_95,5,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_95,16,Furosemide 40 mg daily,0,1,1,nested_dict
+patient_95,16,Metoprolol succinate 50 mg daily,0,1,1,nested_dict
+patient_95,16,Apixaban 5 mg BID,0,1,1,nested_dict
+patient_96,5,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_96,5,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_96,16,Amoxicillin 500 mg BID x 10 days,0,1,1,nested_dict
+patient_96,16,Ibuprofen 400 mg q6h PRN,0,1,1,nested_dict
+patient_97,5,Atorvastatin 20 mg nightly,1,0,0,plain_string
+patient_97,5,Naproxen 500 mg BID PRN,1,0,0,plain_string
+patient_97,16,Atorvastatin 20 mg nightly,0,1,1,nested_dict
+patient_97,16,Naproxen 500 mg BID PRN,0,1,1,nested_dict
+patient_98,5,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_98,5,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_98,5,Tiotropium inhaler daily,1,0,0,plain_string
+patient_98,16,Azithromycin 500 mg day 1 then 250 mg daily days 2-5,1,0,0,plain_string
+patient_98,16,Prednisone 40 mg daily x 5 days,1,0,0,plain_string
+patient_98,16,Tiotropium inhaler daily,1,0,0,plain_string
+patient_99,5,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_99,5,Propranolol 20 mg BID,0,1,1,nested_dict
+patient_99,16,Sumatriptan 50 mg at onset may repeat once,0,1,1,nested_dict
+patient_99,16,Propranolol 20 mg BID,0,1,1,nested_dict

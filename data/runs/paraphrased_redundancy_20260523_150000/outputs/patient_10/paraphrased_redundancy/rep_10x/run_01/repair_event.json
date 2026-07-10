@@ -1,0 +1,45 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"010-77345\",\n  \"conditions\": [\n    \"Acute kidney injury of pre-renal origin\",\n    \"Dehydration\"\n  ],\n  \"medications\": [\n    \"Normal saline IV fluids\",\n    \"Ondansetron 4 mg orally disintegrating tablets\"\n  ],\n  \"observations\": [\n    {\n      \"value\": 2.1,\n      \"unit\": \"mg/dL\",\n      \"description\": \"Creatinine level upon admission\"\n    },\n    {\n      \"value\": 1.4,\n      \"unit\": \"mg/dL\",\n      \"description\": \"Creatinine level at discharge\"\n    },\n    {\n      \"value\": 38,\n      \"unit\": \"mg/dL\",\n      \"description\": \"BUN level\"\n    }\n  ],\n  \"procedures\": [\n    \"IV fluid resuscitation\"\n  ]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"010-77345\",\n  \"conditions\": [\n    \"Acute kidney injury of pre-renal origin\",\n    \"Dehydration\"\n  ],\n  \"medications\": [\n    \"Normal saline IV fluids\",\n    \"Ondansetron 4 mg orally disintegrating tablets\"\n  ],\n  \"observations\": [\n    {\n      \"value\": 2.1,\n      \"unit\": \"mg/dL\",\n      \"description\": \"Creatinine level upon admission\"\n    },\n    {\n      \"value\": 1.4,\n      \"unit\": \"mg/dL\",\n      \"description\": \"Creatinine level at discharge\"\n    },\n    {\n      \"value\": 38,\n      \"unit\": \"mg/dL\",\n      \"description\": \"BUN level\"\n    }\n  ],\n  \"procedures\": [\n    \"IV fluid resuscitation\"\n  ]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_10",
+    "conditions": [
+      "Acute kidney injury of pre-renal origin",
+      "Dehydration"
+    ],
+    "medications": [
+      "Normal saline IV fluids",
+      "Ondansetron 4 mg orally disintegrating tablets"
+    ],
+    "observations": [
+      {
+        "value": 2.1,
+        "unit": "mg/dL",
+        "description": "Creatinine level upon admission"
+      },
+      {
+        "value": 1.4,
+        "unit": "mg/dL",
+        "description": "Creatinine level at discharge"
+      },
+      {
+        "value": 38,
+        "unit": "mg/dL",
+        "description": "BUN level"
+      }
+    ],
+    "procedures": [
+      "IV fluid resuscitation"
+    ]
+  }
+}

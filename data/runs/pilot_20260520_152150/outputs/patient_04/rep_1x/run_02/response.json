@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RJJ9amoz6AiLd4Ad958bTbki",
+  "object": "chat.completion",
+  "created": 1779316410,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\"Major depressive disorder\", \"Insomnia\"],\n\"medications\": [\"Sertr[true]",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 280,
+    "total_tokens": 315,
+    "completion_tokens": 35,
+    "estimated_cost": 7.35e-06,
+    "prompt_tokens_details": null
+  }
+}

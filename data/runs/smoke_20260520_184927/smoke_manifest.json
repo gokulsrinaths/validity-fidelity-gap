@@ -1,0 +1,13 @@
+{
+  "out_dir": "<project_root>\\data\\runs\\smoke_20260520_184927",
+  "raw_api_response_json": "<project_root>\\data\\runs\\smoke_20260520_184927\\debug_raw_api_response.json",
+  "raw_api_response_text": "<project_root>\\data\\runs\\smoke_20260520_184927\\debug_raw_api_response_text.txt",
+  "response_structure_debug": "<project_root>\\data\\runs\\smoke_20260520_184927\\response_structure_debug.txt",
+  "json_mode_debug": "<project_root>\\data\\runs\\smoke_20260520_184927\\json_mode_debug.md",
+  "raw_content": "<project_root>\\data\\runs\\smoke_20260520_184927\\debug_raw_content.txt",
+  "extracted_pdf_text": "<project_root>\\data\\runs\\smoke_20260520_184927\\debug_extracted_pdf_text.txt",
+  "repaired_json": "<project_root>\\data\\runs\\smoke_20260520_184927\\repaired.json",
+  "smoke_validation_md": "<project_root>\\data\\runs\\smoke_20260520_184927\\smoke_test_validation.md",
+  "patient_id": "patient_01",
+  "repetition": 1
+}

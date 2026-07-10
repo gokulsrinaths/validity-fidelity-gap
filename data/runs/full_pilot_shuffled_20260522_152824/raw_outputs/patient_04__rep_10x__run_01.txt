@@ -1,0 +1,32 @@
+{
+"patient_id": "004-44321",
+"conditions": [
+"Major depressive disorder",
+"Insomnia"
+],
+"medications": [
+{
+"name": "Sertraline",
+"dose": "50 mg",
+"route": "PO",
+"frequency": "daily"
+},
+{
+"name": "Trazodone",
+"dose": "50 mg",
+"route": "PO",
+"frequency": "at bedtime PRN sleep"
+}
+],
+"observations": [
+{
+"name": "PHQ-9 score",
+"value": "16"
+},
+{
+"name": "Weight",
+"value": "78.4 kg"
+}
+],
+"procedures": []
+}

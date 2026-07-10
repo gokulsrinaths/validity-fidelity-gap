@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R7OjcyKC8gaaUeTYoYY7SH8R",
+  "object": "chat.completion",
+  "created": 1779328679,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"Asthma exacerbation\"],\n\"medications\": [\n  {\"name\": \"Albuterol inhaler\", \"dosage\": \"90 mcg\", \"frequency\": \"q4-6h\", \"route\": \"inhaled\", \"prn\": \"w[]",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 396,
+    "total_tokens": 468,
+    "completion_tokens": 72,
+    "estimated_cost": 1.152e-05,
+    "prompt_tokens_details": null
+  }
+}

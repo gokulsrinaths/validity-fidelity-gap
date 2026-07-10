@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RHWQ3NnNc8DimH3YTGwiaSK0",
+  "object": "chat.completion",
+  "created": 1779569544,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"002-11290\",\n  \"conditions\": [\n    \"Acute appendicitis\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Ceftriaxone\",\n      \"dose\": \"1 g\",\n      \"route\": \"IV\",\n      \"timing\": \"pre-op\"\n    },\n    {\n      \"name\": \"Metronidazole\",\n      \"dose\": \"500 mg\",\n      \"route\": \"IV\",\n      \"timing\": \"pre-op\"\n    },\n    {\n      \"name\": \"Acetaminophen\",\n      \"dose\": \"650 mg\",\n      \"route\": \"PO\",\n      \"timing\": \"q6h PRN pain\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"Temp\",\n      \"value\": \"38.1 C\"\n    },\n    {\n      \"name\": \"WBC\",\n      \"value\": \"14.2 K/uL\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Laparoscopic appendectomy\",\n      \"date\": \"2026-03-18\"\n    }\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2128,
+    "total_tokens": 2374,
+    "completion_tokens": 246,
+    "estimated_cost": 5.486000000000001e-05,
+    "prompt_tokens_details": null
+  }
+}

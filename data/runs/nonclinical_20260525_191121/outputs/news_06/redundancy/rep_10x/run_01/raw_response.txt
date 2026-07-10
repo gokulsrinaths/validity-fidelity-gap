@@ -1,0 +1,7 @@
+{
+"doc_id": "CHAMPIONSHIP TEAM CELEBRATES VICTORY PARADE",
+"events": ["NBA championship win", "victory parade", "championship banner ceremony"],
+"persons": ["Brian Stevens", "Marcus Webb", "Yuki Tanaka", "Dana Alvarez", "Carlos Reyes"],
+"organizations": ["Boston Celtics", "Golden State Warriors", "Boston police", "TD Garden"],
+"locations": ["Boston", "Copley Square", "Downtown Crossing", "City Hall Plaza"]
+}

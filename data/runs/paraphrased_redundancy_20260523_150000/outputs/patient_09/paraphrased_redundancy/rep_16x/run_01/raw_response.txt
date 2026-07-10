@@ -1,0 +1,31 @@
+{
+  "patient_id": "009-99110",
+  "conditions": [
+    "migraine headaches without aura"
+  ],
+  "medications": [
+    {
+      "name": "Sumatriptan",
+      "dosage": "50 mg",
+      "route": "orally",
+      "frequency": "as needed",
+      "max_dose": "every 2 hours"
+    },
+    {
+      "name": "Propranolol",
+      "dosage": "20 mg",
+      "route": "orally",
+      "frequency": "twice daily",
+      "purpose": "migraine prevention"
+    }
+  ],
+  "observations": [
+    {
+      "vital_signs": {
+        "blood_pressure": "118/74 mmHg"
+      },
+      "examination": "normal findings"
+    }
+  ],
+  "procedures": []
+}

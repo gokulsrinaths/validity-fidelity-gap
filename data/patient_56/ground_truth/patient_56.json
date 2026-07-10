@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient_56",
+  "conditions": [
+    "Streptococcal pharyngitis"
+  ],
+  "medications": [
+    "Amoxicillin 500 mg BID x 10 days",
+    "Ibuprofen 400 mg q6h PRN"
+  ],
+  "observations": [
+    "Temp 39.0 C",
+    "Rapid strep test positive"
+  ],
+  "procedures": []
+}

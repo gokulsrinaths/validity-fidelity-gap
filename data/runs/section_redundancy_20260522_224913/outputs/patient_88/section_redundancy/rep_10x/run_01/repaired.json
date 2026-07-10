@@ -1,0 +1,51 @@
+{
+  "patient_id": "patient_88",
+  "conditions": [
+    "Community-acquired pneumonia",
+    "COPD"
+  ],
+  "medications": [
+    {
+      "name": "Azithromycin",
+      "dose": "500 mg",
+      "route": "PO",
+      "frequency": "day 1",
+      "duration": "days 2-5"
+    },
+    {
+      "name": "Azithromycin",
+      "dose": "250 mg",
+      "route": "PO",
+      "frequency": "daily",
+      "duration": "days 2-5"
+    },
+    {
+      "name": "Prednisone",
+      "dose": "40 mg",
+      "route": "PO",
+      "frequency": "daily",
+      "duration": "x 5 days"
+    },
+    {
+      "name": "Tiotropium",
+      "dose": "2 puffs",
+      "route": "inhaled",
+      "frequency": "daily"
+    }
+  ],
+  "observations": [
+    {
+      "value": "91%",
+      "unit": "%",
+      "description": "SpO2 on room air"
+    },
+    {
+      "value": "24",
+      "unit": "/min",
+      "description": "RR"
+    }
+  ],
+  "procedures": [
+    "Supplemental oxygen therapy"
+  ]
+}

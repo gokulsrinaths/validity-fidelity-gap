@@ -1,0 +1,7 @@
+{
+"doc_id": "",
+"events": ["Apex Technologies announced Monday it will acquire NeuralPath Inc."],
+"persons": ["David Chen", "Rachel Goldstein", "Priya Anand"],
+"organizations": ["Apex Technologies", "NeuralPath Inc.", "Federal Trade Commission", "Sequoia Capital", "Andreessen Horowitz"],
+"locations": ["Austin, Texas"]
+}

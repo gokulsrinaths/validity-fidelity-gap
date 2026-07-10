@@ -1,0 +1,38 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"007-22018\",\n  \"conditions\": [\n    \"Osteoarthritis\",\n    \"Hyperlipidemia\"\n  ],\n  \"medications\": [\n    \"Atorvastatin\",\n    \"Naproxen\"\n  ],\n  \"observations\": [\n    {\n      \"name\": \"BMI\",\n      \"value\": \"31.2\"\n    },\n    {\n      \"name\": \"LDL\",\n      \"value\": \"168\"\n    }\n  ],\n  \"procedures\": [\n    \"Right total knee arthroplasty\"\n  ]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"007-22018\",\n  \"conditions\": [\n    \"Osteoarthritis\",\n    \"Hyperlipidemia\"\n  ],\n  \"medications\": [\n    \"Atorvastatin\",\n    \"Naproxen\"\n  ],\n  \"observations\": [\n    {\n      \"name\": \"BMI\",\n      \"value\": \"31.2\"\n    },\n    {\n      \"name\": \"LDL\",\n      \"value\": \"168\"\n    }\n  ],\n  \"procedures\": [\n    \"Right total knee arthroplasty\"\n  ]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_07",
+    "conditions": [
+      "Osteoarthritis",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Atorvastatin",
+      "Naproxen"
+    ],
+    "observations": [
+      {
+        "name": "BMI",
+        "value": "31.2"
+      },
+      {
+        "name": "LDL",
+        "value": "168"
+      }
+    ],
+    "procedures": [
+      "Right total knee arthroplasty"
+    ]
+  }
+}

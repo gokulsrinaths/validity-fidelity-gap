@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-05-22T02:46:12.663085",
+  "error": "No /Root object! - Is this really a PDF?",
+  "last_heartbeat": {
+    "phase": "running",
+    "model_key": "qwen72b",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "condition": "filler_control",
+    "patient_id": "patient_08",
+    "repetition": 10,
+    "run": 1,
+    "timestamp": "2026-05-22T02:46:12.635164"
+  }
+}

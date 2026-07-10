@@ -1,0 +1,7 @@
+{
+"doc_id": "UNIVERSITY LAUNCHES QUANTUM COMPUTING CENTER",
+"events": ["opening", "ribbon cutting"],
+"persons": ["Professor Aisha Oduya", "Senator Paul Kim", "MIT President Elena Rodriguez"],
+"organizations": ["MIT", "Department of Energy", "IBM", "Google", "Massachusetts General Hospital"],
+"locations": ["Massachusetts"]
+}

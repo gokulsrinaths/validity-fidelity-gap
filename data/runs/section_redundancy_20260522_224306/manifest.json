@@ -1,0 +1,17 @@
+{
+  "run_id": "20260522_224306",
+  "condition_a": "section_redundancy",
+  "condition_b": "length_matched_filler",
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "temperature": 0.0,
+  "max_tokens": 512,
+  "num_patients": 100,
+  "repetition_levels": [
+    1,
+    5,
+    10,
+    16
+  ],
+  "runs_per_condition": 1,
+  "note": "No prompt/schema/evaluator changes; varies only document composition."
+}

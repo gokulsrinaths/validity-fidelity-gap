@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RiLE1KmQ8g8mhYfq6kYa9cJo",
+  "object": "chat.completion",
+  "created": 1779438282,
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"009-99110\",\n\"conditions\": [\"Migraine without aura\"],\n\"medications\": [\"Sumatriptan 50 mg PO at onset of headache; may repeat once in 2 hours\", \"Propranolol 20 mg PO BID for migraine prevention\"],\n\"observations\": [\"BP 118/74 mmHg\", \"Neuro exam: normal\"],\n\"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": null
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 287,
+    "total_tokens": 387,
+    "completion_tokens": 100,
+    "estimated_cost": 0.00014332,
+    "prompt_tokens_details": null
+  }
+}

@@ -1,0 +1,7 @@
+{
+"doc_id": "CITY SCHOOL DISTRICT ADOPTS AI TUTORING PROGRAM",
+"events": ["The Los Angeles Unified School District announced Monday a partnership with EduAI Corp"],
+"persons": ["Angela Morales", "James Fowler", "Diane Wong"],
+"organizations": ["Los Angeles Unified School District", "EduAI Corp", "Families for Public Education", "ACLU of California"],
+"locations": ["Los Angeles"]
+}

@@ -1,0 +1,13 @@
+{
+"patient_id": "004-44321",
+"conditions": ["major depressive disorder", "insomnia"],
+"medications": [
+  {"name": "sertraline", "dosage": "50 mg", "frequency": "once daily"},
+  {"name": "trazodone", "dosage": "50 mg", "frequency": "as needed at bedtime"}
+],
+"observations": [
+  {"score": 16, "description": "significant depressive symptoms"},
+  {"value": 78.4, "description": "weight"}
+],
+"procedures": []
+}

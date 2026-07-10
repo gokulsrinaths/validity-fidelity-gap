@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-R7phUVkuzNeueuef6FcWEfis",
+  "object": "chat.completion",
+  "created": 1779567963,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"006-55211\",\n  \"conditions\": [\"Streptococcal pharyngitis\"],\n  \"medications\": [\"Amoxicillin\", \"Ibuprofen\"],\n  \"observations\": [\"39.0 C\", \"positive\"],\n  \"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 308,
+    "total_tokens": 373,
+    "completion_tokens": 65,
+    "estimated_cost": 9.41e-06,
+    "prompt_tokens_details": null
+  }
+}

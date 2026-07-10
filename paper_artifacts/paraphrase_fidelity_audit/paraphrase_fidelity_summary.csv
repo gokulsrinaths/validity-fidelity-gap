@@ -1,0 +1,4 @@
+entity_type,paraphrase_items,gold_total,missing_total,missing_rate
+conditions,40,76,8,0.10526315789473684
+medications,40,100,48,0.48
+procedures,40,28,2,0.07142857142857142

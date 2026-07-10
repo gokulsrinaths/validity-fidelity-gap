@@ -1,0 +1,30 @@
+Clinical Note:
+
+Encounter Note (ED)
+
+Patient: Priya Shah
+Medical Record Number: 002-11290
+Date of Birth: November 3, 1990
+
+Encounter Date: March 18, 2026
+
+Chief Complaint:
+The patient presented with right lower quadrant abdominal pain.
+
+History of Present Illness:
+A 35-year-old female patient reported experiencing 12 hours of right lower quadrant pain accompanied by nausea and low-grade fever.
+
+Assessment:
+The patient was diagnosed with acute appendicitis.
+
+Procedures:
+On March 18, 2026, a laparoscopic appendectomy was performed.
+
+Medications:
+Pre-operatively, the patient received ceftriaxone 1 g IV and metronidazole 500 mg IV. Post-operatively, acetaminophen 650 mg PO was prescribed every 6 hours as needed for pain.
+
+Observations:
+The patient's temperature was 38.1 C and white blood cell count was 14.2 K/uL.
+
+Plan:
+Post-operative care will be provided, and the patient will be advanced to a regular diet as tolerated. A follow-up appointment in the surgery clinic is scheduled for two weeks.

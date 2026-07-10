@@ -1,0 +1,15 @@
+model_label,repetition,DRE
+LLaMA-8B (3-run full pilots),1,0.0
+LLaMA-8B (3-run full pilots),2,0.0704901960784314
+LLaMA-8B (3-run full pilots),5,0.1904271708683474
+LLaMA-8B (3-run full pilots),10,0.2043767507002802
+LLaMA-8B (3-run full pilots),16,0.1952380952380953
+LLaMA-8B (3-run full pilots),32,0.0007038712921066
+"LLaMA-70B (midrange, 3 runs)",2,0.0
+"LLaMA-70B (midrange, 3 runs)",5,0.0076286676286676
+"LLaMA-70B (midrange, 3 runs)",10,0.0290231092436974
+"LLaMA-70B (midrange, 3 runs)",16,0.0257652151769799
+"Qwen-72B (midrange, 3 runs)",2,0.0
+"Qwen-72B (midrange, 3 runs)",5,0.0116754934092395
+"Qwen-72B (midrange, 3 runs)",10,0.0179283977396187
+"Qwen-72B (midrange, 3 runs)",16,0.0310913865123636

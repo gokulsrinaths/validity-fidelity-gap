@@ -1,0 +1,17 @@
+{
+  "model_key": "llama70b",
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "condition": "redundancy",
+  "patient_id": "patient_04",
+  "repetition": 2,
+  "run": 2,
+  "timestamp": "2026-05-22T02:04:25.407852",
+  "raw_valid_json": 1,
+  "schema_match": 1,
+  "repair_needed": 0,
+  "structural_drift_score": 0.0,
+  "extra_keys_count": 0,
+  "missing_keys_count": 0,
+  "malformed_json": 0,
+  "markdown_fence_present": 0
+}

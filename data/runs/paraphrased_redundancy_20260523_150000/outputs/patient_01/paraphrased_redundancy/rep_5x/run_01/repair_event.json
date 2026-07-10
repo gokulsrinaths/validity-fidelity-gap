@@ -1,0 +1,53 @@
+{
+  "raw_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"asthma exacerbation\"],\n\"medications\": [\n  {\"name\": \"Albuterol inhaler\", \"dosage\": \"90 mcg\", \"frequency\": \"every 4-6 hours as needed\", \"route\": \"inhaled\"},\n  {\"name\": \"Prednisone\", \"dosage\": \"40 mg\", \"frequency\": \"daily\", \"route\": \"orally\"},\n  {\"name\": \"Cetirizine\", \"dosage\": \"10 mg\", \"frequency\": \"daily\", \"route\": \"orally\"}\n],\n\"observations\": [\n  {\"name\": \"oxygen saturation\", \"value\": \"94%\"},\n  {\"name\": \"peak flow\", \"value\": \"320 liters per minute\"}\n],\n\"procedures\": [\"nebulized bronchodilator treatment\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\"asthma exacerbation\"],\n\"medications\": [\n  {\"name\": \"Albuterol inhaler\", \"dosage\": \"90 mcg\", \"frequency\": \"every 4-6 hours as needed\", \"route\": \"inhaled\"},\n  {\"name\": \"Prednisone\", \"dosage\": \"40 mg\", \"frequency\": \"daily\", \"route\": \"orally\"},\n  {\"name\": \"Cetirizine\", \"dosage\": \"10 mg\", \"frequency\": \"daily\", \"route\": \"orally\"}\n],\n\"observations\": [\n  {\"name\": \"oxygen saturation\", \"value\": \"94%\"},\n  {\"name\": \"peak flow\", \"value\": \"320 liters per minute\"}\n],\n\"procedures\": [\"nebulized bronchodilator treatment\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_01",
+    "conditions": [
+      "asthma exacerbation"
+    ],
+    "medications": [
+      {
+        "name": "Albuterol inhaler",
+        "dosage": "90 mcg",
+        "frequency": "every 4-6 hours as needed",
+        "route": "inhaled"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "40 mg",
+        "frequency": "daily",
+        "route": "orally"
+      },
+      {
+        "name": "Cetirizine",
+        "dosage": "10 mg",
+        "frequency": "daily",
+        "route": "orally"
+      }
+    ],
+    "observations": [
+      {
+        "name": "oxygen saturation",
+        "value": "94%"
+      },
+      {
+        "name": "peak flow",
+        "value": "320 liters per minute"
+      }
+    ],
+    "procedures": [
+      "nebulized bronchodilator treatment"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RxgQ3CoXqrGkNSoY2qJV2dGQ",
+  "object": "chat.completion",
+  "created": 1779316310,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"003-77211\",\n\"conditions\": [\n\"Type 2 diabetes mellitus\",\n\"Hypertension\",\n\"Diabetic foot ulcer (left)\"\n],\n\"medications\": [\n\"Metformin 1000 mg PO BID with meals\",\n\"Lisinopril 10 mg PO daily\",\n\"Amoxicillin-clavulanate 875/125 mg PO BID x 7 days\"\n],\n\"observations\": [\n\"A1c 8.7%\",\n\"BP 152/92 mmHg\"\n],\n\"procedures\": [\n\"Wound debridement (left foot) 2026-02-11\"\n]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2252,
+    "total_tokens": 2388,
+    "completion_tokens": 136,
+    "estimated_cost": 5.1840000000000005e-05,
+    "prompt_tokens_details": null
+  }
+}

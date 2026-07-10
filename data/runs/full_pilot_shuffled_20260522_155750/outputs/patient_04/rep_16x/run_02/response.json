@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RxUJ7dS8ZqS9Y4uDpBKZOrnw",
+  "object": "chat.completion",
+  "created": 1779490795,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"004-44321\",\n\"conditions\": [\n\"Major depressive disorder\",\n\"Insomnia\"\n],\n\"medications\": [\n\"Sertraline 50 mg PO daily\",\n\"Trazodone 50 mg PO at bedtime PRN sleep\"\n],\n\"observations\": [\n{\n\"value\": 16,\n\"unit\": \"PHQ-9 score\"\n},\n{\n\"value\": 78.4,\n\"unit\": \"kg\"\n}\n],\n\"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2350,
+    "total_tokens": 2450,
+    "completion_tokens": 100,
+    "estimated_cost": 5.2e-05,
+    "prompt_tokens_details": null
+  }
+}

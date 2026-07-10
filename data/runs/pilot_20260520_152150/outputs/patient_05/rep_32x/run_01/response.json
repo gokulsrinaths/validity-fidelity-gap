@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RaDOvJXAARe4rnrJyQPFLtMp",
+  "object": "chat.completion",
+  "created": 1779316657,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"005-90122\",\n  \"conditions\": [\n    \"Heart failure with reduced ejection fraction (HFrEF)\",\n    \"Atrial fibrillation\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Furosemide\",\n      \"dosage\": \"40 mg\",\n      \"frequency\": \"daily\",\n      \"route\": \"PO\"\n    },\n    {\n      \"name\": \"Metoprolol succinate\",\n      \"dosage\": \"50 mg\",\n      \"frequency\": \"daily\",\n      \"route\": \"PO\"\n    },\n    {\n      \"name\": \"Apixaban\",\n      \"dosage\": \"5 mg\",\n      \"frequency\": \"BID\",\n      \"route\": \"PO\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"BNP\",\n      \"value\": \"820 pg/mL\"\n    },\n    {\n      \"name\": \"HR\",\n      \"value\": \"110 bpm irregular\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Electrical cardioversion\",\n      \"date\": \"2026-04-22\"\n    }\n  ]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5998,
+    "total_tokens": 6243,
+    "completion_tokens": 245,
+    "estimated_cost": 0.00013221,
+    "prompt_tokens_details": null
+  }
+}

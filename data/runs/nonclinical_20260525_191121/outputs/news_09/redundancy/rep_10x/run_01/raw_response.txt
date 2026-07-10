@@ -1,0 +1,21 @@
+{
+"doc_id": "PHARMACEUTICAL COMPANY WINS FDA APPROVAL FOR NEW DRUG",
+"events": [
+"FDA approval",
+"Phase 3 trial",
+"launch"
+],
+"persons": [
+"Hiroshi Tanaka",
+"Samantha Ortiz"
+],
+"organizations": [
+"BioMed Solutions",
+"Arthritis Foundation",
+"UnitedHealth",
+"AbbVie"
+],
+"locations": [
+"US"
+]
+}

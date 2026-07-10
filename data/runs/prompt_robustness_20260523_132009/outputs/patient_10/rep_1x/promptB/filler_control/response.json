@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RFfr8nz9oqKbwa318P09Ea4b",
+  "object": "chat.completion",
+  "created": 1779568189,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"010-77345\",\n  \"conditions\": [\"Acute kidney injury (pre-renal)\", \"Dehydration\"],\n  \"medications\": [\"Normal saline IV fluids\", \"Ondansetron 4 mg ODT\"],\n  \"observations\": [\n    {\"value\": \"2.1\", \"unit\": \"mg/dL\", \"name\": \"Creatinine\"},\n    {\"value\": \"38\", \"unit\": \"mg/dL\", \"name\": \"BUN\"}\n  ],\n  \"procedures\": [\"IV fluid resuscitation\"]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 347,
+    "total_tokens": 467,
+    "completion_tokens": 120,
+    "estimated_cost": 1.294e-05,
+    "prompt_tokens_details": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RANrns8yq9RBcjS0PBWOYXQT",
+  "object": "chat.completion",
+  "created": 1779516982,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\"Heart failure with reduced ejection fraction (HFrEF)\", \"Atrial fibrillation\"],\n\"medications\": [\"Furosemide 40 mg PO daily\", \"Metoprolol succinate 50 mg PO daily\", \"Apixaban 5 mg PO BID\"],\n\"observations\": [\"BNP 820 pg/mL\", \"HR 110 bpm irregular\"],\n\"procedures\": [\"Electrical cardioversion 2026-04-22\"]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 434,
+    "completion_tokens": 109,
+    "estimated_cost": 1.1949999999999999e-05,
+    "prompt_tokens_details": null
+  }
+}

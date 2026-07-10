@@ -1,0 +1,36 @@
+{
+  "patient_id": "patient_02",
+  "conditions": [
+    "acute appendicitis"
+  ],
+  "medications": [
+    {
+      "name": "ceftriaxone",
+      "dose": "1 g IV",
+      "route": "intravenous"
+    },
+    {
+      "name": "metronidazole",
+      "dose": "500 mg IV",
+      "route": "intravenous"
+    },
+    {
+      "name": "acetaminophen",
+      "dose": "650 mg PO",
+      "route": "oral"
+    }
+  ],
+  "observations": [
+    {
+      "name": "temperature",
+      "value": "38.1 C"
+    },
+    {
+      "name": "white blood cell count",
+      "value": "14.2 K/uL"
+    }
+  ],
+  "procedures": [
+    "laparoscopic appendectomy"
+  ]
+}

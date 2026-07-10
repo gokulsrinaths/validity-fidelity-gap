@@ -1,0 +1,121 @@
+patient_id,paraphrase_file,entity_type,gold_n,missing_mentions_n,missing_mentions_examples
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_01.txt,conditions,3,0,
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_01.txt,medications,3,2,albuterol inhaler q4-6h; prednisone x days
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_01.txt,procedures,1,0,
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_02.txt,conditions,3,0,
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_02.txt,medications,3,2,albuterol inhaler q4-6h; prednisone x days
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_02.txt,procedures,1,0,
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_03.txt,conditions,3,0,
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_03.txt,medications,3,2,albuterol inhaler q4-6h; prednisone x days
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_03.txt,procedures,1,0,
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_04.txt,conditions,3,0,
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_04.txt,medications,3,2,albuterol inhaler q4-6h; prednisone x days
+patient_01,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_01/paraphrases/paraphrase_04.txt,procedures,1,0,
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_01.txt,conditions,1,0,
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_01.txt,medications,3,2,ceftriaxone pre-op; metronidazole pre-op
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_01.txt,procedures,1,0,
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_02.txt,conditions,1,0,
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_02.txt,medications,3,2,ceftriaxone pre-op; metronidazole pre-op
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_02.txt,procedures,1,0,
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_03.txt,conditions,1,0,
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_03.txt,medications,3,2,ceftriaxone pre-op; metronidazole pre-op
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_03.txt,procedures,1,0,
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_04.txt,conditions,1,0,
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_04.txt,medications,3,2,ceftriaxone pre-op; metronidazole pre-op
+patient_02,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_02/paraphrases/paraphrase_04.txt,procedures,1,0,
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_01.txt,conditions,3,0,
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_01.txt,medications,3,1,amoxicillin-clavulanate / x
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_01.txt,procedures,1,0,
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_02.txt,conditions,3,0,
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_02.txt,medications,3,1,amoxicillin-clavulanate / x
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_02.txt,procedures,1,0,
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_03.txt,conditions,3,0,
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_03.txt,medications,3,1,amoxicillin-clavulanate / x
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_03.txt,procedures,1,0,
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_04.txt,conditions,3,0,
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_04.txt,medications,3,1,amoxicillin-clavulanate / x
+patient_03,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_03/paraphrases/paraphrase_04.txt,procedures,1,0,
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_01.txt,conditions,2,0,
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_01.txt,medications,2,1,trazodone at bedtime
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_01.txt,procedures,0,0,
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_02.txt,conditions,2,0,
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_02.txt,medications,2,1,trazodone at bedtime
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_02.txt,procedures,0,0,
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_03.txt,conditions,2,0,
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_03.txt,medications,2,1,trazodone at bedtime
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_03.txt,procedures,0,0,
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_04.txt,conditions,2,0,
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_04.txt,medications,2,1,trazodone at bedtime
+patient_04,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_04/paraphrases/paraphrase_04.txt,procedures,0,0,
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_01.txt,conditions,2,1,heart failure heart failure with reduced ejection fraction
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_01.txt,medications,3,0,
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_01.txt,procedures,1,0,
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_02.txt,conditions,2,1,heart failure heart failure with reduced ejection fraction
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_02.txt,medications,3,0,
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_02.txt,procedures,1,0,
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_03.txt,conditions,2,1,heart failure heart failure with reduced ejection fraction
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_03.txt,medications,3,0,
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_03.txt,procedures,1,0,
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_04.txt,conditions,2,1,heart failure heart failure with reduced ejection fraction
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_04.txt,medications,3,0,
+patient_05,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_05/paraphrases/paraphrase_04.txt,procedures,1,0,
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_01.txt,conditions,1,0,
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_01.txt,medications,2,1,amoxicillin x days
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_01.txt,procedures,0,0,
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_02.txt,conditions,1,0,
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_02.txt,medications,2,1,amoxicillin x days
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_02.txt,procedures,0,0,
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_03.txt,conditions,1,0,
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_03.txt,medications,2,1,amoxicillin x days
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_03.txt,procedures,0,0,
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_04.txt,conditions,1,0,
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_04.txt,medications,2,1,amoxicillin x days
+patient_06,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_06/paraphrases/paraphrase_04.txt,procedures,0,0,
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_01.txt,conditions,2,0,
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_01.txt,medications,2,1,atorvastatin nightly
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_01.txt,procedures,1,0,
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_02.txt,conditions,2,0,
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_02.txt,medications,2,1,atorvastatin nightly
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_02.txt,procedures,1,0,
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_03.txt,conditions,2,0,
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_03.txt,medications,2,1,atorvastatin nightly
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_03.txt,procedures,1,0,
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_04.txt,conditions,2,0,
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_04.txt,medications,2,1,atorvastatin nightly
+patient_07,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_07/paraphrases/paraphrase_04.txt,procedures,1,0,
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_01.txt,conditions,2,0,
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_01.txt,medications,3,2,azithromycin day then; prednisone x days
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_01.txt,procedures,1,0,
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_02.txt,conditions,2,0,
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_02.txt,medications,3,2,azithromycin day then; prednisone x days
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_02.txt,procedures,1,0,
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_03.txt,conditions,2,0,
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_03.txt,medications,3,2,azithromycin day then; prednisone x days
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_03.txt,procedures,1,0,
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_04.txt,conditions,2,0,
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_04.txt,medications,3,2,azithromycin day then; prednisone x days
+patient_08,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_08/paraphrases/paraphrase_04.txt,procedures,1,0,
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_01.txt,conditions,1,1,migraine migraine without aura
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_01.txt,medications,2,1,sumatriptan at onset
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_01.txt,procedures,0,0,
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_02.txt,conditions,1,1,migraine migraine without aura
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_02.txt,medications,2,1,sumatriptan at onset
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_02.txt,procedures,0,0,
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_03.txt,conditions,1,1,migraine migraine without aura
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_03.txt,medications,2,1,sumatriptan at onset
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_03.txt,procedures,0,0,
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_04.txt,conditions,1,1,migraine migraine without aura
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_04.txt,medications,2,1,sumatriptan at onset
+patient_09,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_09/paraphrases/paraphrase_04.txt,procedures,0,0,
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_01.txt,conditions,2,0,
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_01.txt,medications,2,1,normal saline fluids
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_01.txt,procedures,1,0,
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_02.txt,conditions,2,0,
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_02.txt,medications,2,1,normal saline fluids
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_02.txt,procedures,1,1,iv fluid resuscitation
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_03.txt,conditions,2,0,
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_03.txt,medications,2,1,normal saline fluids
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_03.txt,procedures,1,0,
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_04.txt,conditions,2,0,
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_04.txt,medications,2,1,normal saline fluids
+patient_10,data/runs/paraphrased_redundancy_20260523_150000/docs/patient_10/paraphrases/paraphrase_04.txt,procedures,1,1,iv fluid resuscitation

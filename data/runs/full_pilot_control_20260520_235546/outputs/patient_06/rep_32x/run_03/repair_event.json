@@ -1,0 +1,45 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"006-55211\",\n  \"conditions\": [\n    \"Streptococcal pharyngitis\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Amoxicillin\",\n      \"dosage\": \"500 mg\",\n      \"frequency\": \"BID\",\n      \"duration\": \"10 days\"\n    },\n    {\n      \"name\": \"Ibuprofen\",\n      \"dosage\": \"400 mg\",\n      \"frequency\": \"q6h\",\n      \"duration\": \"PRN pain/fever\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"Temp\",\n      \"value\": \"39.0 C\"\n    },\n    {\n      \"name\": \"Rapid strep test\",\n      \"value\": \"positive\"\n    }\n  ],\n  \"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"006-55211\",\n  \"conditions\": [\n    \"Streptococcal pharyngitis\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Amoxicillin\",\n      \"dosage\": \"500 mg\",\n      \"frequency\": \"BID\",\n      \"duration\": \"10 days\"\n    },\n    {\n      \"name\": \"Ibuprofen\",\n      \"dosage\": \"400 mg\",\n      \"frequency\": \"q6h\",\n      \"duration\": \"PRN pain/fever\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"Temp\",\n      \"value\": \"39.0 C\"\n    },\n    {\n      \"name\": \"Rapid strep test\",\n      \"value\": \"positive\"\n    }\n  ],\n  \"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_06",
+    "conditions": [
+      "Streptococcal pharyngitis"
+    ],
+    "medications": [
+      {
+        "name": "Amoxicillin",
+        "dosage": "500 mg",
+        "frequency": "BID",
+        "duration": "10 days"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "400 mg",
+        "frequency": "q6h",
+        "duration": "PRN pain/fever"
+      }
+    ],
+    "observations": [
+      {
+        "name": "Temp",
+        "value": "39.0 C"
+      },
+      {
+        "name": "Rapid strep test",
+        "value": "positive"
+      }
+    ],
+    "procedures": []
+  }
+}

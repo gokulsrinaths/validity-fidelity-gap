@@ -1,0 +1,47 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"009-99110\",\n  \"conditions\": [\n    \"Migraine without aura\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Sumatriptan\",\n      \"dosage\": \"50 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"at onset of headache\",\n      \"repeat\": \"once in 2 hours\"\n    },\n    {\n      \"name\": \"Propranolol\",\n      \"dosage\": \"20 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"BID\",\n      \"repeat\": \"for migraine prevention\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"BP\",\n      \"value\": \"118/74 mmHg\"\n    },\n    {\n      \"name\": \"Neuro exam\",\n      \"value\": \"normal\"\n    }\n  ],\n  \"procedures\": []\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"009-99110\",\n  \"conditions\": [\n    \"Migraine without aura\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Sumatriptan\",\n      \"dosage\": \"50 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"at onset of headache\",\n      \"repeat\": \"once in 2 hours\"\n    },\n    {\n      \"name\": \"Propranolol\",\n      \"dosage\": \"20 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"BID\",\n      \"repeat\": \"for migraine prevention\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"BP\",\n      \"value\": \"118/74 mmHg\"\n    },\n    {\n      \"name\": \"Neuro exam\",\n      \"value\": \"normal\"\n    }\n  ],\n  \"procedures\": []\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_09",
+    "conditions": [
+      "Migraine without aura"
+    ],
+    "medications": [
+      {
+        "name": "Sumatriptan",
+        "dosage": "50 mg",
+        "route": "PO",
+        "frequency": "at onset of headache",
+        "repeat": "once in 2 hours"
+      },
+      {
+        "name": "Propranolol",
+        "dosage": "20 mg",
+        "route": "PO",
+        "frequency": "BID",
+        "repeat": "for migraine prevention"
+      }
+    ],
+    "observations": [
+      {
+        "name": "BP",
+        "value": "118/74 mmHg"
+      },
+      {
+        "name": "Neuro exam",
+        "value": "normal"
+      }
+    ],
+    "procedures": []
+  }
+}

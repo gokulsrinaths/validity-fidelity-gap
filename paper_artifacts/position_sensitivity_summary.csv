@@ -1,0 +1,10 @@
+entity_type,pos_bin,n,miss_rate
+conditions,early,11,0.45454545454545453
+conditions,middle,7,0.2857142857142857
+conditions,late,1,0.0
+medications,middle,4,1.0
+observations,middle,1,1.0
+observations,late,17,0.7647058823529411
+procedures,early,1,0.0
+procedures,middle,1,1.0
+procedures,late,5,0.6

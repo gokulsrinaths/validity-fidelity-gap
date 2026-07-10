@@ -1,0 +1,55 @@
+{
+  "raw_text": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\n{\"condition\": \"Heart failure with reduced ejection fraction (HFrEF)\"},\n{\"condition\": \"Atrial fibrillation\"}\n],\n\"medications\": [\n{\"medication\": \"Furosemide\", \"dosage\": \"40 mg PO daily\"},\n{\"medication\": \"Metoprolol succinate\", \"dosage\": \"50 mg PO daily\"},\n{\"medication\": \"Apixaban\", \"dosage\": \"5 mg PO BID\"}\n],\n\"observations\": [\n{\"observation\": \"BNP\", \"value\": \"820 pg/mL\"},\n{\"observation\": \"HR\", \"value\": \"110 bpm irregular\"}\n],\n\"procedures\": [\n{\"procedure\": \"Electrical cardioversion\", \"date\": \"2026-04-22\"}\n] \n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\n{\"condition\": \"Heart failure with reduced ejection fraction (HFrEF)\"},\n{\"condition\": \"Atrial fibrillation\"}\n],\n\"medications\": [\n{\"medication\": \"Furosemide\", \"dosage\": \"40 mg PO daily\"},\n{\"medication\": \"Metoprolol succinate\", \"dosage\": \"50 mg PO daily\"},\n{\"medication\": \"Apixaban\", \"dosage\": \"5 mg PO BID\"}\n],\n\"observations\": [\n{\"observation\": \"BNP\", \"value\": \"820 pg/mL\"},\n{\"observation\": \"HR\", \"value\": \"110 bpm irregular\"}\n],\n\"procedures\": [\n{\"procedure\": \"Electrical cardioversion\", \"date\": \"2026-04-22\"}\n] \n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_05",
+    "conditions": [
+      {
+        "condition": "Heart failure with reduced ejection fraction (HFrEF)"
+      },
+      {
+        "condition": "Atrial fibrillation"
+      }
+    ],
+    "medications": [
+      {
+        "medication": "Furosemide",
+        "dosage": "40 mg PO daily"
+      },
+      {
+        "medication": "Metoprolol succinate",
+        "dosage": "50 mg PO daily"
+      },
+      {
+        "medication": "Apixaban",
+        "dosage": "5 mg PO BID"
+      }
+    ],
+    "observations": [
+      {
+        "observation": "BNP",
+        "value": "820 pg/mL"
+      },
+      {
+        "observation": "HR",
+        "value": "110 bpm irregular"
+      }
+    ],
+    "procedures": [
+      {
+        "procedure": "Electrical cardioversion",
+        "date": "2026-04-22"
+      }
+    ]
+  }
+}

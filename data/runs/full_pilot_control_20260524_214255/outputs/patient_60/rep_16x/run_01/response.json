@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RidRvaOeENu2FmJ1QHwff9PS",
+  "object": "chat.completion",
+  "created": 1779688587,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"010-77345\",\n\"conditions\": [\n\"Acute kidney injury (pre-renal)\",\n\"Dehydration\"\n],\n\"medications\": [\n\"Normal saline IV fluids\",\n\"Ondansetron 4 mg ODT q8h PRN nausea\"\n],\n\"observations\": [\n\"Creatinine 2.1 mg/dL on admission, improved to 1.4 mg/dL at discharge\",\n\"BUN 38 mg/dL\"\n],\n\"procedures\": [\n\"IV fluid resuscitation\"\n]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1640,
+    "total_tokens": 1753,
+    "completion_tokens": 113,
+    "estimated_cost": 0.0007012,
+    "prompt_tokens_details": null
+  }
+}

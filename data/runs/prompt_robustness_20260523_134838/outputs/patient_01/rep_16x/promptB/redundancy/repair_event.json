@@ -1,0 +1,59 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"001-88421\",\n  \"conditions\": [\n    \"Asthma exacerbation\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Albuterol inhaler\",\n      \"dosage\": \"90 mcg\",\n      \"route\": \"inhaled\",\n      \"frequency\": \"q4-6h\",\n      \"reason\": \"PRN wheeze\"\n    },\n    {\n      \"name\": \"Prednisone\",\n      \"dosage\": \"40 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"daily\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"name\": \"Cetirizine\",\n      \"dosage\": \"10 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"daily\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"SpO2\",\n      \"value\": \"94%\",\n      \"unit\": \"on room air\"\n    },\n    {\n      \"name\": \"Peak flow\",\n      \"value\": \"320 L/min\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Nebulized bronchodilator treatment\",\n      \"location\": \"ED\"\n    }\n  ]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"001-88421\",\n  \"conditions\": [\n    \"Asthma exacerbation\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Albuterol inhaler\",\n      \"dosage\": \"90 mcg\",\n      \"route\": \"inhaled\",\n      \"frequency\": \"q4-6h\",\n      \"reason\": \"PRN wheeze\"\n    },\n    {\n      \"name\": \"Prednisone\",\n      \"dosage\": \"40 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"daily\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"name\": \"Cetirizine\",\n      \"dosage\": \"10 mg\",\n      \"route\": \"PO\",\n      \"frequency\": \"daily\"\n    }\n  ],\n  \"observations\": [\n    {\n      \"name\": \"SpO2\",\n      \"value\": \"94%\",\n      \"unit\": \"on room air\"\n    },\n    {\n      \"name\": \"Peak flow\",\n      \"value\": \"320 L/min\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Nebulized bronchodilator treatment\",\n      \"location\": \"ED\"\n    }\n  ]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_01",
+    "conditions": [
+      "Asthma exacerbation"
+    ],
+    "medications": [
+      {
+        "name": "Albuterol inhaler",
+        "dosage": "90 mcg",
+        "route": "inhaled",
+        "frequency": "q4-6h",
+        "reason": "PRN wheeze"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "40 mg",
+        "route": "PO",
+        "frequency": "daily",
+        "duration": "5 days"
+      },
+      {
+        "name": "Cetirizine",
+        "dosage": "10 mg",
+        "route": "PO",
+        "frequency": "daily"
+      }
+    ],
+    "observations": [
+      {
+        "name": "SpO2",
+        "value": "94%",
+        "unit": "on room air"
+      },
+      {
+        "name": "Peak flow",
+        "value": "320 L/min"
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Nebulized bronchodilator treatment",
+        "location": "ED"
+      }
+    ]
+  }
+}

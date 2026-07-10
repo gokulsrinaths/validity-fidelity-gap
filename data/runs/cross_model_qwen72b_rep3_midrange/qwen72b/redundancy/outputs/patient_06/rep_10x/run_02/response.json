@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RQdMcr0L0H8mqjjWEV6Mu2Oa",
+  "object": "chat.completion",
+  "created": 1779442182,
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"006-55211\",\n\"conditions\": [\"Streptococcal pharyngitis (rapid strep positive)\"],\n\"medications\": [\"Amoxicillin 500 mg PO BID x 10 days\", \"Ibuprofen 400 mg PO q6h PRN pain/fever\"],\n\"observations\": [\"Temp 39.0 C\", \"Rapid strep test: positive\"],\n\"procedures\": []\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": null
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1741,
+    "total_tokens": 1850,
+    "completion_tokens": 109,
+    "estimated_cost": 0.0006703599999999999,
+    "prompt_tokens_details": null
+  }
+}

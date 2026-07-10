@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RzXx1as8RD4k6fLwT1iNBQIP",
+  "object": "chat.completion",
+  "created": 1779488992,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"008-33009\",\n\"conditions\": [\n\"Community-acquired pneumonia\",\n\"Chronic obstructive pulmonary disease (COPD)\"\n],\n\"medications\": [\n\"Azithromycin 500 mg PO day 1 then 250 mg daily days 2-5\",\n\"Prednisone 40 mg PO daily x 5 days\",\n\"Tiotropium inhaler: 2 puffs inhaled daily\"\n],\n\"observations\": [\n\"SpO2 91% on room air\",\n\"RR 24 /min\"\n],\n\"procedures\": [\n\"Supplemental oxygen therapy\"\n]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3197,
+    "total_tokens": 3327,
+    "completion_tokens": 130,
+    "estimated_cost": 7.044e-05,
+    "prompt_tokens_details": null
+  }
+}

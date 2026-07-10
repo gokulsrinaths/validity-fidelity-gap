@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RLX9F1udvqYtxOTZIF8Ee7F8",
+  "object": "chat.completion",
+  "created": 1779573976,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\"osteoarthritis of the right knee\", \"hyperlipidemia\"],\n\"medications\": [\"atorvastatin 20 mg orally at bedtime\", \"naproxen 500 mg orally twice daily as needed for pain\"],\n\"observations\": [\"BMI of 31.2 kg/m2\", \"LDL level of 168 mg/dL\"],\n\"procedures\": [\"right total knee arthroplasty\"]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1126,
+    "total_tokens": 1227,
+    "completion_tokens": 101,
+    "estimated_cost": 2.757e-05,
+    "prompt_tokens_details": null
+  }
+}

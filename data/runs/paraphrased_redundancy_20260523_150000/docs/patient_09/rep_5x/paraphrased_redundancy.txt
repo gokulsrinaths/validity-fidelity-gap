@@ -1,0 +1,83 @@
+OUTPATIENT NOTE
+
+Patient: Aisha Johnson, MRN: 009-99110, DOB: 1988-06-05
+
+Date of Visit: 2026-04-08
+
+Clinical Summary:
+The patient's primary concern is migraine headaches without aura.
+
+Current Medications:
+She is currently taking Sumatriptan 50 mg orally at the onset of a headache, with the option to repeat the dose every 2 hours as needed. Additionally, she is prescribed Propranolol 20 mg orally twice daily for migraine prevention.
+
+Vital Signs and Examination:
+Her blood pressure was recorded at 118/74 mmHg. A neurological examination was conducted, which revealed normal findings.
+
+Management Plan:
+To manage her migraines, the patient is advised to avoid triggers and maintain a headache diary. A follow-up appointment is scheduled for 6 weeks to reassess her condition.
+
+OUTPATIENT NOTE
+
+Patient: Aisha Johnson, MRN: 009-99110, Date of Birth: 1988-06-05
+
+Assessment:
+The patient's primary concern is a migraine without aura.
+
+Medications:
+The patient is currently taking Sumatriptan 50 mg orally at the onset of a headache, with the option to repeat the dose every 2 hours if necessary. Additionally, she is prescribed Propranolol 20 mg orally twice daily for the purpose of migraine prevention.
+
+Observations:
+The patient's blood pressure was recorded as 118/74 mmHg. A neurological examination was conducted, and the results were within normal limits.
+
+Plan:
+To manage the patient's migraines, we recommend avoiding triggers and maintaining a headache diary. A follow-up appointment is scheduled for 6 weeks.
+
+OUTPATIENT NOTE
+
+Patient: Aisha Johnson, MRN: 009-99110, Date of Birth: 1988-06-05
+
+ASSESSMENT
+The patient's primary concern is a migraine without aura.
+
+MEDICATIONS
+The patient is currently taking Sumatriptan 50 mg orally at the onset of a headache, with the option to repeat the dose every two hours as needed. Additionally, she is prescribed Propranolol 20 mg orally twice daily for the purpose of migraine prevention.
+
+OBSERVATIONS
+Vital signs recorded on this date include a blood pressure of 118/74 mmHg. A neurological examination was conducted and found to be within normal limits.
+
+PLAN
+To manage the patient's migraines, we recommend avoiding triggers and maintaining a headache diary. A follow-up appointment is scheduled for six weeks.
+
+OUTPATIENT NOTE
+
+Patient: Aisha Johnson, MRN: 009-99110, Date of Birth: 1988-06-05
+
+ASSESSMENT
+The patient's primary concern is a migraine without aura.
+
+MEDICATIONS
+The patient is prescribed Sumatriptan 50 mg orally at the onset of a headache, with the option to repeat the dose every 2 hours as needed. Additionally, she is taking Propranolol 20 mg orally twice daily for migraine prevention.
+
+OBSERVATIONS
+Vital signs recorded on this date include a blood pressure of 118/74 mmHg. A neurological examination was performed and found to be within normal limits.
+
+PLAN
+To manage the patient's migraines, we recommend avoiding triggers and keeping a headache diary. A follow-up appointment is scheduled in 6 weeks.
+
+OUTPATIENT NOTE
+
+Patient: Aisha Johnson, MRN: 009-99110, DOB: 1988-06-05
+
+Date of Visit: 2026-04-08
+
+Clinical Summary:
+The patient's primary concern is migraine headaches without aura.
+
+Current Medications:
+She is currently taking Sumatriptan 50 mg orally at the onset of a headache, with the option to repeat the dose every 2 hours as needed. Additionally, she is prescribed Propranolol 20 mg orally twice daily for migraine prevention.
+
+Vital Signs and Examination:
+Her blood pressure was recorded at 118/74 mmHg. A neurological examination was conducted, which revealed normal findings.
+
+Management Plan:
+To manage her migraines, the patient is advised to avoid triggers and maintain a headache diary. A follow-up appointment is scheduled for 6 weeks to reassess her condition.

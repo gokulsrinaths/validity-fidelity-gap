@@ -1,0 +1,26 @@
+{
+  "call_id": "20260520_172210__patient_05__rep_32x__run_03",
+  "patient_id": "patient_05",
+  "repetition": 32,
+  "run": 3,
+  "markdown_fence_present": false,
+  "raw_valid_json": false,
+  "schema_match": false,
+  "missing_keys": [
+    "conditions",
+    "medications",
+    "observations",
+    "patient_id",
+    "procedures"
+  ],
+  "extra_keys": [],
+  "operations": [
+    "set_patient_id",
+    "fill_missing_conditions",
+    "fill_missing_medications",
+    "fill_missing_observations",
+    "fill_missing_procedures",
+    "repair_from_malformed_json",
+    "repair_schema_mismatch"
+  ]
+}

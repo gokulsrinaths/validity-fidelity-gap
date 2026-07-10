@@ -1,0 +1,34 @@
+{
+  "raw_text": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\n  \"Heart failure with reduced ejection fraction (HFrEF)\",\n  \"Atrial fibrillation\"\n],\n\"medications\": [\n  \"Furosemide 40 mg PO daily\",\n  \"Metoprolol succinate 50 mg PO daily\",\n  \"Apixaban 5 mg PO BID\"\n],\n\"observations\": [\n  \"BNP 820 pg/mL\",\n  \"HR 110 bpm irregular\",\n  \"LVEF 30%\"\n],\n\"procedures\": [\n  \"Electrical cardioversion 2026-04-22\"\n]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\n  \"Heart failure with reduced ejection fraction (HFrEF)\",\n  \"Atrial fibrillation\"\n],\n\"medications\": [\n  \"Furosemide 40 mg PO daily\",\n  \"Metoprolol succinate 50 mg PO daily\",\n  \"Apixaban 5 mg PO BID\"\n],\n\"observations\": [\n  \"BNP 820 pg/mL\",\n  \"HR 110 bpm irregular\",\n  \"LVEF 30%\"\n],\n\"procedures\": [\n  \"Electrical cardioversion 2026-04-22\"\n]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_75",
+    "conditions": [
+      "Heart failure with reduced ejection fraction (HFrEF)",
+      "Atrial fibrillation"
+    ],
+    "medications": [
+      "Furosemide 40 mg PO daily",
+      "Metoprolol succinate 50 mg PO daily",
+      "Apixaban 5 mg PO BID"
+    ],
+    "observations": [
+      "BNP 820 pg/mL",
+      "HR 110 bpm irregular",
+      "LVEF 30%"
+    ],
+    "procedures": [
+      "Electrical cardioversion 2026-04-22"
+    ]
+  }
+}

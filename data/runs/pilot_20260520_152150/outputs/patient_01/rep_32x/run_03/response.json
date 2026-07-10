@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-RDDR9Cs0DOwOSf18DmU2bl9s",
+  "object": "chat.completion",
+  "created": 1779315902,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"patient_id\": \"001-88421\",\n  \"conditions\": [\n    \"Asthma exacerbation\"\n  ],\n  \"medications",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8270,
+    "total_tokens": 8301,
+    "completion_tokens": 31,
+    "estimated_cost": 0.00016695,
+    "prompt_tokens_details": null
+  }
+}

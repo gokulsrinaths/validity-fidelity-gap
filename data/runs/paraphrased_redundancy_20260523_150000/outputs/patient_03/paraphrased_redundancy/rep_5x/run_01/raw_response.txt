@@ -1,0 +1,29 @@
+{
+"patient_id": "003-77211",
+"conditions": [
+"type 2 diabetes mellitus",
+"hypertension",
+"diabetic foot ulcer on the left foot"
+],
+"medications": [
+"metformin 1000 mg orally twice a day with meals",
+"lisinopril 10 mg orally once a day",
+"amoxicillin-clavulanate 875/125 mg orally twice a day for 7 days"
+],
+"observations": [
+{
+"value": "8.7%",
+"unit": "%"
+},
+{
+"value": "152/92",
+"unit": "mmHg"
+}
+],
+"procedures": [
+{
+"name": "wound debridement of the left foot",
+"date": "2026-02-11"
+}
+]
+}

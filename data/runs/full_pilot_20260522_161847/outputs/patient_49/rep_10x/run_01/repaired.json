@@ -1,0 +1,31 @@
+{
+  "patient_id": "patient_49",
+  "conditions": [
+    "Migraine without aura"
+  ],
+  "medications": [
+    {
+      "name": "Sumatriptan",
+      "dosage": "50 mg",
+      "route": "PO",
+      "frequency": "at onset of headache; may repeat once in 2 hours"
+    },
+    {
+      "name": "Propranolol",
+      "dosage": "20 mg",
+      "route": "PO",
+      "frequency": "BID for migraine prevention"
+    }
+  ],
+  "observations": [
+    {
+      "name": "BP",
+      "value": "118/74 mmHg"
+    },
+    {
+      "name": "Neuro exam",
+      "value": "normal"
+    }
+  ],
+  "procedures": []
+}

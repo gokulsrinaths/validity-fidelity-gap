@@ -1,0 +1,46 @@
+{
+  "raw_text": "{\n\"patient_id\": \"002-11290\",\n\"conditions\": [\"acute appendicitis\"],\n\"medications\": [\n  {\"name\": \"ceftriaxone\", \"dose\": \"1 g IV\", \"route\": \"intravenous\"},\n  {\"name\": \"metronidazole\", \"dose\": \"500 mg IV\", \"route\": \"intravenous\"},\n  {\"name\": \"acetaminophen\", \"dose\": \"650 mg PO\", \"route\": \"oral\"}\n],\n\"observations\": [\n  {\"temperature\": 38.1, \"white blood cell count\": 14.2}\n],\n\"procedures\": [\"laparoscopic appendectomy\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"002-11290\",\n\"conditions\": [\"acute appendicitis\"],\n\"medications\": [\n  {\"name\": \"ceftriaxone\", \"dose\": \"1 g IV\", \"route\": \"intravenous\"},\n  {\"name\": \"metronidazole\", \"dose\": \"500 mg IV\", \"route\": \"intravenous\"},\n  {\"name\": \"acetaminophen\", \"dose\": \"650 mg PO\", \"route\": \"oral\"}\n],\n\"observations\": [\n  {\"temperature\": 38.1, \"white blood cell count\": 14.2}\n],\n\"procedures\": [\"laparoscopic appendectomy\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_02",
+    "conditions": [
+      "acute appendicitis"
+    ],
+    "medications": [
+      {
+        "name": "ceftriaxone",
+        "dose": "1 g IV",
+        "route": "intravenous"
+      },
+      {
+        "name": "metronidazole",
+        "dose": "500 mg IV",
+        "route": "intravenous"
+      },
+      {
+        "name": "acetaminophen",
+        "dose": "650 mg PO",
+        "route": "oral"
+      }
+    ],
+    "observations": [
+      {
+        "temperature": 38.1,
+        "white blood cell count": 14.2
+      }
+    ],
+    "procedures": [
+      "laparoscopic appendectomy"
+    ]
+  }
+}

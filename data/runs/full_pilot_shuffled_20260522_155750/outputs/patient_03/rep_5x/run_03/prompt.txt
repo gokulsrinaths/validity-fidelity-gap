@@ -1,0 +1,120 @@
+Extract all medical information from the document into this EXACT schema:
+
+{
+"patient_id": "",
+"conditions": [],
+"medications": [],
+"observations": [],
+"procedures": []
+}
+
+Rules:
+
+* Return ONLY valid JSON
+* Do not wrap in markdown
+* Do not add extra keys
+* Do not rename fields
+* Arrays must always exist
+* If empty, use []
+
+Document:
+DISCHARGE INSTRUCTIONS
+Name: Maria Gomez MRN: 003-77211 DOB: 1962-02-22
+Admit: 2026-02-10 Discharge: 2026-02-12
+PROCEDURES
+- Wound debridement (left foot) 2026-02-11
+HOSPITAL COURSE
+Treated for infected diabetic foot ulcer with IV antibiotics; improved.
+MEDICATIONS
+- Metformin 1000 mg PO BID with meals
+- Lisinopril 10 mg PO daily
+- Amoxicillin-clavulanate 875/125 mg PO BID x 7 days
+PLAN
+Wound care follow up, glucose monitoring, PCP follow up in 1 week.
+DIAGNOSES
+- Type 2 diabetes mellitus
+- Hypertension
+- Diabetic foot ulcer (left)
+OBSERVATIONS
+- A1c 8.7%
+- BP 152/92 mmHg
+DISCHARGE INSTRUCTIONS
+Name: Maria Gomez MRN: 003-77211 DOB: 1962-02-22
+Admit: 2026-02-10 Discharge: 2026-02-12
+PLAN
+Wound care follow up, glucose monitoring, PCP follow up in 1 week.
+HOSPITAL COURSE
+Treated for infected diabetic foot ulcer with IV antibiotics; improved.
+PROCEDURES
+- Wound debridement (left foot) 2026-02-11
+MEDICATIONS
+- Metformin 1000 mg PO BID with meals
+- Lisinopril 10 mg PO daily
+- Amoxicillin-clavulanate 875/125 mg PO BID x 7 days
+OBSERVATIONS
+- A1c 8.7%
+- BP 152/92 mmHg
+DIAGNOSES
+- Type 2 diabetes mellitus
+- Hypertension
+- Diabetic foot ulcer (left)
+DISCHARGE INSTRUCTIONS
+Name: Maria Gomez MRN: 003-77211 DOB: 1962-02-22
+Admit: 2026-02-10 Discharge: 2026-02-12
+HOSPITAL COURSE
+Treated for infected diabetic foot ulcer with IV antibiotics; improved.
+PLAN
+Wound care follow up, glucose monitoring, PCP follow up in 1 week.
+MEDICATIONS
+- Metformin 1000 mg PO BID with meals
+- Lisinopril 10 mg PO daily
+- Amoxicillin-clavulanate 875/125 mg PO BID x 7 days
+DIAGNOSES
+- Type 2 diabetes mellitus
+- Hypertension
+- Diabetic foot ulcer (left)
+OBSERVATIONS
+- A1c 8.7%
+- BP 152/92 mmHg
+PROCEDURES
+- Wound debridement (left foot) 2026-02-11
+MEDICATIONS
+- Metformin 1000 mg PO BID with meals
+- Lisinopril 10 mg PO daily
+- Amoxicillin-clavulanate 875/125 mg PO BID x 7 days
+PLAN
+Wound care follow up, glucose monitoring, PCP follow up in 1 week.
+PROCEDURES
+- Wound debridement (left foot) 2026-02-11
+OBSERVATIONS
+- A1c 8.7%
+- BP 152/92 mmHg
+HOSPITAL COURSE
+Treated for infected diabetic foot ulcer with IV antibiotics; improved.
+DISCHARGE INSTRUCTIONS
+Name: Maria Gomez MRN: 003-77211 DOB: 1962-02-22
+Admit: 2026-02-10 Discharge: 2026-02-12
+DIAGNOSES
+- Type 2 diabetes mellitus
+- Hypertension
+- Diabetic foot ulcer (left)
+DIAGNOSES
+- Type 2 diabetes mellitus
+- Hypertension
+- Diabetic foot ulcer (left)
+MEDICATIONS
+- Metformin 1000 mg PO BID with meals
+- Lisinopril 10 mg PO daily
+- Amoxicillin-clavulanate 875/125 mg PO BID x 7 days
+DISCHARGE INSTRUCTIONS
+Name: Maria Gomez MRN: 003-77211 DOB: 1962-02-22
+Admit: 2026-02-10 Discharge: 2026-02-12
+PLAN
+Wound care follow up, glucose monitoring, PCP follow up in 1 week.
+HOSPITAL COURSE
+Treated for infected diabetic foot ulcer with IV antibiotics; improved.
+OBSERVATIONS
+- A1c 8.7%
+- BP 152/92 mmHg
+PROCEDURES
+- Wound debridement (left foot) 2026-02-11

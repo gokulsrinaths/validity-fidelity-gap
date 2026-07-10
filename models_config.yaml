@@ -1,0 +1,20 @@
+models:
+  llama8b:
+    provider: deepinfra
+    model: meta-llama/Meta-Llama-3.1-8B-Instruct
+    max_tokens: 512
+    context_window_tokens: null
+    pricing_notes: "DeepInfra pricing varies; capture estimated_cost from API usage when available."
+  llama70b:
+    provider: deepinfra
+    model: meta-llama/Meta-Llama-3.1-70B-Instruct
+    max_tokens: 512
+    context_window_tokens: null
+    pricing_notes: "DeepInfra pricing varies; capture estimated_cost from API usage when available."
+  qwen72b:
+    provider: deepinfra
+    model: Qwen/Qwen2.5-72B-Instruct
+    max_tokens: 512
+    context_window_tokens: null
+    pricing_notes: "DeepInfra pricing varies; capture estimated_cost from API usage when available."
+

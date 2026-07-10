@@ -1,0 +1,22 @@
+{
+"doc_id": "AIRLINE ANNOUNCES NEW TRANSATLANTIC ROUTES",
+"events": [
+"Horizon Airlines announced the launch of five new nonstop transatlantic routes",
+"A fare war between Horizon and TransAtlantic Airways"
+],
+"persons": [
+"Vanessa Okafor",
+"Renata Cruz"
+],
+"organizations": [
+"Horizon Airlines",
+"TransAtlantic Airways",
+"Department of Transportation"
+],
+"locations": [
+"Chicago",
+"Dublin",
+"Lisbon",
+"Athens"
+]
+}

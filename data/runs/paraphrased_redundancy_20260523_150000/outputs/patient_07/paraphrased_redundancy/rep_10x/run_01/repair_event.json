@@ -1,0 +1,54 @@
+{
+  "raw_text": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\n{\"name\": \"osteoarthritis of the right knee\"},\n{\"name\": \"hyperlipidemia\"}\n],\n\"medications\": [\n{\"name\": \"atorvastatin\", \"dosage\": \"20 mg\", \"route\": \"oral\", \"frequency\": \"bedtime\"},\n{\"name\": \"naproxen\", \"dosage\": \"500 mg\", \"route\": \"oral\", \"frequency\": \"twice daily\"}\n],\n\"observations\": [\n{\"name\": \"BMI\", \"value\": \"31.2 kg/m2\"},\n{\"name\": \"LDL cholesterol level\", \"value\": \"168 mg/dL\"}\n],\n\"procedures\": [\n{\"name\": \"right total knee arthroplasty\"}\n] }",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"007-22018\",\n\"conditions\": [\n{\"name\": \"osteoarthritis of the right knee\"},\n{\"name\": \"hyperlipidemia\"}\n],\n\"medications\": [\n{\"name\": \"atorvastatin\", \"dosage\": \"20 mg\", \"route\": \"oral\", \"frequency\": \"bedtime\"},\n{\"name\": \"naproxen\", \"dosage\": \"500 mg\", \"route\": \"oral\", \"frequency\": \"twice daily\"}\n],\n\"observations\": [\n{\"name\": \"BMI\", \"value\": \"31.2 kg/m2\"},\n{\"name\": \"LDL cholesterol level\", \"value\": \"168 mg/dL\"}\n],\n\"procedures\": [\n{\"name\": \"right total knee arthroplasty\"}\n] }",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_07",
+    "conditions": [
+      {
+        "name": "osteoarthritis of the right knee"
+      },
+      {
+        "name": "hyperlipidemia"
+      }
+    ],
+    "medications": [
+      {
+        "name": "atorvastatin",
+        "dosage": "20 mg",
+        "route": "oral",
+        "frequency": "bedtime"
+      },
+      {
+        "name": "naproxen",
+        "dosage": "500 mg",
+        "route": "oral",
+        "frequency": "twice daily"
+      }
+    ],
+    "observations": [
+      {
+        "name": "BMI",
+        "value": "31.2 kg/m2"
+      },
+      {
+        "name": "LDL cholesterol level",
+        "value": "168 mg/dL"
+      }
+    ],
+    "procedures": [
+      {
+        "name": "right total knee arthroplasty"
+      }
+    ]
+  }
+}

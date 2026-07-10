@@ -1,0 +1,45 @@
+{
+  "raw_text": "{\n\"patient_id\": \"010-77345\",\n\"conditions\": [\n\"Acute kidney injury (pre-renal)\",\n\"Dehydration\"\n],\n\"medications\": [\n\"Normal saline IV fluids (in hospital)\",\n\"Ondansetron 4 mg ODT q8h PRN nausea\"\n],\n\"observations\": [\n{\n\"value\": \"2.1\",\n\"unit\": \"mg/dL\",\n\"date\": \"admission\"\n},\n{\n\"value\": \"1.4\",\n\"unit\": \"mg/dL\",\n\"date\": \"discharge\"\n},\n{\n\"value\": \"38\",\n\"unit\": \"mg/dL\",\n\"date\": \"\"\n}\n],\n\"procedures\": [\n\"IV fluid resuscitation\"\n]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"010-77345\",\n\"conditions\": [\n\"Acute kidney injury (pre-renal)\",\n\"Dehydration\"\n],\n\"medications\": [\n\"Normal saline IV fluids (in hospital)\",\n\"Ondansetron 4 mg ODT q8h PRN nausea\"\n],\n\"observations\": [\n{\n\"value\": \"2.1\",\n\"unit\": \"mg/dL\",\n\"date\": \"admission\"\n},\n{\n\"value\": \"1.4\",\n\"unit\": \"mg/dL\",\n\"date\": \"discharge\"\n},\n{\n\"value\": \"38\",\n\"unit\": \"mg/dL\",\n\"date\": \"\"\n}\n],\n\"procedures\": [\n\"IV fluid resuscitation\"\n]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_20",
+    "conditions": [
+      "Acute kidney injury (pre-renal)",
+      "Dehydration"
+    ],
+    "medications": [
+      "Normal saline IV fluids (in hospital)",
+      "Ondansetron 4 mg ODT q8h PRN nausea"
+    ],
+    "observations": [
+      {
+        "value": "2.1",
+        "unit": "mg/dL",
+        "date": "admission"
+      },
+      {
+        "value": "1.4",
+        "unit": "mg/dL",
+        "date": "discharge"
+      },
+      {
+        "value": "38",
+        "unit": "mg/dL",
+        "date": ""
+      }
+    ],
+    "procedures": [
+      "IV fluid resuscitation"
+    ]
+  }
+}

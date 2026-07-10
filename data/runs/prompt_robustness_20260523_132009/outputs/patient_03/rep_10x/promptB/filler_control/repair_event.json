@@ -1,0 +1,43 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"003-77211\",\n  \"conditions\": [\n    \"Type 2 diabetes mellitus\",\n    \"Hypertension\",\n    \"Diabetic foot ulcer (left)\"\n  ],\n  \"medications\": [\n    \"Metformin 1000 mg PO BID\",\n    \"Lisinopril 10 mg PO\",\n    \"Amoxicillin-clavulanate 875/125 mg PO BID\"\n  ],\n  \"observations\": [\n    {\n      \"name\": \"A1c\",\n      \"value\": \"8.7%\"\n    },\n    {\n      \"name\": \"BP\",\n      \"value\": \"152/92 mmHg\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Wound debridement (left foot)\",\n      \"date\": \"2026-02-11\"\n    }\n  ]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"003-77211\",\n  \"conditions\": [\n    \"Type 2 diabetes mellitus\",\n    \"Hypertension\",\n    \"Diabetic foot ulcer (left)\"\n  ],\n  \"medications\": [\n    \"Metformin 1000 mg PO BID\",\n    \"Lisinopril 10 mg PO\",\n    \"Amoxicillin-clavulanate 875/125 mg PO BID\"\n  ],\n  \"observations\": [\n    {\n      \"name\": \"A1c\",\n      \"value\": \"8.7%\"\n    },\n    {\n      \"name\": \"BP\",\n      \"value\": \"152/92 mmHg\"\n    }\n  ],\n  \"procedures\": [\n    {\n      \"name\": \"Wound debridement (left foot)\",\n      \"date\": \"2026-02-11\"\n    }\n  ]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_03",
+    "conditions": [
+      "Type 2 diabetes mellitus",
+      "Hypertension",
+      "Diabetic foot ulcer (left)"
+    ],
+    "medications": [
+      "Metformin 1000 mg PO BID",
+      "Lisinopril 10 mg PO",
+      "Amoxicillin-clavulanate 875/125 mg PO BID"
+    ],
+    "observations": [
+      {
+        "name": "A1c",
+        "value": "8.7%"
+      },
+      {
+        "name": "BP",
+        "value": "152/92 mmHg"
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Wound debridement (left foot)",
+        "date": "2026-02-11"
+      }
+    ]
+  }
+}

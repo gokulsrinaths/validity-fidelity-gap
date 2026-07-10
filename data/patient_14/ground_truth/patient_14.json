@@ -1,0 +1,16 @@
+{
+  "patient_id": "patient_14",
+  "conditions": [
+    "Major depressive disorder",
+    "Insomnia"
+  ],
+  "medications": [
+    "Sertraline 50 mg daily",
+    "Trazodone 50 mg at bedtime PRN"
+  ],
+  "observations": [
+    "PHQ-9 score 16",
+    "Weight 78.4 kg"
+  ],
+  "procedures": []
+}

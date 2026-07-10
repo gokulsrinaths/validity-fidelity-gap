@@ -1,0 +1,57 @@
+{
+  "raw_text": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\n\"Heart failure with reduced ejection fraction (HFrEF)\",\n\"Atrial fibrillation\"\n],\n\"medications\": [\n{\n\"name\": \"Furosemide\",\n\"dose\": \"40 mg\",\n\"route\": \"PO\",\n\"frequency\": \"daily\"\n},\n{\n\"name\": \"Metoprolol succinate\",\n\"dose\": \"50 mg\",\n\"route\": \"PO\",\n\"frequency\": \"daily\"\n},\n{\n\"name\": \"Apixaban\",\n\"dose\": \"5 mg\",\n\"route\": \"PO\",\n\"frequency\": \"BID\"\n}\n],\n\"observations\": [\n{\n\"name\": \"BNP\",\n\"value\": \"820 pg/mL\"\n},\n{\n\"name\": \"HR\",\n\"value\": \"110 bpm irregular\"\n}\n],\n\"procedures\": [\n{\n\"name\": \"Electrical cardioversion\",\n\"date\": \"2026-04-22\"\n}\n]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"005-90122\",\n\"conditions\": [\n\"Heart failure with reduced ejection fraction (HFrEF)\",\n\"Atrial fibrillation\"\n],\n\"medications\": [\n{\n\"name\": \"Furosemide\",\n\"dose\": \"40 mg\",\n\"route\": \"PO\",\n\"frequency\": \"daily\"\n},\n{\n\"name\": \"Metoprolol succinate\",\n\"dose\": \"50 mg\",\n\"route\": \"PO\",\n\"frequency\": \"daily\"\n},\n{\n\"name\": \"Apixaban\",\n\"dose\": \"5 mg\",\n\"route\": \"PO\",\n\"frequency\": \"BID\"\n}\n],\n\"observations\": [\n{\n\"name\": \"BNP\",\n\"value\": \"820 pg/mL\"\n},\n{\n\"name\": \"HR\",\n\"value\": \"110 bpm irregular\"\n}\n],\n\"procedures\": [\n{\n\"name\": \"Electrical cardioversion\",\n\"date\": \"2026-04-22\"\n}\n]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_05",
+    "conditions": [
+      "Heart failure with reduced ejection fraction (HFrEF)",
+      "Atrial fibrillation"
+    ],
+    "medications": [
+      {
+        "name": "Furosemide",
+        "dose": "40 mg",
+        "route": "PO",
+        "frequency": "daily"
+      },
+      {
+        "name": "Metoprolol succinate",
+        "dose": "50 mg",
+        "route": "PO",
+        "frequency": "daily"
+      },
+      {
+        "name": "Apixaban",
+        "dose": "5 mg",
+        "route": "PO",
+        "frequency": "BID"
+      }
+    ],
+    "observations": [
+      {
+        "name": "BNP",
+        "value": "820 pg/mL"
+      },
+      {
+        "name": "HR",
+        "value": "110 bpm irregular"
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Electrical cardioversion",
+        "date": "2026-04-22"
+      }
+    ]
+  }
+}

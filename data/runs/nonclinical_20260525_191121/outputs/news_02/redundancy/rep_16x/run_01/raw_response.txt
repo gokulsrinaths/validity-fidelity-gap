@@ -1,0 +1,26 @@
+{
+"doc_id": "TECH GIANT ACQUIRES AI STARTUP FOR $800 MILLION",
+"events": [
+"Apex Technologies announced Monday it will acquire NeuralPath Inc.",
+"The deal, expected to close in Q3 2026 pending regulatory approval by the Federal Trade Commission, will bring NeuralPath's 140-person team under the Apex umbrella.",
+"NeuralPath CEO David Chen will join Apex as Senior Vice President of AI Products.",
+"Apex CEO Rachel Goldstein said the acquisition accelerates the company's AI roadmap.",
+"NeuralPath, founded in 2021 by Chen and co-founder Priya Anand, raised $95 million in Series B funding from Sequoia Capital and Andreessen Horowitz before the buyout."
+],
+"persons": [
+"David Chen",
+"Rachel Goldstein",
+"Priya Anand"
+],
+"organizations": [
+"Apex Technologies",
+"NeuralPath Inc.",
+"Sequoia Capital",
+"Andreessen Horowitz",
+"Federal Trade Commission"
+],
+"locations": [
+"Austin",
+"Texas"
+]
+}

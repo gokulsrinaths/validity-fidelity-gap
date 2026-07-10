@@ -1,0 +1,9 @@
+[1]{
+"relevance": "Yes",
+"key_highlights": [
+  "Stell Voyah-branded cars in Europe",
+  "Stellantis and Dongfeng Group plan to establish a new joint venture that will manufacture and sell Dongfeng vehicles in selected European markets.",
+  "The plan to sell Voyah-branded cars in Europe -- 2nd Update",
+  "Stellantis and Dongfeng Group plan to establish a new joint venture that will manufacture and sell Dongfeng vehicles in selected European markets."
+]
+}

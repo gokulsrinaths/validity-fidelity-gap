@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-Rn8yVjporT6wcFLSas5dcnwq",
+  "object": "chat.completion",
+  "created": 1779695898,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\n  \"Asthma\",\n  \"Seasonal allergic rhinitis\"\n],\n\"medications\": [\n  {\n    \"name\": \"Albuterol inhaler\",\n    \"dosage\": \"90 mcg: 2 puffs inhaled q4-6h PRN wheeze\"\n  },\n  {\n    \"name\": \"Prednisone\",\n    \"dosage\": \"40 mg PO daily x 5 days\"\n  },\n  {\n    \"name\": \"Cetirizine\",\n    \"dosage\": \"10 mg PO daily\"\n  }\n],\n\"observations\": [\n  {\n    \"name\": \"SpO2\",\n    \"value\": \"94%\",\n    \"unit\": \"%\"\n  },\n  {\n    \"name\": \"Peak flow\",\n    \"value\": \"320\",\n    \"unit\": \"L/min\"\n  }\n],\n\"procedures\": [\n  \"Nebulized bronchodilator treatment in ED\"\n]\n}",
+        "reasoning_content": null,
+        "name": null,
+        "tool_calls": []
+      },
+      "finish_reason": "stop",
+      "logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 399,
+    "total_tokens": 613,
+    "completion_tokens": 214,
+    "estimated_cost": 0.0002452,
+    "prompt_tokens_details": null
+  }
+}

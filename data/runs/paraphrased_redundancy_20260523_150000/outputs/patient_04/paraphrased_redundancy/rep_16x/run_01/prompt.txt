@@ -1,0 +1,280 @@
+Extract all medical information from the document into this EXACT schema:
+
+{
+"patient_id": "",
+"conditions": [],
+"medications": [],
+"observations": [],
+"procedures": []
+}
+
+Rules:
+
+* Return ONLY valid JSON
+* Do not wrap in markdown
+* Do not add extra keys
+* Do not rename fields
+* Arrays must always exist
+* If empty, use []
+
+Document:
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient was found to be experiencing a major depressive disorder and insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score was 16, indicating significant depressive symptoms. The patient's weight was
+recorded as 78.4 kg.
+Plan:
+The patient will continue taking sertraline and will receive counseling on sleep hygiene techniques. A
+follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient's clinical presentation is consistent with a diagnosis of major depressive disorder and
+insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score is 16, indicating significant depressive symptoms. The patient's weight is 78.4
+kg.
+Plan:
+The patient will continue taking sertraline as directed. Additionally, the patient will receive
+counseling on sleep hygiene techniques. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient is currently being managed for major depressive disorder and insomnia.
+Current Medications:
+- Sertraline 50 mg orally, once daily
+- Trazodone 50 mg orally, as needed at bedtime for sleep
+Observations:
+- The patient's PHQ-9 score was 16, indicating significant depressive symptoms.
+- The patient's weight was recorded as 78.4 kg.
+Plan:
+The patient will continue to take sertraline as prescribed, and will receive counseling on sleep hygiene
+practices. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient was found to be experiencing a major depressive disorder and insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score was 16, indicating significant depressive symptoms. The patient's weight was
+recorded as 78.4 kg.
+Plan:
+The patient will continue taking sertraline as prescribed. Additionally, the patient will receive sleep
+hygiene counseling. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient was found to be experiencing a major depressive disorder and insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score was 16, indicating significant depressive symptoms. The patient's weight was
+recorded as 78.4 kg.
+Plan:
+The patient will continue taking sertraline and will receive counseling on sleep hygiene techniques. A
+follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient's clinical presentation is consistent with a diagnosis of major depressive disorder and
+insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score is 16, indicating significant depressive symptoms. The patient's weight is 78.4
+kg.
+Plan:
+The patient will continue taking sertraline as directed. Additionally, the patient will receive
+counseling on sleep hygiene techniques. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient is currently being managed for major depressive disorder and insomnia.
+Current Medications:
+- Sertraline 50 mg orally, once daily
+- Trazodone 50 mg orally, as needed at bedtime for sleep
+Observations:
+- The patient's PHQ-9 score was 16, indicating significant depressive symptoms.
+- The patient's weight was recorded as 78.4 kg.
+Plan:
+The patient will continue to take sertraline as prescribed, and will receive counseling on sleep hygiene
+practices. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient was found to be experiencing a major depressive disorder and insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score was 16, indicating significant depressive symptoms. The patient's weight was
+recorded as 78.4 kg.
+Plan:
+The patient will continue taking sertraline as prescribed. Additionally, the patient will receive sleep
+hygiene counseling. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient was found to be experiencing a major depressive disorder and insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score was 16, indicating significant depressive symptoms. The patient's weight was
+recorded as 78.4 kg.
+Plan:
+The patient will continue taking sertraline and will receive counseling on sleep hygiene techniques. A
+follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient's clinical presentation is consistent with a diagnosis of major depressive disorder and
+insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score is 16, indicating significant depressive symptoms. The patient's weight is 78.4
+kg.
+Plan:
+The patient will continue taking sertraline as directed. Additionally, the patient will receive
+counseling on sleep hygiene techniques. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient is currently being managed for major depressive disorder and insomnia.
+Current Medications:
+- Sertraline 50 mg orally, once daily
+- Trazodone 50 mg orally, as needed at bedtime for sleep
+Observations:
+- The patient's PHQ-9 score was 16, indicating significant depressive symptoms.
+- The patient's weight was recorded as 78.4 kg.
+Plan:
+The patient will continue to take sertraline as prescribed, and will receive counseling on sleep hygiene
+practices. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient was found to be experiencing a major depressive disorder and insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score was 16, indicating significant depressive symptoms. The patient's weight was
+recorded as 78.4 kg.
+Plan:
+The patient will continue taking sertraline as prescribed. Additionally, the patient will receive sleep
+hygiene counseling. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient was found to be experiencing a major depressive disorder and insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score was 16, indicating significant depressive symptoms. The patient's weight was
+recorded as 78.4 kg.
+Plan:
+The patient will continue taking sertraline and will receive counseling on sleep hygiene techniques. A
+follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient's clinical presentation is consistent with a diagnosis of major depressive disorder and
+insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score is 16, indicating significant depressive symptoms. The patient's weight is 78.4
+kg.
+Plan:
+The patient will continue taking sertraline as directed. Additionally, the patient will receive
+counseling on sleep hygiene techniques. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient is currently being managed for major depressive disorder and insomnia.
+Current Medications:
+- Sertraline 50 mg orally, once daily
+- Trazodone 50 mg orally, as needed at bedtime for sleep
+Observations:
+- The patient's PHQ-9 score was 16, indicating significant depressive symptoms.
+- The patient's weight was recorded as 78.4 kg.
+Plan:
+The patient will continue to take sertraline as prescribed, and will receive counseling on sleep hygiene
+practices. A follow-up appointment is scheduled in 4 weeks.
+CLINIC VISIT NOTE
+Patient: Jordan Lee, MRN: 004-44321, DOB: 1985-07-09
+Date of Visit: 2026-01-27
+Reason for Visit: The patient presented for a follow-up appointment to address ongoing symptoms of
+depression and insomnia.
+Assessment:
+The patient was found to be experiencing a major depressive disorder and insomnia.
+Current Medications:
+The patient is currently taking sertraline 50 mg orally once daily and trazodone 50 mg orally at bedtime
+as needed for sleep.
+Observations:
+The patient's PHQ-9 score was 16, indicating significant depressive symptoms. The patient's weight was
+recorded as 78.4 kg.
+Plan:
+The patient will continue taking sertraline as prescribed. Additionally, the patient will receive sleep
+hygiene counseling. A follow-up appointment is scheduled in 4 weeks.

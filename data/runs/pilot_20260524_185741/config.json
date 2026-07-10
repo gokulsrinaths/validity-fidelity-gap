@@ -1,0 +1,33 @@
+{
+  "project_root": "<project_root>",
+  "data_dir": "<project_root>\\data",
+  "num_patients": 100,
+  "repetition_levels": [
+    1,
+    5,
+    10,
+    16
+  ],
+  "runs_per_condition": 1,
+  "random_seed": 1337,
+  "enable_constant_length_control": false,
+  "extraction_prompt_template": "Extract all medical information from the document into this EXACT schema:\n\n{{\n\"patient_id\": \"\",\n\"conditions\": [],\n\"medications\": [],\n\"observations\": [],\n\"procedures\": []\n}}\n\nRules:\n\n* Return ONLY valid JSON\n* Do not wrap in markdown\n* Do not add extra keys\n* Do not rename fields\n* Arrays must always exist\n* If empty, use []\n\nDocument:\n{document_text}\n",
+  "system_prompt": "You are a backend medical extraction service.\nReturn ONLY valid JSON.\nDo not use markdown.\nDo not use code fences.\nDo not explain.\nDo not add commentary.\nIf information is missing, return empty arrays.\nFollow the exact schema.",
+  "fixed_schema": {
+    "patient_id": "",
+    "conditions": [],
+    "medications": [],
+    "observations": [],
+    "procedures": []
+  },
+  "deepinfra_base_url": "https://api.deepinfra.com/v1/openai",
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "seed": 1337,
+  "max_tokens": 512,
+  "request_timeout_s": 120,
+  "max_retries": 5,
+  "initial_backoff_s": 1.0,
+  "est_chars_per_token": 4.0
+}

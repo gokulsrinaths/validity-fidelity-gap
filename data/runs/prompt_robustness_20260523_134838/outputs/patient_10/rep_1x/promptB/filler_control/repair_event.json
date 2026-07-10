@@ -1,0 +1,40 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"010-77345\",\n  \"conditions\": [\"Acute kidney injury (pre-renal)\", \"Dehydration\"],\n  \"medications\": [\"Normal saline IV fluids\", \"Ondansetron 4 mg ODT\"],\n  \"observations\": [\n    {\"value\": \"2.1\", \"unit\": \"mg/dL\", \"name\": \"Creatinine\"},\n    {\"value\": \"38\", \"unit\": \"mg/dL\", \"name\": \"BUN\"}\n  ],\n  \"procedures\": [\"IV fluid resuscitation\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"010-77345\",\n  \"conditions\": [\"Acute kidney injury (pre-renal)\", \"Dehydration\"],\n  \"medications\": [\"Normal saline IV fluids\", \"Ondansetron 4 mg ODT\"],\n  \"observations\": [\n    {\"value\": \"2.1\", \"unit\": \"mg/dL\", \"name\": \"Creatinine\"},\n    {\"value\": \"38\", \"unit\": \"mg/dL\", \"name\": \"BUN\"}\n  ],\n  \"procedures\": [\"IV fluid resuscitation\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_10",
+    "conditions": [
+      "Acute kidney injury (pre-renal)",
+      "Dehydration"
+    ],
+    "medications": [
+      "Normal saline IV fluids",
+      "Ondansetron 4 mg ODT"
+    ],
+    "observations": [
+      {
+        "value": "2.1",
+        "unit": "mg/dL",
+        "name": "Creatinine"
+      },
+      {
+        "value": "38",
+        "unit": "mg/dL",
+        "name": "BUN"
+      }
+    ],
+    "procedures": [
+      "IV fluid resuscitation"
+    ]
+  }
+}

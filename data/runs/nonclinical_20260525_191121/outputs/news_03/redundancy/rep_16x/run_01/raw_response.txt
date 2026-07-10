@@ -1,0 +1,24 @@
+{
+"doc_id": "WILDFIRE_FORCES_EVACUATIONS_IN_THREE_COUNTIES",
+"events": [
+"Wildfire forces evacuations in three counties",
+"Governor declares state of emergency",
+"Red Flag Warning issued"
+],
+"persons": [
+"Thomas Walsh",
+"Andrea Ruiz"
+],
+"organizations": [
+"Cal Fire",
+"Hemet Fire Department",
+"National Weather Service"
+],
+"locations": [
+"Riverside County",
+"San Bernardino County",
+"Orange County",
+"Hemet",
+"Southern California"
+]
+}

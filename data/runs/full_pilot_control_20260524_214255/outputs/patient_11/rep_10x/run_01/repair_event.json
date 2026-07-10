@@ -1,0 +1,34 @@
+{
+  "raw_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\n\"Asthma\",\n\"Seasonal allergic rhinitis\",\n\"Asthma exacerbation\"\n],\n\"medications\": [\n\"Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze\",\n\"Prednisone 40 mg PO daily x 5 days\",\n\"Cetirizine 10 mg PO daily\"\n],\n\"observations\": [\n\"SpO2 94% on room air\",\n\"Peak flow 320 L/min\"\n],\n\"procedures\": [\n\"Nebulized bronchodilator treatment in ED\"\n] \n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\n\"Asthma\",\n\"Seasonal allergic rhinitis\",\n\"Asthma exacerbation\"\n],\n\"medications\": [\n\"Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze\",\n\"Prednisone 40 mg PO daily x 5 days\",\n\"Cetirizine 10 mg PO daily\"\n],\n\"observations\": [\n\"SpO2 94% on room air\",\n\"Peak flow 320 L/min\"\n],\n\"procedures\": [\n\"Nebulized bronchodilator treatment in ED\"\n] \n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_11",
+    "conditions": [
+      "Asthma",
+      "Seasonal allergic rhinitis",
+      "Asthma exacerbation"
+    ],
+    "medications": [
+      "Albuterol inhaler 90 mcg: 2 puffs inhaled q4-6h PRN wheeze",
+      "Prednisone 40 mg PO daily x 5 days",
+      "Cetirizine 10 mg PO daily"
+    ],
+    "observations": [
+      "SpO2 94% on room air",
+      "Peak flow 320 L/min"
+    ],
+    "procedures": [
+      "Nebulized bronchodilator treatment in ED"
+    ]
+  }
+}

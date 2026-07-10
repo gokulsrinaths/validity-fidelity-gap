@@ -1,0 +1,56 @@
+{
+  "raw_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\n\"Asthma\",\n\"Seasonal allergic rhinitis\"\n],\n\"medications\": [\n{\n\"name\": \"Albuterol inhaler\",\n\"dose\": \"90 mcg\",\n\"frequency\": \"q4-6h\",\n\"route\": \"inhaled\",\n\"prn\": \"wheeze\"\n},\n{\n\"name\": \"Prednisone\",\n\"dose\": \"40 mg\",\n\"frequency\": \"daily\",\n\"route\": \"PO\",\n\"duration\": \"5 days\"\n},\n{\n\"name\": \"Cetirizine\",\n\"dose\": \"10 mg\",\n\"frequency\": \"daily\",\n\"route\": \"PO\"\n}\n],\n\"observations\": [\n{\n\"name\": \"SpO2\",\n\"value\": \"94%\"\n},\n{\n\"name\": \"Peak flow\",\n\"value\": \"320 L/min\"\n}\n],\n\"procedures\": [\n\"Nebulized bronchodilator treatment in ED\"\n]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n\"patient_id\": \"001-88421\",\n\"conditions\": [\n\"Asthma\",\n\"Seasonal allergic rhinitis\"\n],\n\"medications\": [\n{\n\"name\": \"Albuterol inhaler\",\n\"dose\": \"90 mcg\",\n\"frequency\": \"q4-6h\",\n\"route\": \"inhaled\",\n\"prn\": \"wheeze\"\n},\n{\n\"name\": \"Prednisone\",\n\"dose\": \"40 mg\",\n\"frequency\": \"daily\",\n\"route\": \"PO\",\n\"duration\": \"5 days\"\n},\n{\n\"name\": \"Cetirizine\",\n\"dose\": \"10 mg\",\n\"frequency\": \"daily\",\n\"route\": \"PO\"\n}\n],\n\"observations\": [\n{\n\"name\": \"SpO2\",\n\"value\": \"94%\"\n},\n{\n\"name\": \"Peak flow\",\n\"value\": \"320 L/min\"\n}\n],\n\"procedures\": [\n\"Nebulized bronchodilator treatment in ED\"\n]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_51",
+    "conditions": [
+      "Asthma",
+      "Seasonal allergic rhinitis"
+    ],
+    "medications": [
+      {
+        "name": "Albuterol inhaler",
+        "dose": "90 mcg",
+        "frequency": "q4-6h",
+        "route": "inhaled",
+        "prn": "wheeze"
+      },
+      {
+        "name": "Prednisone",
+        "dose": "40 mg",
+        "frequency": "daily",
+        "route": "PO",
+        "duration": "5 days"
+      },
+      {
+        "name": "Cetirizine",
+        "dose": "10 mg",
+        "frequency": "daily",
+        "route": "PO"
+      }
+    ],
+    "observations": [
+      {
+        "name": "SpO2",
+        "value": "94%"
+      },
+      {
+        "name": "Peak flow",
+        "value": "320 L/min"
+      }
+    ],
+    "procedures": [
+      "Nebulized bronchodilator treatment in ED"
+    ]
+  }
+}

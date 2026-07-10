@@ -1,0 +1,7 @@
+{
+"doc_id": "",
+"events": ["The Metropolitan City Council voted 7-2 on Tuesday to approve a $2.4 billion transit expansion plan", "The Metropolitan City Council voted 7-2 on Tuesday to approve a $2.4 billion transit expansion plan", "The Metropolitan City Council voted 7-2 on Tuesday to approve a $2.4 billion transit expansion plan", "The Metropolitan City Council voted 7-2 on Tuesday to approve a $2.4 billion transit expansion plan", "The Metropolitan City Council voted 7-2 on Tuesday to approve a $2.4 billion transit expansion plan", "The Metropolitan City Council voted 7-2 on Tuesday to approve a $2.4 billion transit expansion plan"],
+"persons": ["Mayor Sandra Liu", "Council member James Okonkwo", "Representative Maria Torres", "Councilwoman Ellen Park"],
+"organizations": ["Metropolitan City Council", "Metropolitan Transit Authority"],
+"locations": ["downtown corridor", "Harbor Boulevard"]
+}

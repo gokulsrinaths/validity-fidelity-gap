@@ -1,0 +1,5 @@
+{
+"patient_id": "001-88421",
+"conditions": ["Asthma exacerbation"],
+"medications": [
+  {"name": "Albuterol inhaler", "dosage": "90 mcg", "frequency": "q4-6h", "route": "inhaled", "prn": "w[]

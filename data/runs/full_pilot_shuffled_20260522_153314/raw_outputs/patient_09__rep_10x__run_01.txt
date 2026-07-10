@@ -1,0 +1,15 @@
+{
+"patient_id": "009-99110",
+"conditions": [
+"- Migraine without aura"
+],
+"medications": [
+"- Sumatriptan 50 mg PO at onset of headache; may repeat once in 2 hours",
+"- Propranolol 20 mg PO BID for migraine prevention"
+],
+"observations": [
+"- BP 118/74 mmHg",
+"- Neuro exam: normal"
+],
+"procedures": []
+}

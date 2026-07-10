@@ -1,0 +1,34 @@
+{
+"patient_id": "010-77345",
+"conditions": [
+"Acute kidney injury (pre-renal)",
+"Dehydration"
+],
+"medications": [
+"Normal saline IV fluids (in hospital)",
+"Ondansetron 4 mg ODT q8h PRN nausea"
+],
+"observations": [
+{
+"value": "2.1",
+"unit": "mg/dL",
+"date": "2026-05-10",
+"category": "Creatinine"
+},
+{
+"value": "1.4",
+"unit": "mg/dL",
+"date": "2026-05-11",
+"category": "Creatinine"
+},
+{
+"value": "38",
+"unit": "mg/dL",
+"date": "2026-05-10",
+"category": "BUN"
+}
+],
+"procedures": [
+"IV fluid resuscitation"
+]
+}

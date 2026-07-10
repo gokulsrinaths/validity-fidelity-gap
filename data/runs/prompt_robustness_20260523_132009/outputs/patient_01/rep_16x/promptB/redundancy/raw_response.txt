@@ -1,0 +1,42 @@
+{
+  "patient_id": "001-88421",
+  "conditions": [
+    "Asthma exacerbation"
+  ],
+  "medications": [
+    {
+      "name": "Albuterol inhaler",
+      "dosage": "90 mcg",
+      "route": "inhaled",
+      "frequency": "q4-6h",
+      "reason": "PRN wheeze"
+    },
+    {
+      "name": "Prednisone",
+      "dosage": "40 mg",
+      "route": "PO",
+      "frequency": "daily",
+      "duration": "5 days"
+    },
+    {
+      "name": "Cetirizine",
+      "dosage": "10 mg",
+      "route": "PO",
+      "frequency": "daily"
+    }
+  ],
+  "observations": [
+    {
+      "name": "SpO2",
+      "value": "94%",
+      "unit": "on room air"
+    },
+    {
+      "name": "Peak flow",
+      "value": "320 L/min"
+    }
+  ],
+  "procedures": [
+    "Nebulized bronchodilator treatment in ED"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "raw_text": "{\n  \"patient_id\": \"002-11290\",\n  \"conditions\": [\"Acute appendicitis\"],\n  \"medications\": [\"Ceftriaxone\", \"Metronidazole\", \"Acetaminophen\"],\n  \"observations\": [\"Temp 38.1 C\", \"WBC 14.2 K/uL\"],\n  \"procedures\": [\"Laparoscopic appendectomy\"]\n}",
+  "markdown_fence_present": false,
+  "extracted_json_text": "{\n  \"patient_id\": \"002-11290\",\n  \"conditions\": [\"Acute appendicitis\"],\n  \"medications\": [\"Ceftriaxone\", \"Metronidazole\", \"Acetaminophen\"],\n  \"observations\": [\"Temp 38.1 C\", \"WBC 14.2 K/uL\"],\n  \"procedures\": [\"Laparoscopic appendectomy\"]\n}",
+  "raw_valid_json": true,
+  "malformed_json": false,
+  "schema_match": true,
+  "repair_needed": false,
+  "extra_keys": [],
+  "missing_keys": [],
+  "operations": [
+    "set_patient_id"
+  ],
+  "repaired_obj": {
+    "patient_id": "patient_02",
+    "conditions": [
+      "Acute appendicitis"
+    ],
+    "medications": [
+      "Ceftriaxone",
+      "Metronidazole",
+      "Acetaminophen"
+    ],
+    "observations": [
+      "Temp 38.1 C",
+      "WBC 14.2 K/uL"
+    ],
+    "procedures": [
+      "Laparoscopic appendectomy"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+\begin{table}[t]
+  \centering
+  \small
+  \setlength{\tabcolsep}{5pt}
+  \begin{tabular}{lrrr}
+    \toprule
+    Rep & Condition & Prompt tokens (mean$\pm$sd) & $n$ \\
+    \midrule
+    1$\times$ & filler & 321.0\,$\pm$\,36.8 & 100 \\
+    1$\times$ & redundancy & 320.1\,$\pm$\,36.8 & 100 \\
+    5$\times$ & filler & 676.5\,$\pm$\,107.7 & 100 \\
+    5$\times$ & redundancy & 1032.5\,$\pm$\,183.8 & 100 \\
+    10$\times$ & filler & 1109.2\,$\pm$\,198.4 & 100 \\
+    10$\times$ & redundancy & 1923.0\,$\pm$\,367.5 & 100 \\
+    16$\times$ & filler & 1630.3\,$\pm$\,308.9 & 100 \\
+    16$\times$ & redundancy & 2991.6\,$\pm$\,588.1 & 100 \\
+    \bottomrule
+  \end{tabular}
+  \caption{Backend-reported \texttt{usage.prompt\_tokens} for the 70B 100-patient midrange run (repetitions 1/5/10/16; 1 run/condition). This quantifies that the heuristic token-proxy control does not guarantee equal prompt-token counts.}
+  \label{tab:usage_prompt_tokens_70b}
+\end{table}
